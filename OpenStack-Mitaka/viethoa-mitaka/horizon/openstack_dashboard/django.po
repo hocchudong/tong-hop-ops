@@ -8997,756 +8997,755 @@ msgstr "Không có khả năng thay đổi mật khẩu"
 
 #, python-format
 msgid "Unable to change the volume type for volume: \"%s\""
-msgstr "No se ha podido cambiar el tipo de volumen para el volumen: \"%s\""
+msgstr "Không thể thay đổi kiểu cho volume: \"%s\""
 
 #, python-format
 msgid "Unable to clear gateway for router \"%(name)s\": \"%(msg)s\""
 msgstr ""
-"No se ha podido borrar la puerta de enlace del direccionador \"%(name)s\": "
+"Không thể xóa gateway cho router \"%(name)s\": "
 "\"%(msg)s\""
 
 msgid "Unable to connect to Neutron."
-msgstr "No se ha podido establecer conexión con Neutron."
+msgstr "Không thể kết nối tới Neutron."
 
 msgid "Unable to copy object."
-msgstr "No se ha podido copiar el objeto."
+msgstr "Không thể sao chép đối tượng."
 
 msgid "Unable to create QoS Spec."
-msgstr "No se ha podido crear la especificación de QoS."
+msgstr "Không thể tạo ra đặc tả QoS."
 
 msgid "Unable to create consistency group."
-msgstr "No se ha podido crear el grupo de consistencia."
+msgstr "Không thể tạo ra nhóm nhất quán (CGs)."
 
 msgid "Unable to create container."
-msgstr "No se ha podido crear el contenedor."
+msgstr "Không thể tạo ra container."
 
 #, python-format
 msgid "Unable to create domain \"%s\"."
-msgstr "No se ha podido crear el dominio \"%s\"."
+msgstr "Không thể tạo ra domain \"%s\"."
 
 msgid "Unable to create encrypted volume type."
-msgstr "No se ha podido crear el tipo de volumen cifrado"
+msgstr "Không thể tạo ra kiểu volume đã được mã hóa."
 
 #, python-format
 msgid "Unable to create flavor \"%s\"."
-msgstr "No se ha podido crear el tipo \"%s\"."
+msgstr "Không thể tạo ra bản mẫu \"%s\"."
 
 msgid "Unable to create flavor."
-msgstr "No se ha podido crear el tipo."
+msgstr "Không thể tạo ra bản mẫu."
 
 msgid "Unable to create group."
-msgstr "No se ha podido crear el grupo."
+msgstr "Không thể tạo ra nhóm."
 
 #, python-format
 msgid "Unable to create host aggregate \"%s\"."
-msgstr "No se ha podido crear la agregación de hosts \"%s\"."
+msgstr "Không thể tạo ra tập hợp máy chủ \"%s\"."
 
 msgid "Unable to create host aggregate."
-msgstr "No se ha podido crear la agregación de hosts."
+msgstr "Không thể tạo ra tập hợp máy chủ."
 
 msgid "Unable to create identity provider protocol."
-msgstr "No se ha podido crear el protocolo de proveedor de identidad."
+msgstr "Không thể tạo ra giao thức định danh nhà cung cấp."
 
 #, python-format
 msgid "Unable to create key pair: %(exc)s"
-msgstr "No se ha podido crear el par de claves: %(exc)s"
+msgstr "Không thể tạo ra cặp khóa: %(exc)s"
 
 msgid "Unable to create mapping."
-msgstr "No se ha podido crear la correlación."
+msgstr "Không thể tạo ra ánh xạ."
 
 msgid "Unable to create mapping. Rules has malformed JSON data."
 msgstr ""
-"No se ha podido crear la correlación. Las reglas contienen datos JSON mal "
-"formados."
+"Không thể tạo ra ánh xạ. Quy tắc có dữ liệu JSON không đúng định dạng "
+"chuẩn."
 
 #, python-format
 msgid "Unable to create network \"%s\"."
-msgstr "No se ha podido crear la red \"%s\"."
+msgstr "Không thể tạo ra mạng \"%s\"."
 
 msgid "Unable to create new image"
-msgstr "No se ha podido crear la nueva imagen"
+msgstr "Không thể tạo ra image mới"
 
 msgid "Unable to create new image: Image name too long."
 msgstr ""
-"No se ha podido crear la nueva imagen: el nombre de la imagen es demasiado "
-"largo."
+"Không thể tạo ra image mới: Tên image quá "
+"dài."
 
 #, python-format
 msgid "Unable to create new image: Invalid disk format %s for image."
 msgstr ""
-"No se ha podido crear la nueva imagen: Formato de disco no válido %s para la "
-"imagen."
+"Không thể tạo ra image mới: Định dạng đĩa không hợp lệ %s cho "
+"image."
 
 msgid "Unable to create new image: URL scheme not supported."
-msgstr "No se ha podido crear nueva imagen: Esquema de URL no admitido."
+msgstr "Không thể tạo ra image mới: URL scheme không được hỗ trợ."
 
 #, python-format
 msgid "Unable to create new namespace. %s"
-msgstr "No se ha podido crear el espacio de nombres nuevo: %s"
+msgstr "Không thể tạo ra namespace mới: %s"
 
 #, python-format
 msgid "Unable to create port for profile \"%(profile_id)s\": %(reason)s"
 msgstr ""
-"No se ha podido crear el puerto para el perfil \"%(profile_id)s\": %(reason)s"
+"Không thể tạo ra port cho profile \"%(profile_id)s\": %(reason)s"
 
 #, python-format
 msgid "Unable to create project \"%s\"."
-msgstr "No se ha podido crear el proyecto \"%s\"."
+msgstr "Không thể tạo ra project \"%s\"."
 
 msgid "Unable to create pseudo-folder."
-msgstr "No se ha podido crear la pseudo-carpeta."
+msgstr "Không thể tạo ra thư mục giả."
 
 msgid "Unable to create role."
-msgstr "No se ha podido crear el rol."
+msgstr "Không thể tạo ra role."
 
 #, python-format
 msgid "Unable to create security group: %s"
-msgstr "No se ha podido crear el grupo de seguridad: %s"
+msgstr "Không thể tạo ra nhóm bảo mật: %s"
 
 msgid "Unable to create snapshot."
-msgstr "No se ha podido crear la instantánea."
+msgstr "Không thể tạo ra snapshot."
 
 msgid "Unable to create spec."
-msgstr "No se ha podido crear la especificación."
+msgstr "Không thể tạo ra đặc tả."
 
 #, python-format
 msgid "Unable to create subnet \"%s\"."
-msgstr "No se ha podido crear la subred \"%s\"."
+msgstr "Không thể tạo ra mạng con \"%s\"."
 
 msgid "Unable to create user."
-msgstr "No se ha podido crear el usuario."
+msgstr "Không thể tạo ra người dùng."
 
 msgid "Unable to create volume backup."
-msgstr "No se ha podido crear la copia de seguridad del volumen."
+msgstr "Không thể tạo ra bản sao của volume."
 
 msgid "Unable to create volume snapshot."
-msgstr "No se ha podido crear la instantánea del volumen."
+msgstr "Không thể tạo ra snapshot cho volume."
 
 msgid "Unable to create volume transfer."
-msgstr "No es posible crear transferencia de volumen"
+msgstr "Không thể tạo ra volume transfer"
 
 msgid "Unable to create volume type extra spec."
-msgstr "No se ha podido crear la especificación adicional del tipo de volumen"
+msgstr "Không thể tạo ra kiểu volume có nhiều đặc tả."
 
 msgid "Unable to create volume type."
-msgstr "No se ha podido crear el tipo de volumen."
+msgstr "Không thể tạo ra kiểu volume."
 
 msgid "Unable to create volume."
-msgstr "No se ha podido crear el volumen."
+msgstr "Không thể tạo ra volume."
 
 #, python-format
 msgid "Unable to delete IKE Policy. %s"
-msgstr "No se ha podido suprimir la política IKE. %s"
+msgstr "Không thể xóa chính sách IKE. %s"
 
 #, python-format
 msgid "Unable to delete IPSec Policy. %s"
-msgstr "No se ha podido suprimir la política IPSec. %s"
+msgstr "Không thể xóa chính sách IPSec. %s"
 
 #, python-format
 msgid "Unable to delete IPSec Site Connection. %s"
-msgstr "No se ha podido eliminar la conexión sitio a sitio IPSec. %s"
+msgstr "Không thể xóa kết nối IPSec. %s"
 
 #, python-format
 msgid "Unable to delete VIP. %s"
-msgstr "No se ha podido suprimir la VIP. %s"
+msgstr "VIP không thể bị xóa. %s"
 
 #, python-format
 msgid "Unable to delete VPN Service. %s"
-msgstr "No se ha podido eliminar el servicio VPN. %s"
+msgstr "Không thể xóa dịch vụ VPN. %s"
 
 msgid "Unable to delete consistency group."
-msgstr "No se ha podido suprimir el grupo de consistencia."
+msgstr "Không thể xóa nhóm nhất quán (CGs)."
 
 msgid "Unable to delete container."
-msgstr "No se ha podido eliminar el contenedor."
+msgstr "Không thể xóa container."
 
 #, python-format
 msgid "Unable to delete firewall. %s"
-msgstr "No se ha podido suprimir el cortafuegos. %s"
+msgstr "Không thể xóa firewall. %s"
 
 #, python-format
 msgid "Unable to delete member. %s"
-msgstr "No se ha podido suprimir el miembro. %s"
+msgstr "Không thể xóa thành viên. %s"
 
 #, python-format
 msgid "Unable to delete monitor. %s"
-msgstr "No se ha podido suprimir el supervisor. %s"
+msgstr "Không thể xóa monitor. %s"
 
 #, python-format
 msgid "Unable to delete policy. %s"
-msgstr "No se ha podido suprimir la política. %s"
+msgstr "Không thể xóa chính sách. %s"
 
 #, python-format
 msgid "Unable to delete pool. %s"
-msgstr "No se ha podido suprimir la agrupación. %s"
+msgstr "Không thể xóa pool. %s"
 
 #, python-format
 msgid "Unable to delete router \"%s\""
-msgstr "No se ha podido borrar el direccionador \"%s\""
+msgstr "Không thể xóa router \"%s\""
 
 msgid "Unable to delete router rule."
-msgstr "No se ha podido suprimir la regla del direccionador."
+msgstr "Không thể xóa quy định router."
 
 #, python-format
 msgid "Unable to delete rule. %s"
-msgstr "No se ha podido suprimir la regla. \"%s\""
+msgstr "Không thể xóa quy định. \"%s\""
 
 msgid "Unable to delete volume transfer."
-msgstr "No se ha podido suprimir la transferencia de volumen."
+msgstr "Không thể xóa volume transfer."
 
 msgid "Unable to detach interface."
-msgstr "No se ha podido desconectar la interfaz."
+msgstr "Không thể tách interface."
 
 msgid "Unable to determine if availability zones extension is supported."
 msgstr ""
-"No se ha podido determinar si la ampliación de las zonas de disponibilidad "
-"está soportada."
+"Không thể xác định được vùng mở rộng có sẵn "
+"được hỗ trợ."
 
 msgid "Unable to determine if volume type encryption is supported."
 msgstr ""
-"No se puede determinar si el cifrado del tipo de volumen está soportado."
+"Không thể xác định được kiểu volume đã mã hóa được hỗ trợ."
 
 msgid "Unable to disassociate floating IP."
-msgstr "No se ha podido desasociar la IP flotante."
+msgstr "Không thể gỡ bỏ VIP."
 
 msgid "Unable to disassociate monitor."
-msgstr "No se ha podido desasociar el supervisor."
+msgstr "Không thể gỡ bỏ monitor."
 
 msgid "Unable to edit consistency group"
-msgstr "No se ha podido editar el grupo de consistencia"
+msgstr "Không thể sửa nhóm nhất quán (CGs)"
 
 msgid "Unable to edit consistency group."
-msgstr "No se ha podido editar el grupo de consistencia."
+msgstr "Không thể sửa nhóm nhất quán (CGs)."
 
 msgid "Unable to edit spec."
-msgstr "No se ha podido editar la especificación."
+msgstr "Không thể chỉnh sửa đặc tả."
 
 msgid "Unable to edit volume type extra spec."
-msgstr "No se ha podido editar la especificación adicional del tipo de volumen"
+msgstr "Không thể chỉnh sửa kiểu volume có nhiều đặc tả."
 
 msgid "Unable to extend volume."
-msgstr "No se ha podido ampliar el volumen."
+msgstr "Không thể mở rộng volume."
 
 msgid "Unable to fetch EC2 credentials."
-msgstr "No se han podido captar las credenciales EC2."
+msgstr "Không thể lấy lại chứng chỉ EC2."
 
 msgid "Unable to find default role."
-msgstr "No se ha podido encontrar el rol predeterminado."
+msgstr "Không tìm thấy role mặc định."
 
 msgid "Unable to get EC2 credentials"
-msgstr "No se han podido obtener las credenciales EC2"
+msgstr "Không lấy được chứng chỉ EC2"
 
 msgid "Unable to get Orchestration service list."
-msgstr "No se ha podido obtener la lista de servicios de orquestación."
+msgstr "Không lấy được được danh sách dịch vụ Orchestration."
 
 #, python-format
 msgid "Unable to get RDP console for instance \"%s\"."
-msgstr "No se ha podido obtener la consola RDP para la instancia \"%s\"."
+msgstr "Không lấy được RDP console cho instance \"%s\"."
 
 #, python-format
 msgid "Unable to get SPICE console for instance \"%s\"."
-msgstr "No se ha podido obtener la consola SPICE de la instancia \"%s\"."
+msgstr "Không lấy được SPICE console cho instance \"%s\"."
 
 #, python-format
 msgid "Unable to get VIP for pool %(pool)s."
-msgstr "No se ha podido obtener el VIP de la agrupación %(pool)s."
+msgstr "Không lấy được VIP cho %(pool)s."
 
 #, python-format
 msgid "Unable to get VNC console for instance \"%s\"."
-msgstr "No se ha podido obtener la consola VNC de la instancia \"%s\"."
+msgstr "Không nhận được VNC console cho instance \"%s\"."
 
 msgid "Unable to get cinder services list."
-msgstr "No se ha podido obtener la lista de servicios de cinder"
+msgstr "Không lấy được danh sách dịch vụ Cinder."
 
 msgid "Unable to get consistency group list"
-msgstr "No se ha podido obtener la lista de grupos de consistencia"
+msgstr "Không lấy được danh sách nhóm nhất quán (CGs)"
 
 #, python-format
 msgid "Unable to get events for stack \"%s\"."
-msgstr "No se han podido obtener sucesos para la pila \"%s\"."
+msgstr "Không lấy được các sự kiện cho ngăn xếp \"%s\"."
 
 msgid "Unable to get flavor list"
-msgstr "No se ha podido obtener la lista de tipos"
+msgstr "Không lấy được danh sách bản mẫu"
 
 #, python-format
 msgid "Unable to get health monitor %(monitor_id)s for pool %(pool)s."
 msgstr ""
-"No se ha podido obtener el monitor de estado%(monitor_id)s de la agrupación "
+"Không lấy được health monitor %(monitor_id)s cho pool "
 "%(pool)s."
 
 msgid "Unable to get host aggregate list"
-msgstr "No se ha podido obtener la lista de agregaciones de hosts"
+msgstr "Không lấy được danh sách tập hợp các máy chủ"
 
 #, python-format
 msgid "Unable to get log for instance \"%s\"."
-msgstr "No se ha podido obtener el registro de la instancia \"%s\"."
+msgstr "Không lấy được log cho instance \"%s\"."
 
 #, python-format
 msgid "Unable to get members for pool %(pool)s."
-msgstr "No se han podido obtener los miembros de la agrupación %(pool)s."
+msgstr "Không lấy được các thành viên của %(pool)s."
 
 msgid "Unable to get network agents info."
-msgstr "No se ha podido obtener información de los agentes de red."
+msgstr "Không lấy được thông tin cho network agents."
 
 msgid "Unable to get network agents list."
-msgstr "No se ha podido obtener la lista de agentes de red."
+msgstr "Không lấy được thông tin danh sách network agents."
 
 msgid "Unable to get nova services list."
-msgstr "No se ha podido obtener la lista de servicios de nova."
+msgstr "Không lấy được danh sách dịch vụ Nova."
 
 msgid "Unable to get openrc credentials"
-msgstr "No se han podido obtener las credenciales openrc"
+msgstr "Không lấy được chứng chỉ openrc"
 
 msgid "Unable to get pool detail."
-msgstr "No se han podido obtener los detalles de la agrupación."
+msgstr "Không lấy được chi tiết về pool."
 
 msgid "Unable to get quota info."
-msgstr "No se ha podido obtener la información de la cuota."
+msgstr "Không thể lấy thông tin quota."
 
 #, python-format
 msgid "Unable to get resources for stack \"%s\"."
-msgstr "No se han podido obtener recursos para la pila \"%s\"."
+msgstr "Không thể lấy được tài nguyên cho ngăn xếp \"%s\"."
 
 #, python-format
 msgid "Unable to get subnet \"%s\""
-msgstr "No se ha podido obtener la subred \"%s\""
+msgstr "Không lấy được mạng con \"%s\""
 
 #, python-format
 msgid "Unable to get subnet for pool %(pool)s."
-msgstr "No se ha podido obtener la subred de la agrupación%(pool)s."
+msgstr "Không lấy được mạng con cho pool %(pool)s."
 
 msgid "Unable to get the available hosts"
-msgstr "No se han podido obtener las agregaciones de hosts."
+msgstr "Không thể lấy các máy chủ có sẵn."
 
 msgid "Unable to get the available volume types"
-msgstr "No se han podido obtener los tipos de volumen disponibles"
+msgstr "Không thể lấy được các kiểu volume có sẵn."
 
 msgid "Unable to get the available volumes"
-msgstr "No se han podido obtener los volúmenes disponibles"
+msgstr "Không lấy được các volume có sẵn"
 
 msgid "Unable to get volume type list"
-msgstr "No se ha podido obtener la lista de tipos de volumen"
+msgstr "Không lấy được danh sách kiểu volume"
 
 msgid "Unable to import key pair."
-msgstr "No se ha podido importar el par de claves."
+msgstr "Không thể nhập vào cặp khóa."
 
 msgid "Unable to initialize subnetpools"
-msgstr "No se han podido inicializar las agrupaciones de subred"
+msgstr "Không khởi tạo được các pool mạng con"
 
 #, python-format
 msgid "Unable to launch %(count)s named \"%(name)s\"."
-msgstr "No se ha podido iniciar %(count)s con el nombre \"%(name)s\"."
+msgstr "Không thể khởi chạy %(count)s được đặt tên \"%(name)s\"."
 
 msgid "Unable to list containers."
-msgstr "No se han podido listar los contenedores."
+msgstr "Không liệt kê được containers."
 
 msgid "Unable to list dhcp agents hosting network."
-msgstr "No se han podido enumerar los agentes dhcp que alojan la red."
+msgstr "Không thể liệt kê DHCP Agents lưu trữ mạng."
 
 #, python-format
 msgid "Unable to load the specified image. %s"
-msgstr "No se ha podido cargar la imagen especificada. %s"
+msgstr "Không thể nạp image được chỉ định. %s"
 
 msgid "Unable to load the specified snapshot."
-msgstr "No se ha podido cargar la instantánea especificada."
+msgstr "Không thể nạp snapshot được chỉ định."
 
 #, python-format
 msgid "Unable to load the specified volume. %s"
-msgstr "No se ha podido cargar el volumen especificado. %s"
+msgstr "Không thể nạp volume được chỉ định. %s"
 
 #, python-format
 msgid "Unable to locate VIP to delete. %s"
-msgstr "No se ha podido localizar la VIP a suprimir. %s"
+msgstr "Không xác định được VIP cần xóa. %s"
 
 msgid "Unable to lookup volume or backup information."
 msgstr ""
-"No se ha podido realizar una búsqueda sobre la información de la copia de "
-"seguridad o el volumen."
+"Không thể thực hiện tìm kiếm thông tin bản sao "
+"hoặc thông tin của volume."
 
 msgid "Unable to manage volume."
-msgstr "No se ha podido gestionar el volumen."
+msgstr "Không thể quản lý volume."
 
 #, python-format
 msgid "Unable to modify domain \"%s\"."
-msgstr "No se ha podido modificar el dominio \"%s\"."
+msgstr "Không thể sửa đổi tên miền \"%s\"."
 
 #, python-format
 msgid "Unable to modify flavor \"%s\"."
-msgstr "No se ha podido modificar el tipo \"%s\"."
+msgstr "Không thể sửa đổi bản mẫu \"%s\"."
 
 #, python-format
 msgid "Unable to modify instance \"%s\"."
-msgstr "No se ha podido modificar la instancia \"%s\"."
+msgstr "Không thể sửa đổi instance \"%s\"."
 
 #, python-format
 msgid "Unable to modify project \"%s\"."
-msgstr "No se ha podido modificar el proyecto \"%s\"."
+msgstr "Không thể sửa đổi project \"%s\"."
 
 #, python-format
 msgid "Unable to parse IP address %s."
-msgstr "No se ha podido analizar la dirección IP %s."
+msgstr "Không thể phân giải địa chỉ IP %s."
 
 msgid "Unable to rebuild instance."
-msgstr "No se ha podido reconstruir la instancia."
+msgstr "Không thể tạo lại instance."
 
 msgid "Unable to recreate ec2 credentials. Failed to create ec2 credentials."
 msgstr ""
-"No se han podido recrear las credenciales ec2. Se ha producido un fallo al "
-"crear las credenciales ec2."
+"Không thể tạo lại chứng chỉ EC2. Đã xảy ra lỗi "
+"khi tạo chứng chỉ EC2."
 
-msgid "Unable to recreate ec2 credentials. Failed to delete ec2 credentials."
+msgid "Unable to recreate EC2 credentials. Failed to delete ec2 credentials."
 msgstr ""
-"No se han podido recrear las credenciales ec2. Se ha producido un fallo al "
-"suprimir las credenciales ec2."
+"Không thể tạo lại chứng chỉ EC2. Đã xảy ra lỗi "
+"khi xóa chứng chỉ EC2."
 
 msgid "Unable to register identity provider."
-msgstr "No se ha podido registrar el proveedor de identidad."
+msgstr "Không đăng ký được nhà cung cấp định danh."
 
 msgid ""
 "Unable to register identity provider. Please check that the Identity "
 "Provider ID and Remote IDs provided are not already in use."
 msgstr ""
-"No se ha podido registrar el proveedor de identidad. Compruebe que el ID del "
-"Proveedor de Identidad y los IDs Remotos no se están ya utilizando."
+"Không đăng ký được nhà cung cấp định danh. Vui lòng kiểm tra lại "
+"ID nhà cung cấp và Remote IDs được cung cấp là có thể sử dụng được."
 
 #, python-format
 msgid "Unable to resize instance \"%s\"."
-msgstr "No se ha podido redimensionar la instancia \"%s\"."
+msgstr "Không thể thay đổi kích thước của instance \"%s\"."
 
 msgid "Unable to restore backup."
-msgstr "No se ha podido restaurar la copia de seguridad."
+msgstr "Không phục hồi được bản sao."
 
 msgid "Unable to retrieve Ceilometer meter list."
-msgstr "No se ha podido obtener la lista de medidas de Ceilometer"
+msgstr "Không khôi phục được danh sách đo Ceilometer"
 
 msgid "Unable to retrieve IKE Policies list."
-msgstr "No se ha podido obtener la lista de políticas IKE."
+msgstr "Không khôi phục được các chính sách IKE."
 
 msgid "Unable to retrieve IKE Policy details."
-msgstr "No se han podido recuperar los detalles de la política IKE."
+msgstr "Không khôi phục được chi tiết chính sách IKE."
 
 #, python-format
 msgid "Unable to retrieve IKE Policy details. %s"
-msgstr "No se han podido recuperar los detalles de la política IKE. %s"
+msgstr "Không khôi phục được chi tiết chính sách IKE. %s"
 
 #, python-format
 msgid ""
 "Unable to retrieve IP addresses from Neutron for instance \"%(name)s"
 "\" (%(id)s)."
 msgstr ""
-"No se han podido recuperar las direcciones IP de Neutron para la instancia "
+"Không thể tìm lại địa chỉ IP từ Neutron cho instance "
 "\"%(name)s\" (%(id)s)."
 
 msgid "Unable to retrieve IP addresses from Neutron."
-msgstr "No se han podido obtener las direcciones IP desde Neutron."
+msgstr "Không thể tìm lại địa chỉ IP từ Neutron."
 
 msgid "Unable to retrieve IPSec Policies list."
-msgstr "No se ha podido obtener la lista de políticas IPSec."
+msgstr "Không thể tìm lại các chính sách IPSec."
 
 msgid "Unable to retrieve IPSec Policy details."
-msgstr "No se han podido recuperar los detalles de la política IPSec."
+msgstr "Không thể lấy lại chi tiết chính sách IPSec."
 
 #, python-format
 msgid "Unable to retrieve IPSec Policy details. %s"
-msgstr "No se han podido recuperar los detalles de la política IPsec. %s"
+msgstr "Không thể tìm lại được chi tiết chính sách IPsec. %s"
 
 msgid "Unable to retrieve IPSec Site Connection details."
 msgstr ""
-"No se han podido recuperar los detalles sobre la conexión sitio a sitio "
+"Không thể tìm lại chi tiết kết nối "
 "IPSec."
 
 #, python-format
 msgid "Unable to retrieve IPSec Site Connection details. %s"
 msgstr ""
-"No se han podido recuperar los detalles de la conexión a sitio IPsec. %s"
+"Không thể tìm lại chi tiết kết nối IPsec. %s"
 
 msgid "Unable to retrieve IPSec Site Connections list."
-msgstr "No se ha podido obtener la lista de conexiones sitio a sitio IPSec."
+msgstr "Không thể tìm lại danh sách kết nối IPSec."
 
 #, python-format
 msgid "Unable to retrieve Network information for instance \"%s\"."
 msgstr ""
-"No se ha podido recuperar la información de red para la instancia \"%s\"."
+"Không thể tìm lại thông tin mạng cho instance \"%s\"."
 
 msgid "Unable to retrieve Nova availability zones."
-msgstr "No se ha podido recuperar las zonas de disponibilidad de Nova."
+msgstr "Không tìm thấy vùng có sẵn trong Nova."
 
 msgid "Unable to retrieve QoS Spec association."
-msgstr "No se ha podido recuperar la asociación de la especificación QoS."
+msgstr "Không tìm thấy liên kết trong đặc tả QoS."
 
 msgid "Unable to retrieve QoS Spec details."
 msgstr ""
-"No se ha podido recuperar la información detallada de la especificación QoS"
+"Không tìm thấy chỉ tiết đặc tả QoS"
 
 msgid "Unable to retrieve QoS Specs."
-msgstr "No se han podido recuperar las especificaciones QoS."
+msgstr "Không thể tìm thấy các đặc tả QoS."
 
 msgid "Unable to retrieve QoS spec details."
-msgstr "No se han podido recuperar de detalles de la especificación QoS."
+msgstr "Không thể tìm thấy các thông tin đặc tả QoS."
 
 msgid "Unable to retrieve QoS spec list."
-msgstr "No se ha podido recuperar la lista de especificaciones QoS"
+msgstr "Không thể tìm thấy danh sách đặc tả QoS"
 
 msgid "Unable to retrieve QoS specs"
-msgstr "No se han podido recuperar las especificaciones QoS"
+msgstr "Không thể tìm thấy các đặc tả QoS"
 
 msgid "Unable to retrieve VIP details."
-msgstr "No se han podido recuperar los detalles de la VIP."
+msgstr "Không tìm thấy các thông tin của VIP."
 
 #, python-format
 msgid "Unable to retrieve VIP details. %s"
-msgstr "No se han podido recuperar los detalles de la VIP. %s"
+msgstr "Không tìm thấy các thông tin của VIP. %s"
 
 msgid "Unable to retrieve VPN Service details."
-msgstr "No se han podido recuperar los detalles del servicio VPN."
+msgstr "Không tìm thấy thông tin dịch vụ VPN."
 
 #, python-format
 msgid "Unable to retrieve VPN Service details. %s"
-msgstr "No se han podido recuperar los detalles del servicio VPN. %s"
+msgstr "Không tìm thấy thông tin dịch vụ VPN. %s"
 
 msgid "Unable to retrieve VPN Services list."
-msgstr "No se ha podido obtener la lista de servicios VPN."
+msgstr "Không tìm thấy danh sách dịch vụ VPN."
 
 #, python-format
 msgid "Unable to retrieve a list of external networks \"%s\"."
-msgstr "No se ha podido recuperar la lista de redes externas \"%s\"."
+msgstr "Không lấy được danh sách các mạng bên ngoài \"%s\"."
 
 msgid "Unable to retrieve agent list."
-msgstr "No se ha podido obtener la lista de agentes."
+msgstr "Không thể tìm thấy danh sách agent."
 
 #, python-format
 msgid "Unable to retrieve an external network \"%s\"."
-msgstr "No se ha podido recuperar una red externa \"%s\"."
+msgstr "Không thể tìm thấy một mạng bên ngoài \"%s\"."
 
 msgid "Unable to retrieve attachment information."
-msgstr "No se ha podido obtener información de la asociación."
+msgstr "Không tìm thấy thông tin đính kèm."
 
 msgid "Unable to retrieve availability zone list."
-msgstr "No se ha podido obtener la lista de zonas de disponibilidad."
+msgstr "Không tìm thấy danh sách vùng sẵn có."
 
 msgid "Unable to retrieve availability zones."
-msgstr "No se han podido recuperar las zonas de disponibilidad."
+msgstr "Không tìm thấy các vùng sẵn có."
 
 msgid "Unable to retrieve backup details."
-msgstr "No se han podido recuperar los detalles de la copia de seguridad."
+msgstr "Không tìm thấy bản sao chi tiết."
 
 msgid "Unable to retrieve compute host information."
-msgstr "No se ha podido obtener la información del host de computación."
+msgstr "Không tìm thấy thông tin máy chủ compute."
 
 msgid "Unable to retrieve compute limit information."
-msgstr "No se ha podido obtener la información del límite de cálculo."
+msgstr "Không tìm thấy thông tin giới hạn compute."
 
 msgid "Unable to retrieve consistency group details."
-msgstr "No se han podido recuperar los detalles del grupo de consistencia."
+msgstr "Không tìm thấy thông tin nhóm nhất quán (CGs)."
 
 msgid "Unable to retrieve container list."
-msgstr "No se ha podido recuperar la lista de contenedores."
+msgstr "Không thể tìm thấy danh sách container."
 
 msgid "Unable to retrieve default Neutron quota values."
 msgstr ""
-"No se han podido recuperar los valores predeterminados de cuota de Neutron."
+"Không tìm thấy các giá trị mặc định quota trong Neutron."
 
 msgid "Unable to retrieve default quota values."
-msgstr "No se han podido obtener los valores predeterminados de la cuota."
+msgstr "Không tìm thấy các giá trị mặc định quota."
 
 #, python-format
 msgid "Unable to retrieve details for instance \"%s\"."
-msgstr "No se han podido recuperar los detalles de la instancia \"%s\"."
+msgstr "Không tìm thấy thông tin cho instance \"%s\"."
 
 #, python-format
 msgid "Unable to retrieve details for keypair \"%s\"."
 msgstr ""
-"No se ha podido recuperar la información detallada del par de claves \"%s\"."
+"Không thể lấy thông tin cho cặp khóa \"%s\"."
 
 #, python-format
 msgid "Unable to retrieve details for network \"%s\"."
-msgstr "No se han podido obtener los detalles de la red \"%s\"."
+msgstr "Không thể lấy lại thông tin cho mạng \"%s\"."
 
 #, python-format
 msgid "Unable to retrieve details for router \"%s\"."
-msgstr "No se han podido recuperar los detalles para el direccionador\"%s\"."
+msgstr "Không thể tìm thấy các thông tin cho router \"%s\"."
 
 msgid "Unable to retrieve details."
-msgstr "No se han podido recuperar los detalles."
+msgstr "Không tìm thấy các chi tiết."
 
 msgid "Unable to retrieve domain details."
-msgstr "No se han podido obtener los detalles del dominio."
+msgstr "Không tìm thấy các chi tiết tên miền."
 
 msgid "Unable to retrieve domain information."
-msgstr "No se ha podido obtener la información del dominio."
+msgstr "Không tìm thấy thông tin tên miền."
 
 msgid "Unable to retrieve domain list."
-msgstr "No se ha podido obtener la lista de dominios."
+msgstr "Không tìm thấy danh sách tên miền."
 
 msgid "Unable to retrieve encryption type."
-msgstr "No se ha podido recuperar el tipo de cifrado"
+msgstr "Không thể phục hồi kiểu mã hóa"
 
 msgid "Unable to retrieve extensions information"
-msgstr "No es posible recuperar la información de las extensiones"
+msgstr "Không thể tìm thấy thông tin việc mở rộng"
 
 msgid "Unable to retrieve extensions information."
-msgstr "No se ha podido obtener la información de las extensiones."
+msgstr "Không thể tìm thấy thông tin việc mở rộng."
 
 msgid "Unable to retrieve extra spec list."
-msgstr "No se ha podido recuperar la lista de especificaciones adicionales."
+msgstr "Không tìm thấy danh sách đặc tả."
 
 msgid "Unable to retrieve firewall details."
-msgstr "No se han podido recuperar los detalles del cortafuegos."
+msgstr "Không tìm thấy chi tiết về firewall."
 
 msgid "Unable to retrieve firewall list."
-msgstr "No se ha podido obtener la lista de cortafuegos."
+msgstr "Không tìm thấy danh sách firewall."
 
 msgid "Unable to retrieve flavor access list. Please try again later."
 msgstr ""
-"No se ha podido obtener la lista de acceso de tipos. Inténtelo de nuevo más "
-"tarde."
+"Không tìm thấy danh sách truy cập instance. Vui lòng kiểm tra lại sau."
 
 msgid "Unable to retrieve flavor details."
-msgstr "No se han podido obtener los detalles del tipo."
+msgstr "Không tìm thấy các chi tiết về instance."
 
 #, python-format
 msgid ""
 "Unable to retrieve flavor information for instance \"%(name)s\" (%(id)s)."
 msgstr ""
-"No se ha podido recuperar la información del tipo para la instancia "
+"Không thể tìm thấy thông tin cho instance "
 "\"%(name)s\" (%(id)s)."
 
 #, python-format
 msgid "Unable to retrieve flavor information for instance \"%s\"."
 msgstr ""
-"No se ha podido recuperar información del tipo para la instancia \"%s\"."
+"Không thể tìm thấy thông tin cho instance \"%s\"."
 
 msgid "Unable to retrieve flavor list."
-msgstr "No se ha podido obtener la lista de tipos."
+msgstr "Không thể tìm thấy danh sách instance."
 
 msgid "Unable to retrieve flavors."
-msgstr "No se han podido recuperar los tipos."
+msgstr "Không thể tìm thấy instances."
 
 msgid "Unable to retrieve floating IP addresses."
-msgstr "No se ha podido recuperar la lista de direcciones IP flotantes."
+msgstr "Không thể tìm thấy địa chỉ VIP."
 
 msgid "Unable to retrieve floating IP pools."
-msgstr "No se han podido recuperar las agrupaciones de IP flotantes."
+msgstr "Không thể tìm thấy VIP pools."
 
 msgid "Unable to retrieve group list."
-msgstr "No se ha podido recuperar la lista del grupo."
+msgstr "Không thể tìm thấy danh sách nhóm."
 
 msgid "Unable to retrieve group list. Please try again later."
 msgstr ""
-"No se ha podido recuperar la lista de grupos. Inténtelo de nuevo más tarde."
+"Không thể tìm thấy danh sách nhóm. Vui lòng thử lại sau."
 
 msgid "Unable to retrieve group users."
-msgstr "No se han podido recuperar los usuarios del grupo."
+msgstr "Không tìm thấy nhóm người dùng."
 
 #, python-format
 msgid "Unable to retrieve health monitor details. %s"
-msgstr "No se han podido recuperar los detalles del supervisor de estado. %s"
+msgstr "Không thể tìm thấy chi tiết về health monitor. %s"
 
 msgid "Unable to retrieve host aggregates list."
-msgstr "No se ha podido obtener la lista de agregados del host."
+msgstr "Không tìm thấy danh sách các tập hợp máy chủ."
 
 msgid "Unable to retrieve host information."
-msgstr "No se ha podido recuperar la información del host."
+msgstr "Không tìm thấy thông tin máy chủ."
 
 msgid "Unable to retrieve hypervisor information."
-msgstr "No se ha podido obtener la información del hipervisor."
+msgstr "Không tìm thấy thông tin hypervisor."
 
 msgid "Unable to retrieve hypervisor instances list."
-msgstr "No se ha podido obtener la lista de instancias por hipervisor"
+msgstr "Không thể tìm thấy danh sách hypervisor instance."
 
 msgid "Unable to retrieve hypervisor statistics."
-msgstr "No se han podido obtener las estadísticas del hipervisor."
+msgstr "Không thể tìm thấy các thống kê hypervisor."
 
 msgid "Unable to retrieve identity provider information."
-msgstr "No se ha podido recuperar la información del proveedor de identidad."
+msgstr "Không thể tìm thấy thông tin định danh nhà cung cấp."
 
 msgid "Unable to retrieve identity provider list."
-msgstr "No se ha podido recuperar la lista de proveedores de identidad."
+msgstr "Không tìm thấy danh sách định danh nhà cung cấp."
 
 msgid "Unable to retrieve image details."
-msgstr "No se hna podido obtener los detalles de la imagen."
+msgstr "Không thể tìm thấy các chi tiết image."
 
 msgid "Unable to retrieve image list."
-msgstr "No se ha podido obtener la lista de imágenes."
+msgstr "Không tìm thấy danh sách image."
 
 msgid "Unable to retrieve image."
-msgstr "No se ha podido obtener la imagen."
+msgstr "Không thể tìm thấy image."
 
 msgid "Unable to retrieve images"
-msgstr "No se han podido recuperar las imágenes."
+msgstr "Không thể tìm thấy images."
 
 msgid "Unable to retrieve images for the current project."
-msgstr "No se han podido recuperar imágenes para el proyecto actual."
+msgstr "Không thể tìm thấy image cho project hiện tại."
 
 msgid "Unable to retrieve images."
-msgstr "No se han podido recuperar las imágenes."
+msgstr "Không tìm thấy images."
 
 msgid "Unable to retrieve information about the networks' projects."
-msgstr "No se ha podido recuperar la información sobre los proyectos de redes."
+msgstr "Không thể tìm thấy thông tin về mạng của projects."
 
 msgid "Unable to retrieve instance action list."
-msgstr "No se ha podido recuperar la lista de acciones de la instancia."
+msgstr "Không thể tìm thấy danh sách thực thi của instance."
 
 msgid "Unable to retrieve instance details."
-msgstr "No se ha podido obtener la información detallada de las instancias."
+msgstr "Không tìm thấy các chi tiết về instance."
 
 msgid "Unable to retrieve instance flavors."
-msgstr "No se han podido recuperar los tipos de instancia."
+msgstr "Không thể tìm thấy instance."
 
 msgid "Unable to retrieve instance list."
-msgstr "No se ha podido obtener la lista de instancias."
+msgstr "Không tìm thấy danh sách instance."
 
 msgid "Unable to retrieve instance password."
-msgstr "No se ha podido obtener la contraseña de la instancia."
+msgstr "Không tìm thấy instance password."
 
 msgid "Unable to retrieve instance project information."
-msgstr "No se ha podido obtener la información del proyecto de la instancia."
+msgstr "Không tìm thấy thông tin instance project."
 
 msgid "Unable to retrieve instance size information."
-msgstr "No se ha podido obtener la información del tamaño de la instancia."
+msgstr "Không tìm thấy thông tin kích thước instance."
 
 msgid "Unable to retrieve instance."
-msgstr "No se ha podido recuperar la instancia."
+msgstr "Không thể tìm thấy instance."
 
 msgid "Unable to retrieve instances list."
-msgstr "No se ha podido recuperar la lista de instancias."
+msgstr "Không tìm thấy danh sách instance."
 
 msgid "Unable to retrieve instances."
-msgstr "No se han podido recuperar las instancias."
+msgstr "Không tìm thấy instances."
 
 msgid "Unable to retrieve key pair list."
-msgstr "No se ha podido recuperar la lista de pares de claves."
+msgstr "Không tìm thấy danh sách cặp khóa."
 
 msgid "Unable to retrieve key pairs."
-msgstr "No se han podido recuperar los pares de claves."
+msgstr "Không tìm thấy các cặp khóa."
 
 msgid "Unable to retrieve limit information."
-msgstr "No se ha podido recuperar la información del límite."
+msgstr "Không tìm thấy thông tin giới hạn."
 
 msgid "Unable to retrieve list of routers."
-msgstr "No se ha podido recuperar la lista de direccionadores."
+msgstr "Không thể tìm thấy danh sách của các router."
 
 msgid "Unable to retrieve list of security groups"
-msgstr "No se ha podido recuperar la lista de grupos de seguridad"
+msgstr "Không thể tìm thấy danh sách của các nhóm bảo mật"
 
 msgid "Unable to retrieve list of volume snapshots."
-msgstr "No se ha podido obtener la lista de instantáneas de volúmenes."
+msgstr "Không thể tìm thấy danh sách của volume snapshots."
 
 msgid "Unable to retrieve list of volumes."
-msgstr "No se ha podido obtener la lista de volúmenes."
+msgstr "Không thể tìm thấy danh sách của volume."
 
 msgid "Unable to retrieve mapping list."
-msgstr "No se ha podido recuperar la lista de correlaciones."
+msgstr "Không thể tìm thấy danh sách ánh xạ."
 
 msgid "Unable to retrieve member details."
-msgstr "No se han podido recuperar los detalles de los miembros."
+msgstr "Không thể tìm thấy các chi tiết thành viên."
 
 #, python-format
 msgid "Unable to retrieve member details. %s"
-msgstr "No se han podido recuperar los detalles del miembro. %s"
+msgstr "Không thể tìm thấy các chi tiết thành viên. %s"
 
 msgid "Unable to retrieve member list."
-msgstr "No se ha podido obtener la lista de miembros."
+msgstr "Không thể tìm thấy danh sách thành viên."
 
 msgid "Unable to retrieve metadata."
 msgstr "No se han podido recuperar los metadatos."
