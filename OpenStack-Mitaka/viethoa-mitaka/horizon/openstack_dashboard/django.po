@@ -7992,13 +7992,13 @@ msgid "Subnet Details"
 msgstr "Những chi tiết của mạng con"
 
 msgid "Subnet ID"
-msgstr "ID Subnet"
+msgstr "ID mạng con"
 
 msgid "Subnet Name"
-msgstr "Tên Subnet"
+msgstr "Tên mạng con"
 
 msgid "Subnet list can not be retrieved."
-msgstr "Danh sách subnet không được tìm thấy."
+msgstr "Danh sách mạng con không được tìm thấy."
 
 #, python-format
 msgid "Subnet: %(dest_subnetname)s"
@@ -8006,199 +8006,199 @@ msgstr "Subred: %(dest_subnetname)s"
 
 #, python-format
 msgid "Subnet: %(row_source_subnetname)s"
-msgstr "Subred: %(row_source_subnetname)s"
+msgstr "Mạng con: %(row_source_subnetname)s"
 
 msgid "Subnetpool"
-msgstr "Agrupación de subred"
+msgstr "Pool mạng con"
 
 msgid "Subnets"
-msgstr "Subredes"
+msgstr "Các mạng con"
 
 msgid "Subnets Associated"
-msgstr "Subredes asociadas"
+msgstr "Những mạng con được liên kết"
 
 #, python-format
 msgid "Successfully accepted volume transfer: \"%s\""
-msgstr "Se ha aceptado correctamente la transferencia de volumen: \"%s\""
+msgstr "Di chuyển volume được chấp nhận thành công: \"%s\""
 
 #, python-format
 msgid "Successfully added rule: %s"
-msgstr "Se ha añadido correctamente la regla: %s"
+msgstr "Đã thêm quy tắc thành công: %s"
 
 #, python-format
 msgid "Successfully associated floating IP: %s"
-msgstr "Se ha asociado correctamente la IP flotante: %s"
+msgstr "Đã liên kết floating IP thành công: %s"
 
 #, python-format
 msgid "Successfully created QoS Spec: %s"
-msgstr "La especification de QoS: %s se ha creado correctamente."
+msgstr "Đặc tả QoS được tạo thành công"
 
 #, python-format
 msgid "Successfully created encryption for volume type: %s"
-msgstr "Se ha creado correctamente el cifrado del tipo de volumen: %s"
+msgstr "Mã hóa loại volume được tạo thành công: %s"
 
 #, python-format
 msgid "Successfully created security group: %s"
-msgstr "El grupo de seguridad: %s se ha creado correctamente"
+msgstr "Nhóm bảo mật được tạo thành công: %s"
 
 #, python-format
 msgid "Successfully created volume type: %s"
-msgstr "Se ha creado correctamente el tipo de volumen: %s"
+msgstr "Loại volume được tạo thành công: %s"
 
 msgid "Successfully deleted volume transfer"
-msgstr "La transferencia de volumen se ha suprimido correctamente"
+msgstr "Di chuyển volume được xóa thành công"
 
 #, python-format
 msgid "Successfully deleted volume transfer \"%s\""
-msgstr "La transferencia de volumen se ha suprimido correctamente : \"%s\""
+msgstr "Di chuyển volume được xóa thành công: \"%s\""
 
 #, python-format
 msgid "Successfully disassociated Floating IP: %s"
-msgstr "La IP flotante %s se ha desasociado correctamente"
+msgstr "Gỡ liên kết Floating IP %s thành công"
 
 #, python-format
 msgid "Successfully disassociated floating IP: %s"
-msgstr "Se ha desasociado correctamente la IP flotante: %s"
+msgstr "Gỡ liên kết floating IP %s thành công"
 
 #, python-format
 msgid "Successfully imported public key: %s"
-msgstr "La clave pública: %s se ha importado correctamente"
+msgstr "Khóa công cộng được nhập thành công"
 
 msgid "Successfully modified QoS Spec consumer."
 msgstr ""
-"El consumidor de la especificación QoS se ha modificado satisfctoriamente."
+"Khách hàng đặc tả QoS được sửa đổi thành công."
 
 msgid "Successfully recreated ec2 credentials."
-msgstr "Las credenciales ec2 se han recreado satisfactoriamente."
+msgstr "Giấy ủy quền ec2 được tạo lại thành công."
 
 #, python-format
 msgid ""
 "Successfully restored backup %(backup_name)s to volume with id: %(volume_id)s"
 msgstr ""
-"Se ha restaurado con éxito la copia de seguridad %(backup_name)s al volumen "
-"con ID: %(volume_id)s"
+"Bản backup  %(backup_name)s được khôi phục thành công đến volume với id: %(volume_id)s"
+""
 
 #, python-format
 msgid ""
 "Successfully sent the request to change the volume type to \"%(vtype)s\" for "
 "volume: \"%(name)s\""
 msgstr ""
-"Se ha enviado correctamente la solicitud de cambiar el tipo de volumen a "
-"\"%(vtype)s\" para el volumen \"%(name)s\""
+"Đã gửi yêu cầu thành công để thay đổi loại volume đến \"%(vtype)s\" cho "
+"volume: \"%(name)s\""
 
 #, python-format
 msgid "Successfully sent the request to manage volume: %s"
 msgstr ""
-"Se ha enviado satisfactoriamente la solicitud para gestionar el volumen: %s"
+"Yêu cầu quản lý volume được gửi thành công: %s"
 
 #, python-format
 msgid "Successfully sent the request to migrate volume: %s"
-msgstr "La solicitud de migrar el volumen %s se ha enviado correctamente"
+msgstr "Yêu cầu di trú volume được gửi thành công"
 
 #, python-format
 msgid "Successfully sent the request to unmanage volume: %s"
 msgstr ""
-"Se ha enviado satisfactoriamente la solicitud para dejar de gestionar el "
-"volumen: %s"
+"Yêu cầu dừng quản lý volume %s được được gửi thành công"
+""
 
 #, python-format
 msgid ""
 "Successfully sent the request to upload volume to image for volume: \"%s\""
 msgstr ""
-"Se ha enviado correctamente la solicitud de cargar el volumen a la imagen "
-"para el volumen: \"%s\""
+"Yêu cầu tải image cho volume \"%s\" đã được gửi thành công "
+""
 
 msgid "Successfully updated QoS Spec association."
 msgstr ""
-"La asociación de la especificación QoS se ha actualizado satisfactoriamente."
+"Liên kết đặc tả QoS được cập nhật thành công."
 
 #, python-format
 msgid "Successfully updated aggregate: \"%s.\""
-msgstr "Se ha actualizado satisfactoriamente el agregado: \"%s.\""
+msgstr "Tổng hợp được cập nhật thành công: \"%s.\""
 
 msgid "Successfully updated container access to private."
-msgstr "El acceso del contenedor se ha modificado correctamente a privado."
+msgstr "Nội dung truy cập được cập nhật thành riêng tư thành công."
 
 msgid "Successfully updated container access to public."
-msgstr "El acceso del contenedor se ha modificado correctamente a público."
+msgstr "Nội dung truy cập được cập nhật thành công khai thành công."
 
 #, python-format
 msgid "Successfully updated encryption for volume type: %s"
-msgstr "Se ha actualizado correctamente el cifrado del tipo de volumen: %s"
+msgstr "Loại volume được cập nhật mã hóa thành công: %s"
 
 #, python-format
 msgid "Successfully updated security group: %s"
-msgstr "El grupo de seguridad: %s se ha actualizado correctamente"
+msgstr "Nhóm bảo mật được cập nhật thành công"
 
 #, python-format
 msgid "Successfully updated volume snapshot status: \"%s\"."
 msgstr ""
-"El estado de la instantánea de volumen se ha actualizado satisfactoriamente: "
+"Trạng thái snapshot volume được cập nhật thành công: "
 "\"%s\"."
 
 #, python-format
 msgid "Successfully updated volume status to \"%s\"."
-msgstr "Actualización satisfactoria del estado del volumen a \"%s\"."
+msgstr "Trạng thái volume được cập nhật thành công \"%s\"."
 
 msgid "Successfully updated volume type."
-msgstr "Se ha actualizado correctamente el tipo de volumen."
+msgstr "Loại volume được cập nhật thành công."
 
 msgid "Sum."
-msgstr "Total"
+msgstr "Tổng."
 
 msgctxt "Action log of an instance"
 msgid "Suspend"
-msgstr "Suspender"
+msgstr "Suspend"
 
 msgctxt "current status of stack"
 msgid "Suspend Complete"
-msgstr "Suspender completado"
+msgstr "Suspend thành công"
 
 msgctxt "current status of stack"
 msgid "Suspend Failed"
-msgstr "Suspender fallido"
+msgstr "Suspend đã lỗi"
 
 msgctxt "current status of stack"
 msgid "Suspend In Progress"
-msgstr "Suspender en curso"
+msgstr "Đang Suspend"
 
 msgid "Suspend Instance"
 msgid_plural "Suspend Instances"
-msgstr[0] "Suspender instancia"
-msgstr[1] "Suspender instancias"
+msgstr[0] "Suspend máy ảo"
+msgstr[1] "Suspend nhiều máy ảo"
 
 msgid "Suspend Stack"
 msgid_plural "Suspend Stacks"
-msgstr[0] "Suspender pila"
-msgstr[1] "Suspender pilas"
+msgstr[0] "Suspend Stack"
+msgstr[1] "Suspend các Stack"
 
 msgctxt "Current status of an Instance"
 msgid "Suspended"
-msgstr "Suspendida"
+msgstr "Đã được Suspend"
 
 msgctxt "Power state of an Instance"
 msgid "Suspended"
-msgstr "Suspendido"
+msgstr "Đã được Suspend"
 
 msgid "Suspended Instance"
 msgid_plural "Suspended Instances"
-msgstr[0] "Instancia suspendida"
-msgstr[1] "Instancias suspendidas"
+msgstr[0] "Máy ảo được đã được Suspend"
+msgstr[1] "Các máy ảo được đã được Suspend"
 
 msgid "Suspended Stack"
 msgid_plural "Suspended Stacks"
-msgstr[0] "Pila suspendida"
-msgstr[1] "Pilas suspendidas"
+msgstr[0] "Đã Suspend Stack"
+msgstr[1] "Đã Suspend các Stack"
 
 msgctxt "Task status of an Instance"
 msgid "Suspending"
-msgstr "Suspendiendo"
+msgstr "Đang Suspend"
 
 msgid "Swap Disk"
-msgstr "Disco de intercambio (swap)"
+msgstr "Ổ cứng Swap"
 
 msgid "Swap Disk (MB)"
-msgstr "Disco de intercambio (MB)"
+msgstr "Ổ cứng Swap (MB)"
 
 msgid "Swift"
 msgstr "Swift"
@@ -8207,78 +8207,78 @@ msgid "Swift_meters"
 msgstr "Swift_meters"
 
 msgid "System"
-msgstr "Sistema"
+msgstr "Hệ thống"
 
 msgid "System Airflow Reading"
-msgstr "Lectura del flujo de aire del sistema"
+msgstr "Đang đọc luồng của hệ thống"
 
 msgid "System CPU Utility Reading"
-msgstr "Lectura de utilidades de CPU del sistema"
+msgstr "Đang đọc tiện ích CPU của hệ thống"
 
 msgid "System CUPS Reading"
-msgstr "Lectura del CUPS del sistema"
+msgstr "Đang đọc CUPS của hệ thống"
 
 msgid "System Current Power"
-msgstr "Energía actual del sistema"
+msgstr "Năng lượng hiện tại của hệ thống"
 
 msgid "System IO Utility Reading"
-msgstr "Lectura de utilidades de E/S del sistema "
+msgstr "Đang đọc tiện tích IO của hệ thống"
 
 msgid "System Information"
-msgstr "Información del sistema"
+msgstr "Thông tin hệ thống"
 
 msgid "System Memory Utility Reading"
-msgstr "Lectura de utilidades de memoria del sistema "
+msgstr "Đang đọc tiện ích bộ nhớ của hệ thống"
 
 msgid "System Outlet Temperature Reading"
-msgstr "Lectura de la temperatura de salida del sistema."
+msgstr "Đang đọc nhiệt độ đầu ra của hệ thống."
 
 msgid "System Temperature Reading"
-msgstr "Lectura de la temperatura del sistema."
+msgstr "Đang đọc nhiệt độ của hệ thống."
 
 msgid "TCP"
 msgstr "TCP"
 
 msgid "Target Host"
-msgstr "Host de destino"
+msgstr "Máy chủ đích"
 
 msgid "Task"
-msgstr "Tarea"
+msgstr "Nhiệm vụ"
 
 msgid "Template"
-msgstr "Plantilla"
+msgstr "Mẫu"
 
 msgid "Template Data"
-msgstr "Plantilla de datos"
+msgstr "Dữ liệu mẫu"
 
 msgid "Template File"
-msgstr "Archivo de plantilla"
+msgstr "File mẫu"
 
 msgid "Template Source"
-msgstr "Origen de la plantilla"
+msgstr "Nguồn mẫu"
 
 msgid "Template URL"
-msgstr "URL de plantilla"
+msgstr "URL mẫu"
 
 msgid ""
 "The \"Bootable\" flag specifies that this volume can be used to launch an "
 "instance."
 msgstr ""
-"El indicador de arranque estipula que este volumen puede utilizarse para "
-"ejecutar una instancia."
+"Cờ \"Bootable\" chỉ định rằng volume này có thể được sử dụng để tạo "
+"máy ảo."
 
 msgid "The \"from\" port number is invalid."
-msgstr "El puerto \"desde\" no es válido."
+msgstr "Số cổng \"từ\" là không hợp lệ."
 
 msgid "The \"to\" port number is invalid."
-msgstr "El puerto \"hasta\" no es válido."
+msgstr "Số cổng \"đến\" là không hợp lệ."
 
 msgid ""
 "The \"to\" port number must be greater than or equal to the \"from\" port "
 "number."
 msgstr ""
-"El número del puerto \"hasta\" debe ser mayor o igual al número del puerto "
-"\"desde\"."
+"Số cổng \"đến\" phải lớn hơn hoặc bằng số cổng \"từ\" ."
+""
 
 #. Translators: Only used inside Horizon code and invisible to users
 #, python-format
@@ -8286,108 +8286,108 @@ msgid ""
 "The 'operation' parameter for get_feature_permission '%(feature)s' is "
 "invalid. It should be one of %(allowed)s"
 msgstr ""
-"The 'operation' parameter for get_feature_permission '%(feature)s' is "
-"invalid. It should be one of %(allowed)s"
+"Thông số 'operation' cho get_feature_permission '%(feature)s' là "
+"không hợp lệ. Nó nên là một của %(allowed)s"
 
 msgid ""
 "The <strong>Cipher</strong> is the encryption algorithm/mode to use (e.g., "
 "aes-xts-plain64). If the field is left empty, the provider default will be "
 "used."
 msgstr ""
-"<strong>Cipher</strong> es el algoritmo de cifrado/modo a utilizar (por "
-"ejemplo, aes-xts-plain64). Si el campo se deja vacío, se utilizará el "
-"proveedor determinado."
+"<strong>Cipher</strong> là thuật toán/phương pháp mã hóa để sử dụng(VD: "
+"aes-xts-plain64). Nếu trường để trống, mặc định của nhà cung cấp sẽ "
+"được sử dụng."
 
 msgid ""
 "The <strong>Control Location</strong> is the notional service where "
 "encryption is performed (e.g., front-end=Nova). The default value is 'front-"
 "end.'"
 msgstr ""
-"<strong>Control Location</strong> es el servicio hipotético donde se realiza "
-"el cifrado (ej. front-end=Nova). El valor predeterminado es 'front-end.'"
+"<strong>Control Location</strong> là dịch vụ nơi "
+"mã hóa được thực hiện (VD: front-end=Nova). Giá trị mặc định là 'front-end.'"
 
 msgid ""
 "The <strong>Key Size</strong> is the size of the encryption key, in bits (e."
 "g., 128, 256). If the field is left empty, the provider default will be used."
 msgstr ""
-"<strong>Key Size</strong> es el tamaño de la clave de cifrado, en bits (por "
-"ejemplo, 128, 256). Si el campo se deja vacío, se utilizará el valor "
-"predeterminado."
+"<strong>Key Size</strong> là kích thước của khóa mã hóa, theo bit (VD: "
+"128, 256). Nếu trường này để trống, mặc định của nhà cung cấp sẽ được sử dụng."
+""
 
 msgid ""
 "The <strong>Provider</strong> is the class providing encryption support (e."
 "g. LuksEncryptor)."
 msgstr ""
-"<strong>Provider</strong> es la clase que proporciona soporte de cifrado "
-"(por ejemplo, LuksEncryptor)."
+"<strong>Provider</strong> là lớp hỗ trợ mã hóa "
+"(VD: LuksEncryptor)."
 
 msgid ""
 "The <strong>Provider</strong> is the class providing encryption support (e."
 "g., LuksEncryptor)."
 msgstr ""
-"El <strong>Proveedor</strong> es la clase que proporciona el soporte para el "
-"cifrado (p.e., LuksEncryptor)."
+"El <strong>Proveedor</strong> là lớp hỗ trợ mã hóa "
+"(VD: LuksEncryptor)."
 
 msgid "The Aggregate was updated."
-msgstr "La  agregación se ha actualizado."
+msgstr "Tập hợp đã được cập nhật."
 
 msgid ""
 "The Authorization Key will not be available after closing this page, so you "
 "must capture it now, or else you will be unable to use the transfer."
 msgstr ""
-"La Clave de Autorización no estará disponible tras cerrar esta página, así "
-"que debe capturarla ahora o de otro modo no podrá realizar la transferencia."
+"Khóa ủy quyền sẽ không có sẵn sau khi đóng trang này, vì vậy bạn "
+"phải giữ lấy nó ngay bây giờ, hoặc bạn sẽ không thể sử dụng di chuyển."
 
 msgid "The ICMP code not in range (-1, 255)"
-msgstr "El código ICMP no está en el rango (-1,255)"
+msgstr "Mã ICMP không thuộc dải (-1,255)"
 
 msgid "The ICMP type not in range (-1, 255)"
-msgstr "El tipo ICMP no está en el rango (-1,255)"
+msgstr "Loại ICMP không thuộc dải (-1,255)"
 
 #, python-format
 msgid "The ID \"%s\" is already used by another flavor."
-msgstr "El ID \"%s\" ya lo ha utiliza otro tipo."
+msgstr "ID \"%s\" đã được sử dụng bởi flavor khác."
 
 msgid ""
 "The ID of the host where the port is allocated. In some cases, different "
 "implementations can run on different hosts."
 msgstr ""
-"El ID del servidor donde el puerto está asignado. En algunos casos, se "
-"pueden ejecutar implementaciones diferentes en diferentes servidores."
+"ID của máy chủ nơi cổng được cấp phát. Trong một số trường hợp, các sự thực hiện"
+"khác nhau có thể chạy trên các máy chủ khác nhau."
 
 msgid ""
 "The Image Location field MUST be a valid and direct URL to the image binary. "
 "URLs that redirect or serve error pages will result in unusable images."
 msgstr ""
-"El campo de ubicación de la imagen DEBE ser una URL válida y directa al "
-"archivo de la imagen. Las URLs con redirecciones o páginas de error, "
-"producirán imágenes inutilizables."
+"Trường vị trí Image phải là một URL trực tiếp và hợp lệ đến nhị phân image. "
+"Những URL chuyển hướng hoặc phục vụ những trang lỗi sẽ dẫn đến những "
+"hình ảnh không sử dụng được."
 
 msgid "The JSON formatted contents of a namespace."
-msgstr "El contenido en formato JSON de un espacio de nombres"
+msgstr "Nội dung định dạng JSON của không gian tên"
 
 msgid "The Key Pair name that was associated with the instance"
-msgstr "El nombre del par de claves asociado a la instancia"
+msgstr "Tên cặp khóa mà được liên kết với máy ảo"
 
 msgid ""
 "The Transfer ID and the Authorization Key are needed by the recipient in "
 "order to accept the transfer. Please capture both the Transfer ID and the "
 "Authorization Key and provide them to your transfer recipient."
 msgstr ""
-"El destinatario necesita el ID de Transferencia y la Clave de Autorización "
-"para aceptar la transferencia. Por favor capture el ID de Transferencia y la "
-"Clave de Autorización y proporciónelos a su destinatario de transferencia."
+"ID truyền và Khóa ủy quyền cần thiết bởi bên nhận để chấp nhận truyền. "
+"Hãy giữ ID truyền và khóa ủy quyền và cung cấp chúng đến cho bên nhận "
+"thực hiện truyền của bạn."
 
 msgid "The VNIC type that is bound to the neutron port"
-msgstr "El tipo VNIC que está enlazado al puerto de neutrones"
+msgstr "Loại VNIC được liên kết với cổng neutron"
 
 #, python-format
 msgid ""
 "The Volume size is too small for the '%(image_name)s' image and has to be "
 "greater than or equal to '%(smallest_size)d' GB."
 msgstr ""
-"El tamaño del volumen es demasiado pequeño para la imagen '%(image_name)s' y "
-"debe ser mayor o igual que '%(smallest_size)d' GB."
+"Kích thước volume là quá nhỏ đối với image '%(image_name)s' và phải "
+"lớn hơn hoặc bằng '%(smallest_size)d' GB."
 
 msgid "The admin password is incorrect."
 msgstr "Mật khẩu admin không đúng"
@@ -8396,8 +8396,8 @@ msgid ""
 "The chart below shows the resources used by this project in relation to the "
 "project's quotas."
 msgstr ""
-"La siguiente tabla muestra los recursos utilizados por este proyecto en "
-"relación a sus cuotas."
+"Biểu đồ dưới đây cho thấy những tài nguyên được sử dụng bởi project này liên quán đến "
+"hạn ngạch của project."
 
 msgid ""
 "The color and icon of an intersection indicates whether or not traffic is "
@@ -8409,28 +8409,28 @@ msgid ""
 "direction is outlined when hovering over an intersection.\n"
 " "
 msgstr ""
-"El color y el icono de una intersección indica si se permite o no el tráfico "
-"desde el origen (fila) al destino (columna).\n"
-"     Al pulsar el botón <span class=\"fa fa-random\"></span> en la "
-"intersección se instalará una regla para cambiar el comportamiento del "
-"tráfico<br/>\n"
+"Màu sắc và icon của chỗ giao nhau cho biết có cho phép lưu lượng "
+"truy cập từ nguồn (hàng) đến đích (cột) hay không.\n"
+"     Nhấn vào nút <span class=\"fa fa-random\"></span> trong "
+"chỗ giao nhau sẽ cài đặt quy tắc chuyển đổi cách xử lý lưu lượng.<br/>\n"
 "\n"
-"     <b>Nota:</b> Las reglas solo afectan a una dirección del tráfico. La "
-"dirección contraria se muestra al situarse encima de una intersección.\n"
+"\n"
+"     <b>Chú ý:</b> Các quy tắc chỉ ảnh hưởng đến hướng lưu lượng. Hướng ngược lại "
+"được vạch ra khi đi thoáng qua chỗ giao nhau.\n"
 " "
 
 msgid "The container cannot be deleted since it is not empty."
-msgstr "No se puede suprimir el contenedor porque no está vacío."
+msgstr "Không thể xóa vùng này vì nó bị trống."
 
 msgid ""
 "The data will remain in the volume and another instance will be able to "
 "access the data if you attach this volume to it."
 msgstr ""
-"Los datos permanecerán en el volumen y otra instancia podrá acceder a éstos "
-"si la conecta a este volumen."
+"Dữ liệu sẽ vẫn ở trong volume và máy ảo khác sẽ có thể "
+"truy cập vào dữ liệu nếu bạn đính kèm volume này với nó."
 
 msgid "The dates haven't been recognized"
-msgstr "No se han podido reconocer las fechas"
+msgstr "Ngày tháng không được chấp nhận"
 
 msgid ""
 "The default IP address of the interface created is a gateway of the selected "
@@ -8438,65 +8438,65 @@ msgid ""
 "select a subnet to which the specified IP address belongs to from the above "
 "list."
 msgstr ""
-"La dirección IP predeterminada de la interfaz creada es una puerta de enlace "
-"de la subred seleccionada. Aquí puede especificar la dirección IP de la "
-"interfaz. Debe seleccionar una subred a la que la dirección IP pertenece de "
-"la lista de arriba."
+"Địa chỉ IP mặc định của giao diện được tạo là gateway của mạng con được chọn. "
+"Bạn có thể chỉ rõ địa chỉ chỉ IP khác của giao diện này. Bạn phải "
+"chọn mạng con mà địa chỉ IP được chỉ định thuộc về danh sách trên. "
+""
 
 msgid ""
 "The default action for deleting a consistency group is to first disassociate "
 "all associated volumes."
 msgstr ""
-"La acción predeterminada para suprimir un grupo de consistencia es, primero, "
-"desasociar todos los volúmenes asociados."
+"Hành động mặc định cho việc xóa nhóm thống nhất là để phân tách "
+"tất cả các những volume được liên kết."
 
 #, python-format
 msgid ""
 "The flavor '%(flavor)s' is too small for requested image.\n"
 "Minimum requirements: %(min_ram)s MB of RAM and %(min_disk)s GB of Root Disk."
 msgstr ""
-"El tipo '%(flavor)s' es demasiado pequeño para la imagen solicitada.\n"
-"Requisitos mínimos:  %(min_ram)s MB de RAM y %(min_disk)s GB de disco raiz."
+"Flavor '%(flavor)s' là quá nhỏ cho image được yêu cầu.\n"
+"Yêu cầu tối thiểu:  %(min_ram)s MB RAM và %(min_disk)s GB cho ổ cứng gốc."
 
 #, python-format
 msgid "The instance is preparing the live migration to host \"%s\"."
 msgstr ""
-"La instancia se está preparando para una migración en directo al host \"%s\"."
+"Máy ảo được di trú khi đang chạy đến máy chủ \"%s\"."
 
 msgid "The instance password encrypted with your public key."
-msgstr "La contraseña cifrada con su clave pública."
+msgstr "Mật khẩu máy ảo được mã hóa với khóa công cộng của bạn."
 
 msgid "The instance(s) will be shut off."
-msgstr "La(s) instancia(s) se apagará(n)."
+msgstr "Máy ảo (nhiều máy ảo sẽ bị tắ."
 
 #, python-format
 msgid ""
 "The key pair &quot;%(keypair_name)s&quot; should download automatically. If "
 "not use the link below."
 msgstr ""
-"El par de claves &quot;%(keypair_name)s&quot; debe descargarse "
-"automáticamente. En caso contrario, utilice el siguiente enlace."
+"Cặp khóa &quot;%(keypair_name)s&quot; sẽ tự động tải xuống. "
+"Nếu không sử dụng, sử dụng liên kết bên dưới."
 
 msgid ""
 "The maximum time in seconds for a monitor to wait for a reply. It must be "
 "less than or equal to delay"
 msgstr ""
-"Para un monitor el tiempo máximo en segundos para esperar una respuesta. "
-"Debe ser menor o igual al tiempo de retraso"
+"Thời gian tối đa tính bằng giây để màn hình chờ phản hồi. Nó phải "
+"nhỏ hơn hoặc bằng thời gian trể"
 
 msgid ""
 "The minimum disk size required to boot the image. If unspecified, this value "
 "defaults to 0 (no minimum)."
 msgstr ""
-"El tamaño mínimo de disco necesario para arrancar la imagen. Si no se "
-"especifica este valor se presupone 0 (no hay un valor mínimo)."
+"Kích thước ổ cứng tối thiểu được yêu cầu để khởi tạo image. Nếu không chỉ rõ,"
+"mặc định giá trị là 0 (không có giá trị tối thiểu)."
 
 msgid ""
 "The minimum memory size required to boot the image. If unspecified, this "
 "value defaults to 0 (no minimum)."
 msgstr ""
-"El tamaño mínimo de disco necesario para arrancar la imagen. Si no se "
-"especifica este valor se presupone 0 (no hay un valor mínimo)."
+"Kích thước bộ nhớ nhỏ nhất được yêu cầu để khởi tạo image. Nếu không được chỉ rõ, "
+"mặc định giá trị là 0 (không có giá trị tối thiểu)."
 
 msgid ""
 "The minimum time in seconds between regular checks of a member. It must be "
