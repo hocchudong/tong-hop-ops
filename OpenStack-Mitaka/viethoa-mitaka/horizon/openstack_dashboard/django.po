@@ -2999,133 +2999,133 @@ msgstr "Desconectar interfaz"
 
 msgid "Detach Volume"
 msgid_plural "Detach Volumes"
-msgstr[0] "Desconectar volumen"
-msgstr[1] "Desconectar volúmenes"
+msgstr[0] "Gỡ Volume"
+msgstr[1] "Gỡ các Volume"
 
 msgid "Detached"
-msgstr "Desconectado"
+msgstr "Đã gỡ"
 
 #, python-format
 msgid "Detached interface %(port)s for instance %(instance)s."
-msgstr "Interfaz %(port)s desconectada para la instancia %(instance)s."
+msgstr "Đã gỡ interface %(port)s ra khỏi máy ảo %(instance)s."
 
 msgid "Detaching"
-msgstr "Desconectando"
+msgstr "Đang gỡ"
 
 msgctxt "Current status of a Volume"
 msgid "Detaching"
-msgstr "Desconectando"
+msgstr "Đang gỡ"
 
 msgid "Detaching Volume"
 msgid_plural "Detaching Volumes"
-msgstr[0] "Desconectando volumen"
-msgstr[1] "Desconectando volúmenes"
+msgstr[0] "Đang gỡ Volume
+msgstr[1] "Đang gỡ các Volume"
 
 msgid "Details"
-msgstr "Detalles"
+msgstr "Các chi tiết"
 
 msgid "Developer"
-msgstr "Desarrollador"
+msgstr "Nhà phát triển"
 
 msgid "Device"
-msgstr "Dispositivo"
+msgstr "Thiết bị
 
 msgid "Device ID"
-msgstr "ID de dispositivo"
+msgstr "ID của thiết bị"
 
 msgid "Device ID attached to the port"
-msgstr "ID del dispositivo conectado al puerto"
+msgstr "ID của thiết bị được gắn với port"
 
 msgid "Device Name"
-msgstr "Nombre de dispositivo"
+msgstr "Tên thiết bị"
 
 msgid "Device Owner"
-msgstr "Propietario del dispositivo"
+msgstr "Thiết bị chủ"
 
 msgid "Device owner attached to the port"
-msgstr "Propietario del dispositivo conectado al puerto"
+msgstr "Thiết bị chủ được gán với port"
 
 msgid "Device size (GB)"
-msgstr "Tamaño del dispositivo (GB)"
+msgstr "Kích thước thiết bị (GB)"
 
 msgid "Direct"
-msgstr "Directo"
+msgstr "Chuyển hướng"
 
 msgid "Direct Input"
-msgstr "Entrada directa"
+msgstr "Chuyển hướng đầu vào"
 
 msgid "Direction"
-msgstr "Dirección"
+msgstr "Sự chuyển hướng"
 
 msgid "Disable Domain"
 msgid_plural "Disable Domains"
-msgstr[0] "Deshabilitar dominio"
-msgstr[1] "Deshabilitar Dominios"
+msgstr[0] "Vô hiệu hóa Domain"
+msgstr[1] "Vô hiệu hóa các Domain"
 
 msgid "Disable Domains"
-msgstr "Deshabilitar Dominios"
+msgstr "Vô hiệu hóa các Domain"
 
 msgid "Disable Gateway"
-msgstr "Deshabilitar puerta de enlace"
+msgstr "Vô hiệu hóa Gateway"
 
 msgid "Disable HA mode"
-msgstr "Deshabilitar modo HA"
+msgstr "Vô hiệu hóa chế độ HA"
 
 msgid "Disable Service"
-msgstr "Deshabilitar servicio"
+msgstr "Vô hiệu hóa dịch vụ"
 
 msgid "Disable User"
 msgid_plural "Disable Users"
-msgstr[0] "Deshabilitar usuario"
-msgstr[1] "Deshabilitar usuarios"
+msgstr[0] "Vô hiệu hóa người dùng"
+msgstr[1] "Vô hiệu hóa các người dùng"
 
 msgid "Disable the compute service."
-msgstr "Deshabilitar el servicio de computación."
+msgstr "Vô hiệu hóa dịch vụ compute."
 
 msgid "Disabled"
-msgstr "Deshabilitado"
+msgstr "Đã vô hiệu hóa"
 
 msgctxt "Current status of a Hypervisor"
 msgid "Disabled"
-msgstr "Deshabilitado"
+msgstr "Đã vô hiệu hóa"
 
 msgid "Disabled Domain"
 msgid_plural "Disabled Domains"
-msgstr[0] "Dominio deshabilitado"
-msgstr[1] "Dominios deshabilitados"
+msgstr[0] "Đã vô hiệu hóa Domain"
+msgstr[1] "Đã vô hiệu hóa các Domain"
 
 msgid "Disabled User"
 msgid_plural "Disabled Users"
-msgstr[0] "Usuario deshabilitado"
-msgstr[1] "Usuarios deshabilitados"
+msgstr[0] "Đã vô hiệu hóa người dùng"
+msgstr[1] "Đã vô hiệu hóa các người dùng"
 
 #, python-format
 msgid "Disabled compute service for host: %s."
-msgstr "Deshabilitar el servicio de computación del host %s."
+msgstr "Đã vô hiệu hóa dịch vụ compute cho máy chủ: %s."
 
 msgid "Disassociate"
-msgstr "Desasociar"
+msgstr "Hủy kết nối"
 
 msgid "Disassociate Floating IP"
-msgstr "Desasociar IP flotante"
+msgstr "Hủy kết nối với Floating IP"
 
 msgid "Disassociate Monitor"
-msgstr "Desasociar supervisor"
+msgstr "Hủy kết nối với Monitor"
 
 msgid "Disassociate a health monitor from target pool. "
-msgstr "Desasociar un supervisor de estado de una agrupación."
+msgstr "Hủy kết nối với một ... từ pool đích."
 
 msgid "Disassociated monitor."
-msgstr "Supervisor desasociado."
+msgstr "Hủy theo dõi."
 
 msgid "Disk"
-msgstr "Disco"
+msgstr "Disk"
 
 msgid "Disk (GB)"
-msgstr "Disco (GB)"
+msgstr "Disk (GB)"
 
 msgid "Disk Format"
-msgstr "Formato de disco"
+msgstr "Định dạng Disk"
 
 msgid "Disk GB Hours"
 msgstr "Horas de disco GB"
@@ -3134,20 +3134,20 @@ msgid "Disk Over Commit"
 msgstr "Sobreasignación de disco"
 
 msgid "Disk Partition"
-msgstr "Partición de disco"
+msgstr "Phân vùng Disk"
 
 msgid "Display Name"
-msgstr "Mostrar nombre"
+msgstr "Hiển thị tên"
 
 msgid "Distributed"
-msgstr "Distribuido.¡"
+msgstr "Đã phân phối"
 
 msgid ""
 "Do not use a colon ':' with OS::Glance::Images. This resource type does not "
 "support the use of colons."
 msgstr ""
-"No utilice dos puntos ':' en OS::Glance::Images. Este tipo de recurso no "
-"soporta el uso de dos puntos."
+"Không sử dụng dấu hai chấm ':' với OS::Glance::Images. Loại resource này không "
+"hỗ trợ sử dụng các dấu hai chấm."
 
 msgid "Docker"
 msgstr "Docker"
@@ -3158,648 +3158,648 @@ msgstr "Docker"
 
 #, python-format
 msgid "Domain \"%s\" must be disabled before it can be deleted."
-msgstr "Debe deshabilitar el dominio \"%s\" antes de suprimirlo."
+msgstr "Domain \"%s\" phải được vô hiệu hóa trước khi nó bị xóa."
 
 msgid "Domain Context cleared."
-msgstr "Se ha borrado el contexto del dominio."
+msgstr "Domain Context đã xóa."
 
 #, python-format
 msgid "Domain Context updated to Domain %s."
-msgstr "Se ha actualizado el contexto del dominio en el dominio %s"
+msgstr "Domain Context đã cập nhật tới Domain %s"
 
 msgid "Domain Groups"
-msgstr "Grupos de dominio"
+msgstr "Các nhóm Domain"
 
 msgid "Domain ID"
-msgstr "ID de dominio"
+msgstr "ID của Domain"
 
 msgid "Domain Information"
-msgstr "Información del dominio "
+msgstr "Thông tin Domain"
 
 msgid "Domain Members"
-msgstr "Miembros del dominio"
+msgstr "Các thành viên Domain"
 
 msgid "Domain Name"
-msgstr "Nombre de dominio"
+msgstr "Tên Domain"
 
 msgid "Domains"
-msgstr "Dominios"
+msgstr "Các Domain"
 
 msgid ""
 "Domains provide separation between users and infrastructure used by "
 "different organizations."
 msgstr ""
-"Los dominios ofrecen una separación entre los usuarios y la infraestructura "
-"utilizada por las distintas organizaciones."
+"Các Domain cung cấp sự phân tách giữa các user và nền tảng được sử dụng bởi"
+"các tổ chức khác nhau."
 
 msgid ""
 "Domains provide separation between users and infrastructure used by "
 "different organizations. Edit the domain details to add or remove groups in "
 "the domain."
 msgstr ""
-"Los dominios ofrecen una separación entre los usuarios y la infraestructura "
-"utilizada por las distintas organizaciones. Modifique los detalles del "
-"dominio para añadir o eliminar grupos en el dominio."
+"Các Domain cung cấp sự phân tách giữa các user và nền tảng được sử dụng bởi "
+"các tổ chức khác nhau. Sửa thông tin chi tiết domain để thêm vào hoặc xóa các nhóm trong "
+"domain."
 
 msgid "Domains:"
-msgstr "Dominios:"
+msgstr "Các domain:"
 
 msgid "Down"
-msgstr "Abajo"
+msgstr "Tắt"
 
 msgctxt "Current state of a Hypervisor"
 msgid "Down"
-msgstr "Abajo"
+msgstr "Tắt"
 
 msgctxt "Current status of a Firewall"
 msgid "Down"
-msgstr "Abajo"
+msgstr "Tắt"
 
 msgctxt "Current status of a Floating IP"
 msgid "Down"
-msgstr "Abajo"
+msgstr "Tắt"
 
 msgctxt "Current status of a Network"
 msgid "Down"
-msgstr "Abajo"
+msgstr "Tắt"
 
 msgctxt "Current status of a Pool"
 msgid "Down"
-msgstr "Abajo"
+msgstr "Tắt"
 
 msgctxt "Current status of a VPN Service"
 msgid "Down"
-msgstr "Abajo"
+msgstr "Tắt"
 
 msgctxt "Current status of an IPSec Site Connection"
 msgid "Down"
-msgstr "Abajo"
+msgstr "Tắt"
 
 msgctxt "current status of port"
 msgid "Down"
-msgstr "Abajo"
+msgstr "Tắt"
 
 msgctxt "status of a network port"
 msgid "Down"
-msgstr "Abajo"
+msgstr "Tắt"
 
 msgid "Download"
-msgstr "Descargar"
+msgstr "Tải về"
 
 msgid "Download CSV Summary"
-msgstr "Descargar resumen en CSV"
+msgstr "Tải về CSV tóm tắt "
 
 msgid "Download EC2 Credentials"
-msgstr "Descargar credenciales EC2"
+msgstr "Tải về các chứng chỉ EC2"
 
 msgid "Download Key Pair"
-msgstr "Descargar par de claves"
+msgstr "Tải về cặp khóa Key Pair"
 
 msgid "Download OpenStack RC File v2.0"
-msgstr "Descargar archivo RC de OpenStack v2.0"
+msgstr "Tải về file Openstack RC phiên bản 2.0"
 
 msgid "Download OpenStack RC File v3"
-msgstr "Descargar archivo RC de OpenStack v3"
+msgstr "Tải về file Openstack RC phiên bản 3"
 
 #, python-format
 msgid "Download key pair &quot;%(keypair_name)s&quot;"
-msgstr "Descargar par de claves &quot;%(keypair_name)s&quot;"
+msgstr "Tải về cặp khóa &quot;%(keypair_name)s&quot;"
 
 msgid "EC2 Access Key"
-msgstr "Clave de acceso EC2"
+msgstr "Khóa truy cập EC2"
 
 msgid "EC2 Secret Key"
-msgstr "Clave secreta EC2"
+msgstr "Khóa bí mật EC2"
 
 msgid "EC2 URL"
 msgstr "EC2 URL"
 
 msgid "Edit"
-msgstr "Editar"
+msgstr "Chỉnh sửa"
 
 msgid "Edit Connection"
-msgstr "Editar conexión"
+msgstr "Chỉnh sửa kết nối"
 
 msgid "Edit Consistency Group"
-msgstr "Editar grupo de consistencia"
+msgstr "Chỉnh sửa nhóm thống nhất"
 
 msgid "Edit Consumer"
-msgstr "Editar consumidor"
+msgstr "Chỉnh sửa Consumer"
 
 msgid "Edit Consumer of QoS Spec"
-msgstr "Editar Consumidor en la especificación QoS"
+msgstr "Chỉnh sửa Consumer của đặc tả QoS"
 
 msgid "Edit Domain"
-msgstr "Editar dominio"
+msgstr "Chỉnh sửa Domain"
 
 #, python-format
 msgid "Edit Extra Spec Value: %s"
-msgstr "Editar valor de especificación adicional: %s"
+msgstr "Chỉnh sửa giá trị đặc tả bổ sung: %s"
 
 msgid "Edit Firewall"
-msgstr "Editar cortafuegos"
+msgstr "Chỉnh sửa Firewall"
 
 msgid "Edit Firewall {{ name }}"
-msgstr "Editar cortafuegos {{ name }}"
+msgstr "Chỉnh sửa Firewall {{ name }}"
 
 msgid "Edit Flavor"
-msgstr "Editar tipo"
+msgstr "Chỉnh sửa Flavor"
 
 msgid "Edit Group"
-msgstr "Editar grupo"
+msgstr "Chỉnh sửa nhóm Group"
 
 msgid "Edit Host Aggregate"
-msgstr "Editar agregado de host"
+msgstr "Chỉnh sửa tổng hợp máy chủ"
 
 msgid "Edit IKE Policy"
-msgstr "Editar política IKE"
+msgstr "Chỉnh sửa chính sách IKE"
 
 msgid "Edit IPSec Policy"
-msgstr "Editar política IPsec"
+msgstr "Chỉnh sửa chính sách IPsec"
 
 msgid "Edit IPSec Site Connection"
-msgstr "Editar la conexión a sitio IPsec"
+msgstr "Chỉnh sửa kết nối IPsec"
 
 msgid "Edit Image"
-msgstr "Editar Imagen"
+msgstr "Chỉnh sửa Image"
 
 msgid "Edit Instance"
-msgstr "Editar instancia"
+msgstr "Chỉnh sửa máy ảo"
 
 msgid "Edit Member"
-msgstr "Editar miembro"
+msgstr "Chỉnh sửa thành viên"
 
 msgid "Edit Monitor"
-msgstr "Editar supervisor"
+msgstr "Chỉnh sửa giám sát"
 
 msgid "Edit Network"
-msgstr "Editar red"
+msgstr "Chỉnh sửa mạng"
 
 msgid "Edit Object"
-msgstr "Editar objeto"
+msgstr "Chỉnh sửa đối tượng"
 
 msgid "Edit Policy"
-msgstr "Editar política"
+msgstr "Chỉnh sửa chính sách"
 
 msgid "Edit Policy {{ name }}"
-msgstr "Editar política {{ name }}"
+msgstr "Chỉnh sửa chính sách {{ name }}"
 
 msgid "Edit Pool"
-msgstr "Editar agrupación"
+msgstr "Chỉnh sửa Pool"
 
 msgid "Edit Port"
-msgstr "Editar puerto"
+msgstr "Chỉnh sửa Port"
 
 msgid "Edit Project"
-msgstr "Editar proyecto"
+msgstr "Chỉnh sửa Project"
 
 msgid "Edit QoS Spec Consumer"
-msgstr "Editar consumidor de especificaciones QoS"
+msgstr "Chỉnh sửa Consumer đặc tả QoS"
 
 msgid "Edit Router"
-msgstr "Editar direccionador "
+msgstr "Chỉnh sửa Router"
 
 msgid "Edit Rule"
-msgstr "Editar regla"
+msgstr "Chỉnh sửa Rule"
 
 msgid "Edit Rule {{ name }}"
-msgstr "Editar regla {{ name }}"
+msgstr "Chỉnh sửa Rule {{ name }}"
 
 msgid "Edit Security Group"
 msgstr "Editar grupo de seguridad"
 
 msgid "Edit Security Groups"
-msgstr "Editar grupos de seguridad"
+msgstr "Chỉnh sửa nhóm bảo mật"
 
 msgid "Edit Snapshot"
-msgstr "Editar instantánea"
+msgstr "Chỉnh sửa Snapshot"
 
 msgid "Edit Spec"
-msgstr "Editar especificación"
+msgstr "Chỉnh sửa đặc tả"
 
 msgid "Edit Spec Value"
-msgstr "Editar el valor de la especificación."
+msgstr "Chỉnh sửa giá trị đặc tả"
 
 msgid "Edit Subnet"
-msgstr "Editar subred"
+msgstr "Chỉnh sửa Subnet"
 
 msgid "Edit Template"
-msgstr "Editar plantilla"
+msgstr "Chỉnh sửa Template"
 
 msgid "Edit VIP"
-msgstr "Editar VIP"
+msgstr "Chỉnh sửa VIP"
 
 msgid "Edit VPN Service"
-msgstr "Editar servicio VPN"
+msgstr "Chỉnh sửa dịch vụ VPN"
 
 msgid "Edit Volume"
-msgstr "Editar volumen"
+msgstr "Chỉnh sửa Volume"
 
 msgid "Edit Volume Type"
-msgstr "Editar tipo de volumen"
+msgstr "Chỉnh sửa loại Volume"
 
 msgid "Edit Volume Type Extra Spec"
-msgstr "Editar las especificaciones adicionales del tipo de volumen"
+msgstr "Chỉnh sửa đặc tả bổ sung loại Volume"
 
 #, python-format
 msgid "Edit consistency group \"%s\"."
-msgstr "Editar el grupo de consistencia \"%s\"."
+msgstr "Chỉnh sửa nhóm thống nhất \"%s\"."
 
 msgid ""
 "Edit the flavor details. Flavors define the sizes for RAM, disk, number of "
 "cores, and other resources. Flavors are selected when users deploy instances."
 msgstr ""
-"Modifique los detalles del tipo. Los tipos definen el tamaño de la RAM, "
-"disco, número de núcleos y otros recursos. Los tipos se seleccionan cuando "
-"los usuarios despliegan las instancias."
+"Chỉnh sửa các chi tiết flavor. Các flavor định nghĩa kích cỡ RAM, "
+"ổ cứng, số core, và các tài nguyên khác. Các flavor được chọn khi "
+"người dùng triển khai máy ảo."
 
 msgid "Edit the identity provider's details."
-msgstr "Editar los detalles del proveedor de identidad."
+msgstr "Chỉnh sửa các chi tiết định danh của nhà cung cấp."
 
 msgid "Edit the image details."
-msgstr "Editar los detalles de la imagen."
+msgstr "Chỉnh sửa các chi tiết image."
 
 msgid "Edit the instance details."
-msgstr "Editar los detalles de la instancia."
+msgstr "Chỉnh sửa các chi tiết máy ảo."
 
 msgid "Edit the mapping's details."
-msgstr "Editar los detalles de la correlación."
+msgstr "Chỉnh sửa các chi tiết mapping."
 
 msgid "Edit the project details."
-msgstr "Editar los detalles del proyecto."
+msgstr "Chỉnh sửa các chi tiết của project."
 
 msgid "Edit the role's details."
-msgstr "Editar los detalles del rol."
+msgstr "Chỉnh sửa các chi tiết của role."
 
 msgid "Edit the user's details, including the Primary Project."
 msgstr ""
-"Editar la información detallada del usuario, incluyendo el proyecto "
-"principal."
+"Chỉnh sửa các chi tiết của người dùng, bao gồm Project "
+"chính."
 
 msgid "Egress"
-msgstr "Saliente"
+msgstr "Chiều ra"
 
 msgid "Email"
-msgstr "Correo electrónico"
+msgstr "Email"
 
 msgid "Enable DHCP"
-msgstr "Habilitar DHCP"
+msgstr "Kích hoạt DHCP"
 
 msgid "Enable Domain"
 msgid_plural "Enable Domains"
-msgstr[0] "Habilitar dominio"
-msgstr[1] "Habilitar dominios"
+msgstr[0] "Kích hoạt Domain"
+msgstr[1] "Kích hoạt các Domain"
 
 msgid "Enable Domains"
-msgstr "Habilitar dominios"
+msgstr "Kích hoạt các Domain"
 
 msgid "Enable HA mode"
-msgstr "Habilitar modo HA"
+msgstr "Kích hoạt chế độ HA"
 
 msgid "Enable Service"
 msgid_plural "Enable Services"
-msgstr[0] "Habilitar servicio"
-msgstr[1] "Habilitar servicios"
+msgstr[0] "Kích hoạt Dịch vụ"
+msgstr[1] "Kích hoạt các Dịch vụ"
 
 msgid "Enable User"
 msgid_plural "Enable Users"
-msgstr[0] "Habilitar usuario"
-msgstr[1] "Habilitar usuarios"
+msgstr[0] "Kích hoạt User"
+msgstr[1] "Kích hoạt các User"
 
 msgid "Enable rollback on create/update failure."
-msgstr "Habilitar restauración tras fallo de creación/actualización."
+msgstr "Kích hoạt rollback khi tạo/cập nhật bị lỗi."
 
 msgid "Enabled"
-msgstr "Habilitado"
+msgstr "Đã kích hoạt"
 
 msgctxt "Current status of a Hypervisor"
 msgid "Enabled"
-msgstr "Habilitado"
+msgstr "Đã kích hoạt"
 
 msgid "Enabled Domain"
 msgid_plural "Enabled Domains"
-msgstr[0] "Dominio habilitado"
-msgstr[1] "Dominios habilitados"
+msgstr[0] "Đã kích hoạt Domain"
+msgstr[1] "Đã kích hoạt các Domain"
 
 msgid "Enabled Service"
 msgid_plural "Enabled Services"
-msgstr[0] "Servicio habilitado"
-msgstr[1] "Servicios habilitados"
+msgstr[0] "Đã kích hoạt Dịch vụ"
+msgstr[1] "Đã kích hoạt các Dịch vụ"
 
 msgid "Enabled User"
 msgid_plural "Enabled Users"
-msgstr[0] "Usuario habilitado"
-msgstr[1] "Usuarios habilitados"
+msgstr[0] "Đã kích hoạt User"
+msgstr[1] "Đã kích hoạt các User"
 
 msgid "Encapsulation mode"
-msgstr "Modo de encapsulamiento"
+msgstr "Mode đóng gói"
 
 msgid "Encrypted"
-msgstr "Cifrado"
+msgstr "Đã mã hóa"
 
 msgid "Encrypted Password"
-msgstr "Contraseña cifrada"
+msgstr "Đã mã hóa mật khẩu"
 
 msgid "Encryption"
-msgstr "Cifrado"
+msgstr "Mã hóa"
 
 msgid "Encryption algorithm"
-msgstr "Algoritmo de cifrado"
+msgstr "Thuật toán mã hóa"
 
 msgid ""
 "Encryption information cannot be updated for a volume type if volumes are "
 "currently in use with the volume type."
 msgstr ""
-"No se puede actualizar la información de cifrado para un tipo de volumen si "
-"los volúmenes con ese tipo de volumen se están utilizando actualmente."
+"Thông tin mã hóa không thể được cập nhật cho một kiểu volume nếu các volume  "
+"hiện tại được sử dụng với kiểu volume."
 
 msgid "Energy (Kwapi)"
-msgstr "Energy (Kwapi)"
+msgstr "Năng lượng (Kwapi)"
 
 msgid "Engine Id"
-msgstr "Identificación del motor"
+msgstr "ID của cơ chế"
 
 msgid "Enter Network Address manually"
-msgstr "Introducir la dirección de red manualmente"
+msgstr "Nhập địa chỉ mạng thủ công"
 
 msgid "Enter a value for ICMP code in the range (-1: 255)"
-msgstr "Introduzca un valor para el código ICMP dentro del rango (-1:255)"
+msgstr "Nhập vào một giá trị cho mã ICMP trong dải (-1:255)"
 
 msgid "Enter a value for ICMP type in the range (-1: 255)"
-msgstr "Introduzca un valor para el tipo ICMP dentro del rango (-1:255)"
+msgstr "Nhập một giá trị cho kiểu ICMP trong dải (-1:255)"
 
 msgid "Enter an integer value between 0 and 255 (or -1 which means wildcard)."
 msgstr ""
-"Introduzca un valor entero entre 0 y 255 (o -1, que significa comodín)."
+"Nhập một giá trị số nguyên giữa 0 và 255  (hoặc -1, que significa comodín)."
 
 msgid "Enter an integer value between 1 and 65535."
-msgstr "Introduzca un número entero entre 1 y 65535."
+msgstr "Nhập một số nguyên trong khoảng 1 và 65535."
 
 msgid ""
 "Enter an integer value between 1 and 65535. The same port will be used for "
 "all the selected members and can be modified later."
 msgstr ""
-"Introduzca un valor entero entre 1 y 65535. Se utilizará el mismo puerto "
-"para todos los miembros seleccionados y podrá ser modificado más tarde."
+"Nhập một số nguyên giữa 1 và 65535. Cổng giống nhau sẽ được sử dụng cho "
+"tất cả các thành viên được chọn và có thể được tùy chỉnh sau."
 
 msgid "Environment Data"
-msgstr "Datos del entorno"
+msgstr "Dữ liệu môi trường"
 
 msgid "Environment File"
-msgstr "Archivo de entorno"
+msgstr "File môi trường"
 
 msgid "Environment Source"
-msgstr "Origen de entorno"
+msgstr "Nguồn môi trường"
 
 msgid "Ephemeral Disk"
-msgstr "Disco efímero"
+msgstr "Ổ cứng tạm thời"
 
 msgid "Ephemeral Disk (GB)"
-msgstr "Disco efímero (GB)"
+msgstr "Ổ cứng tạm thời (GB)"
 
 msgid "Equal to or greater than 60"
-msgstr "Mayor o igual que 60"
+msgstr "Bằng hoặc lớn hơn 60"
 
 msgid ""
 "Equal to or greater than 68 if the local subnet is IPv4. Equal to or greater "
 "than 1280 if the local subnet is IPv6."
 msgstr ""
-"Mayor o igual que 68 si la subred local es IPv4. Igual o mayor que 1280 si "
-"la subred local es IPv6."
+"Bằng hoặc lớn hơn 68 nếu subnet nội bộ là IPv4. Bằng hoặc lớn hơn "
+"1280 nếu subnet nội bộ là IPv6."
 
 msgid "Error"
-msgstr "Error"
+msgstr "Lỗi"
 
 msgctxt "Current status of Consistency Group"
 msgid "Error"
-msgstr "Error"
+msgstr "Lỗi"
 
 msgctxt "Current status of a Firewall"
 msgid "Error"
-msgstr "Error"
+msgstr "Lỗi"
 
 msgctxt "Current status of a Floating IP"
 msgid "Error"
-msgstr "Error"
+msgstr "Lỗi"
 
 msgctxt "Current status of a Network"
 msgid "Error"
-msgstr "Error"
+msgstr "Lỗi"
 
 msgctxt "Current status of a Pool"
 msgid "Error"
-msgstr "Error"
+msgstr "Lỗi"
 
 msgctxt "Current status of a VPN Service"
 msgid "Error"
-msgstr "Error"
+msgstr "Lỗi"
 
 msgctxt "Current status of a Volume"
 msgid "Error"
-msgstr "Error"
+msgstr "Lỗi"
 
 msgctxt "Current status of a Volume Backup"
 msgid "Error"
-msgstr "Error"
+msgstr "Lỗi"
 
 msgctxt "Current status of an IPSec Site Connection"
 msgid "Error"
-msgstr "Error"
+msgstr "Lỗi"
 
 msgctxt "Current status of an Instance"
 msgid "Error"
-msgstr "Error"
+msgstr "Lỗi"
 
 msgctxt "current status of port"
 msgid "Error"
-msgstr "Error"
+msgstr "Lỗi"
 
 msgctxt "current status of router"
 msgid "Error"
-msgstr "Error"
+msgstr "Lỗi"
 
 msgctxt "status of a network port"
 msgid "Error"
-msgstr "Error"
+msgstr "Lỗi"
 
 msgid "Error Deleting"
-msgstr "Error al suprimir"
+msgstr "Lỗi xóa"
 
 #, python-format
 msgid "Error Downloading RC File: %s"
-msgstr "Error al descargar el archivo RC: %s"
+msgstr "Lỗi tải file RC: %s"
 
 msgctxt "Current status of a Volume"
 msgid "Error Extending"
-msgstr "Error al ampliar"
+msgstr "Lỗi mở rộng"
 
 msgctxt "Current status of a Volume"
 msgid "Error Restoring"
-msgstr "Error al restaurar."
+msgstr "Lỗi khi khôi phục lại"
 
 msgctxt "Current status of a Volume Backup"
 msgid "Error Restoring"
-msgstr "Error al restaurar."
+msgstr "Lỗi khi khôi phục lại"
 
 msgid "Error adding Hosts to the aggregate."
-msgstr "Error al añadir hosts a la agregación ."
+msgstr "Lỗi thêm các máy chủ vào nhóm tập trung."
 
 msgctxt "Current status of a Volume"
 msgid "Error deleting"
-msgstr "Error al suprimir"
+msgstr "Lỗi xóa"
 
 msgid "Error editing QoS Spec consumer."
-msgstr "Error al editar el consumidor de la especificación QoS."
+msgstr "Lỗi chỉnh sửa consumer đặc tả QoS."
 
 msgid "Error getting metadata definitions."
-msgstr "Error al obtener las definiciones de metadatos."
+msgstr "Lỗi không nhận định dạng metadata."
 
 msgid "Error getting resource type associations."
-msgstr "Error al obtener las asociaciones de tipos de recursos"
+msgstr "Lỗi nhận các liên kết loại tài nguyên"
 
 msgid "Error updating QoS Spec association."
-msgstr "Error al actualizar la asociación de la especificación QoS."
+msgstr "Lỗi cập nhật liên kết đặc tả QoS."
 
 #, python-format
 msgid "Error updating resource types for namespace %s."
 msgstr ""
-"Error al actualizar los tipos de recursos para el espacio de nombres %s."
+"Lỗi cập nhận các loại tài nguyên cho namespace %s."
 
 msgid "Error when adding or removing hosts."
-msgstr "Error al añadir o suprimir servidores"
+msgstr "Lỗi khi thêm hoặc xóa các máy chủ."
 
 #, python-format
 msgid "Error writing zipfile: %(exc)s"
-msgstr "Error al escribir el archivo zip: %(exc)s"
+msgstr "Lỗi viết file zip: %(exc)s"
 
 msgid "Ether Type"
-msgstr "Tipo Ethernet"
+msgstr "Loại Ethernet"
 
 msgid "Evacuate Host"
-msgstr "Evacuar host"
+msgstr "Di tản máy chủ"
 
 msgid ""
 "Evacuate the servers from the selected down host to an active target host."
-msgstr "Evacuar los servidores del host inactivo a un host de destino activo."
+msgstr "Di chuyển các server từ máy chủ bị tắt được chọn tới một máy chủ khác đang hoạt động."
 
 msgid "Events"
-msgstr "Sucesos"
+msgstr "Các sự kiện"
 
 msgid ""
 "Example: For <tt>mod_shib</tt> this would be <tt>Shib-Identity-Provider</"
 "tt>, for <tt>mod_auth_openidc</tt>, this could be <tt>HTTP_OIDC_ISS</tt>."
 msgstr ""
-"Ejemplo: para <tt>mod_shib</tt> sería <tt>Shib-Identity-Provider</tt>, para "
-"<tt>mod_auth_openidc</tt>, podría ser <tt>HTTP_OIDC_ISS</tt>."
+"Ví dụ: Với <tt>mod_shib</tt> sẽ là <tt>Shib-Identity-Provider</tt>, với "
+"<tt>mod_auth_openidc</tt>, có thể là <tt>HTTP_OIDC_ISS</tt>."
 
 msgid ""
 "Example: The prefix 'hw:' is added to OS::Nova::Flavor for the Virtual CPU "
 "Topology namespace so that the properties will be prefixed with 'hw:' when "
 "applied to flavors."
 msgstr ""
-"Ejemplo: Se añade el prefijo 'hw:' a OS::Nova::Flavor para el espacio de "
-"nombres de Topología de CPU Virtual de forma que a las propiedades se les "
-"pondrá el prefijo 'hw:' cuando se apliquen a los tipos."
+"Ví dụ: Tiền tố 'hw:' được thêm vào OS::Nova::Flavor cho mô hình namespace CPU ảo "
+"để các thuộc tính sẽ được bắt đầu với 'hw:' khi  "
+"áp dụng cho các flavor"
 
 msgid "Existence of floating ip"
-msgstr "Existencia de una IP flotante"
+msgstr "Sự tồn tại của Floating IP"
 
 msgid "Existence of instance"
-msgstr "Existencia de instancia"
+msgstr "Sự tồn tại của máy ảo"
 
 msgid "Existence of instance <type> (openstack types)"
-msgstr "Existencia de instancia <type> (tipos openstack)"
+msgstr "Sự tồn tại của máy ảo <type> (các loại openstack)"
 
 msgid "Existence of network"
-msgstr "Existencia de una red"
+msgstr "Sự tồn tại của mạng"
 
 msgid "Existence of port"
-msgstr "Existencia de un puerto"
+msgstr "Sự tồn tại của port"
 
 msgid "Existence of router"
-msgstr "Existencia de un direccionador"
+msgstr "Sự tồn tại của router"
 
 msgid "Existence of subnet"
-msgstr "Existencia de una subred"
+msgstr "Sự tồn tại của subnet"
 
 msgid "Existence of volume"
-msgstr "Existencia del volumen"
+msgstr "Sự tồn tại của volume"
 
 msgid "Expected Codes"
-msgstr "Códigos esperados"
+msgstr "Các mã mong đợi"
 
 msgid "Expected HTTP Status Codes"
-msgstr "Códigos de estado HTTP aceptados"
+msgstr "Các mã trạng thái HTTP mong đợi"
 
 msgid ""
 "Expected code may be a single value (e.g. 200), a list of values (e.g. 200, "
 "202), or range of values (e.g. 200-204)"
 msgstr ""
-"El código esperado puede ser un valor simple (por ejemplo, 200), una lista "
-"de valores (por ejemplo, 200, 202) o un rango de valores (por ejemplo, "
+"Mã mong đợi có thể là một giá trị đơn (ví dụ: 200), một danh sách các giá trị "
+"(ví dụ: 200, 202), hoặc một dải các giá trị (ví dụ: "
 "200-204)"
 
 msgid "Extend Volume"
-msgstr "Ampliar volumen"
+msgstr "Mở rộng volume"
 
 msgid "Extend the size of a volume."
-msgstr "Ampliar el tamaño de un volumen."
+msgstr "Một rộng kích thước một volume."
 
 msgctxt "Current status of a Volume"
 msgid "Extending"
-msgstr "Ampliando"
+msgstr "Đang mở rộng"
 
 #, python-format
 msgid "Extending volume: \"%s\""
-msgstr "Ampliando el volumen: \"%s\""
+msgstr "Đang mở rộng volume: \"%s\""
 
 msgid "External"
-msgstr "Externa"
+msgstr "Bên ngoài"
 
 msgid "External Fixed IPs"
-msgstr "IPs Externas Fijas"
+msgstr "Địa chỉ IP bên ngoài cố định"
 
 msgid "External Gateway"
-msgstr "Puerta de enlace externa"
+msgstr "Địa chỉ Gateway bên ngoài"
 
 msgid "External Network"
-msgstr "Red externa"
+msgstr "Mạng bên ngoài"
 
 #, python-format
 msgid ""
 "External network \"%(ext_net_id)s\" expected but not found for router "
 "\"%(router_id)s\"."
 msgstr ""
-"Se esperaba una red externa \"%(ext_net_id)s\" pero no se ha encontrado para "
-"el direccionador \"%(router_id)s\"."
+"Mạng bên ngoài \"%(ext_net_id)s\" được mong đợi nhưng không tìm thấy router"
+"\"%(router_id)s\"."
 
 msgid "Extra Specs"
-msgstr "Especificaciones adicionales"
+msgstr "Bổ sung thông số kĩ thuật"
 
 msgid "FQDN"
 msgstr "FQDN"
 
 msgctxt "Power state of an Instance"
 msgid "Failed"
-msgstr "Con fallo"
+msgstr "Đã xảy ra lỗi"
 
 #, python-format
 msgid ""
 "Failed to add %(users_to_add)s project members%(group_msg)s and set project "
 "quotas."
 msgstr ""
-"Ha habido un fallo al añadir %(users_to_add)s miembros del proyecto "
-"%(group_msg)s y definir las cuotas del proyecto."
+"Đã xảy ra lỗi khi thêm %(users_to_add)s thành viên project "
+"%(group_msg)s và thiết lập hạn ngạch project."
 
 #, python-format
 msgid "Failed to add %s project groups and update project quotas."
 msgstr ""
-"Ha habido un fallo al añadir %s grupos del proyecto y actualizar las cuotas "
-"del proyecto."
+"Đã xảy ra lỗi khi thêm %s các nhóm project và cập nhật"
+" hạn ngạch project."
 
 #, python-format
 msgid "Failed to add agent %(agent_name)s for network %(network)s."
-msgstr "Fallo al añadir el agente %(agent_name)s para la red %(network)s."
+msgstr "Đã xảy ra lỗi khi thêm agent %(agent_name)s cho mạng %(network)s."
 
 #, python-format
 msgid "Failed to add route : %s"
@@ -3807,412 +3807,412 @@ msgstr "Ha ocurrido un error al añadir la ruta : %s"
 
 #, python-format
 msgid "Failed to add router rule %s"
-msgstr "Ha ocurrido un error al añadir la regla de direccionador %s"
+msgstr "Đã xảy ra lỗi khi thêm router rule %s"
 
 #, python-format
 msgid "Failed to add router(s) to firewall %(name)s: %(reason)s"
 msgstr ""
-"Fallo al añadir el/los direccionador(es) al cortafuegos %(name)s: %(reason)s"
+"Đã xảy ra lỗi khi thêm router (es) tới firewall %(name)s: %(reason)s"
 
 #, python-format
 msgid "Failed to add_interface: %s"
-msgstr "No se ha podido añadir la interfaz: %s"
+msgstr "Đã xảy ra lỗi khi thêm interface: %s"
 
 #, python-format
 msgid "Failed to check Neutron '%s' extension is not supported"
-msgstr "Fallo al verificar la extension \"%s\" de Neutron, no esta soportada"
+msgstr "Đã xảy ra lỗi khi kiểm tra phần mở rộng của Neutron \"%s\" không được hỗ trợ"
 
 msgid "Failed to check if Neutron extraroute extension is supported"
 msgstr ""
-"Ha ocurrido un error al verificar si la extensión Neutron estaba soportada"
+"Đã xảy ra lỗi khi kiểm tra phần mở rộng định tuyến mở rộng của Neutron không được hỗ trợ"
 
 #, python-format
 msgid "Failed to create a port for network %s"
-msgstr "Ha habido un fallo al crear un puerto para la red %s"
+msgstr "Đã xảy ra lỗi khi tạo port cho network %s"
 
 #, python-format
 msgid "Failed to create network \"%(network)s\": %(reason)s"
-msgstr "Ha ocurrido un fallo al crear la red \"%(network)s\": %(reason)s"
+msgstr "Đã xảy ra lỗi khi tạo network \"%(network)s\": %(reason)s"
 
 #, python-format
 msgid "Failed to create network %s"
-msgstr "Ha habido un fallo crear la red %s"
+msgstr "Đã xảy ra lỗi khi tạo network %s"
 
 #, python-format
 msgid "Failed to create router \"%s\"."
-msgstr "Ha ocurrido un fallo al crear el direccionador \"%s\"."
+msgstr "Đã xảy ra lỗi khi tạo router \"%s\"."
 
 #, python-format
 msgid ""
 "Failed to create subnet \"%(sub)s\" for network \"%(net)s\":  %(reason)s"
 msgstr ""
-"Ha ocurrido un fallo al crear la subred \"%(sub)s\" de la red \"%(net)s\": "
+"Tạo bại khi tạo subnet \"%(sub)s\" cho mạng \"%(net)s\": "
 "%(reason)s"
 
 #, python-format
 msgid "Failed to delete agent: %s"
-msgstr "Fallo al suprimir el agente: %s"
+msgstr "Đã xảy ra lỗi khi xóa agent: %s"
 
 #, python-format
 msgid "Failed to delete interface %s"
-msgstr "Ha ocurrido un fallo al suprimir la interfaz %s"
+msgstr "Đã xảy ra lỗi khi xóa interface %s"
 
 #, python-format
 msgid "Failed to delete network \"%s\""
-msgstr "Ha ocurrido un fallo al suprimir la red \"%s\""
+msgstr "Đã xảy ra lỗi khi xóa mạng \"%s\""
 
 #, python-format
 msgid "Failed to delete network %s"
-msgstr "Ha habido un fallo al suprimir la red %s"
+msgstr "Đã xảy ra lỗi khi xóa mạng %s"
 
 #, python-format
 msgid "Failed to delete port %s"
-msgstr "Ha ocurrido un fallo al suprimir el puerto %s"
+msgstr "Đã xảy ra lỗi khi xóa port %s"
 
 #, python-format
 msgid "Failed to delete port: %s"
-msgstr "Ha ocurrido un fallo al suprimir el puerto: %s"
+msgstr "Đã xảy ra lỗi khi xóa port: %s"
 
 #, python-format
 msgid "Failed to delete subnet %s"
-msgstr "Ha habido un fallo al suprimir la subred %s"
+msgstr "Đã xảy ra lỗi khi xóa subnet %s"
 
 #, python-format
 msgid "Failed to disable compute service for host: %s."
-msgstr "Error al deshabilitar el servicio de computación del host: %s."
+msgstr "Đã xảy ra lỗi vô hiệu hóa dịch vụ compute cho máy chủ: %s."
 
 #, python-format
 msgid "Failed to evacuate host: %s."
-msgstr "Fallo al evacuar el host: %s."
+msgstr "Đã xảy ra lỗi khi di tản máy chủ: %s."
 
 #, python-format
 msgid "Failed to evacuate instances: %s"
-msgstr "Se ha producido un error al evacuar las instancias: %s"
+msgstr "Đã xảy ra lỗi khi di tản các máy ảo: %s"
 
 #, python-format
 msgid "Failed to get mapping list %s"
-msgstr "Ha ocurrido un fallo al obtener la lista de correlaciones %s"
+msgstr "Đã xảy ra lỗi khi lấy danh sách mapping %s"
 
 #, python-format
 msgid "Failed to get network list %s"
-msgstr "Ha ocurrido un fallo al obtener la lista de redes %s"
+msgstr "Đã xảy ra lỗi khi lấy danh sách mạng %s"
 
 msgid "Failed to get network list {0}"
-msgstr "Fallo al obtener la lista de redes {0}"
+msgstr "Đã xảy ra lỗi khi lấy danh sách mạng {0}"
 
 msgid "Failed to get network list."
-msgstr "Fallo al obtener la lista de redes."
+msgstr "Đã xảy ra lỗi khi lấy danh sách mạng."
 
 #, python-format
 msgid "Failed to get the resource name: %s"
-msgstr "Error al obtener el nombre del recurso: %s"
+msgstr "Đã xảy ra lỗi khi lấy tài nguyên tên: %s"
 
 #, python-format
 msgid "Failed to insert rule to policy %(name)s: %(reason)s"
 msgstr ""
-"Ha ocurrido un fallo al añadir la regla a la política  %(name)s: %(reason)s"
+"Đã xảy ra lỗi khi chèn rule vào chính sách %(name)s: %(reason)s"
 
 #, python-format
 msgid "Failed to live migrate instance to host \"%s\"."
 msgstr ""
-"Ha ocurrido un fallo en la migración en directo de la instancia al host \"%s"
+"Đã xảy ra lỗi khi di chuyển trực tiếp (live migrate) máy ảo tới máy chủ \"%s"
 "\"."
 
 #, python-format
 msgid "Failed to migrate host \"%s\"."
-msgstr "Ha fallado la migración del host: \"%s\"."
+msgstr "Đã xảy ra lỗi khi di chuyển máy chủ: \"%s\"."
 
 #, python-format
 msgid "Failed to migrate instances: %s"
-msgstr "Se ha producido un error al migrar las instancias: %s"
+msgstr "Đã xảy ra lỗi khi di chuyển các máy ảo: %s"
 
 msgid "Failed to migrate volume."
-msgstr "Error al migrar el volumen."
+msgstr "Đã xảy ra lỗi khi di chuyển volume."
 
 #, python-format
 msgid ""
 "Failed to modify %(num_groups_to_modify)d instance security groups: %(err)s"
 msgstr ""
-"Error al modificar %(num_groups_to_modify)d grupos de seguridad de la "
-"instancia: %(err)s"
+"Đã xảy ra lỗi khi sửa đổi  %(num_groups_to_modify)d nhóm bảo mật "
+"máy ảo: %(err)s"
 
 #, python-format
 msgid ""
 "Failed to modify %(users_to_modify)s project members%(group_msg)s and update "
 "project quotas."
 msgstr ""
-"Ha habido un fallo al modificar %(users_to_modify)s miembros del proyecto "
-"%(group_msg)s y actualizar las cuotas del proyecto."
+"Đã xảy ra lỗi khi sửa đổi %(users_to_modify)s thành viên project "
+"%(group_msg)s và cập nhật hạn ngạch của project."
 
 #, python-format
 msgid "Failed to modify %d instance security groups"
 msgstr ""
-"Se ha producido un error al modificar  %d grupos de seguridad de la instancia"
+"Đã xảy ra lỗi khi sửa đổi %d các nhóm bảo mật máy ảo"
 
 #, python-format
 msgid "Failed to modify %s domain groups."
-msgstr "Ha ocurrido un fallo al modificar los grupos de dominio %s."
+msgstr "Đã xảy ra lỗi khi sửa đổi %s các nhóm domain."
 
 #, python-format
 msgid "Failed to modify %s project members and update domain groups."
 msgstr ""
-"Ha ocurrido un fallo al modificar los miembros del proyecto %s y actualizar "
-"los grupos del dominio."
+"Đã xảy ra lỗi khi sửa đổi %s các thành viên project và  "
+"cập nhật các nhóm domain."
 
 #, python-format
 msgid ""
 "Failed to modify %s project members, update project groups and update "
 "project quotas."
 msgstr ""
-"Ha habido un fallo al modificar %s miembros del proyecto, actualizar los "
-"grupos del proyecto y actualizar las cuotas del proyecto."
+"Đã xảy ra lỗi khi sửa đổi %s các thành viên project, cập nhật "
+"các  nhóm project và cập nhật hạn ngạch project."
 
 #, python-format
 msgid ""
 "Failed to perform requested operation on instance \"%s\", the instance has "
 "an error status"
 msgstr ""
-"Ha fallado la ejecución de la operación solicitada en la instancia \"%s\", "
-"la instancia tiene un estado de error."
+"Đã xảy ra lỗi khi thực hiện yêu cầu thao tác trên máy ảo \"%s\", "
+"máy ảo trong trạng thái bị lỗi."
 
 #, python-format
 msgid "Failed to remove router(s) from firewall %(name)s: %(reason)s"
 msgstr ""
-"Ha ocurrido un fallo al eliminar direccionador(es) del cortafuegos  "
+"Đã xảy ra lỗi khi xóa router (các router) khỏi firewall "
 "%(name)s: %(reason)s"
 
 #, python-format
 msgid "Failed to remove rule from policy %(name)s: %(reason)s"
 msgstr ""
-"Ha ocurrido un fallo al eliminar la regla de la política %(name)s: %(reason)s"
+"Đã xảy ra lỗi khi xóa rule từ chính sách %(name)s: %(reason)s"
 
 #, python-format
 msgid "Failed to retrieve available routers: %(reason)s"
 msgstr ""
-"Se ha producido un fallo al recuperar los direccionadores disponibles: "
+"Đã xảy ra lỗi khi phục hồi các router có sẵn: "
 "%(reason)s"
 
 #, python-format
 msgid "Failed to retrieve available rules: %s"
-msgstr "No se han podido recuperar las reglas disponibles: %s"
+msgstr "Đã xảy ra lỗi khi phục hổi các rule có sẵn: %s"
 
 #, python-format
 msgid "Failed to retrieve current routers in firewall %(name)s: %(reason)s"
 msgstr ""
-"Ha ocurrido un fallo al obtener los direccionadores actuales del cortafuegos "
+"Đã xảy ra lỗi khi phục hồi các router hiện tại trong firewall "
 "%(name)s: %(reason)s"
 
 #, python-format
 msgid "Failed to retrieve current rules in policy %(name)s: %(reason)s"
 msgstr ""
-"Ha ocurrido un fallo al obtener las reglas actuales en la política %(name)s: "
+"Đã xảy ra lỗi khi phục hồi các rule hiện tại trong chính sách %(name)s: "
 "%(reason)s"
 
 msgid "Failed to retrieve health monitors."
 msgstr ""
-"Ha ocurrido un error al intentar obtener la lista de supervisores de estado."
+"Đã xảy ra lỗi khi truy xuất giám sát tình trạng."
 
 #, python-format
 msgid "Failed to retrieve network %s for a subnet"
-msgstr "Ha habido un fallo al recuperar la red %s para una subred"
+msgstr "Đã xảy ra lỗi khi phục hồi mạng %s cho một mạng con"
 
 #, python-format
 msgid "Failed to set gateway %s"
-msgstr "Ha ocurrido un error al establecer la puerta de enlace %s"
+msgstr "Đã xảy ra lỗi khi thiết lập gateway %s"
 
 #, python-format
 msgid "Failed to update IKE Policy %s"
-msgstr "Ha fallado la modificación de la política IKE %s"
+msgstr "Đã xảy ra lỗi khi cập nhật chính sách IKE %s"
 
 #, python-format
 msgid "Failed to update IPSec Policy %s"
-msgstr "Ha ocurrido un error al actualizar la política IPSec %s"
+msgstr "Đã xảy ra lỗi khi thiết lập chính sách IPSec %s"
 
 #, python-format
 msgid "Failed to update IPSec Site Connection %s"
-msgstr "Ha ocurrido un fallo al actualizar la conexión sitio a sitio IPSec %s"
+msgstr "Đã xảy ra lỗi khi cập nhật kết nối IPSec site-to-site %s"
 
 #, python-format
 msgid "Failed to update VIP %s"
-msgstr "Ha ocurrido un fallo al actualizar la VIP %s"
+msgstr "Đã xảy ra lỗi khi cập nhật VIP %s"
 
 #, python-format
 msgid "Failed to update VPN Service %s"
-msgstr "Ha fallado la modificación del servicio VPN %s"
+msgstr "Đã xảy ra lỗi khi cập nhật dịch vụ VPN %s"
 
 #, python-format
 msgid "Failed to update firewall %(name)s: %(reason)s"
 msgstr ""
-"Ha ocurrido un error al actualizar el cortafuegos: %(name)s: %(reason)s"
+"Đã xảy ra lỗi khi cập nhật firewall %(name)s: %(reason)s"
 
 #, python-format
 msgid "Failed to update health monitor %s"
-msgstr "Ha ocurrido un fallo al actualizar el supervisor de estado %s"
+msgstr "Đã xảy ra lỗi khi cập nhật trình giám sát trạng thái %s"
 
 #, python-format
 msgid "Failed to update member %s"
-msgstr "Ha ocurrido un fallo al actualizar el miembro %s"
+msgstr "Đã xảy ra lỗi khi cập nhật thành viên %s"
 
 #, python-format
 msgid "Failed to update network %s"
-msgstr "Ha habido un fallo al actualizar la red %s"
+msgstr "Đã xảy ra lỗi khi cập nhật mạng %s"
 
 #, python-format
 msgid "Failed to update policy %(name)s: %(reason)s"
-msgstr "Ha habido un fallo al actualizar la política %(name)s: %(reason)s"
+msgstr "Đã xảy ra lỗi khi cập nhật chính sách %(name)s: %(reason)s"
 
 #, python-format
 msgid "Failed to update pool %s"
-msgstr "Ha habido un fallo al actualizar la agrupación %s"
+msgstr "Đã xảy ra lỗi khi cập nhật pool %s"
 
 #, python-format
 msgid "Failed to update port %s"
-msgstr "Ha habido un fallo al actualizar el puerto %s"
+msgstr "Đã xảy ra lỗi khi cập nhật port %s"
 
 #, python-format
 msgid "Failed to update router %s"
-msgstr "Fallo al actualizar el direccionador %s"
+msgstr "Đã xảy ra lỗi khi cập nhật router %s"
 
 #, python-format
 msgid "Failed to update rule %(name)s: %(reason)s"
-msgstr "Ha ocurrido un error al actualizar la regla %(name)s: %(reason)s"
+msgstr "Đã xảy ra lỗi khi cập nhật rule %(name)s: %(reason)s"
 
 #, python-format
 msgid "Failed to update subnet \"%(sub)s\":  %(reason)s"
-msgstr "Ha ocurrido un fallo al actualizar la subred \"%(sub)s\": %(reason)s"
+msgstr "Đã xảy ra lỗi khi cập nhật subnet \"%(sub)s\": %(reason)s"
 
 #, python-format
 msgid "Failed to verify extension support %(reason)s"
-msgstr "Ha habido un error al verificar el soporte de la ampliación %(reason)s"
+msgstr "Đã xảy ra lỗi khi xác minh hỗ trợ tiện ích mở rộng  %(reason)s"
 
 msgid "False"
-msgstr "Falso"
+msgstr "Sai"
 
 msgid "Fan RPM"
-msgstr "RPM ventilador"
+msgstr "Quạt RPM"
 
 msgid "Fault"
-msgstr "Fallo"
+msgstr "Thất bại"
 
 msgid "Federation"
-msgstr "Federación"
+msgstr "Liên đoàn"
 
 msgid ""
 "Fields in this tab are optional. You can configure the detail of IPSec site "
 "connection created."
 msgstr ""
-"Los campos en esta pestaña son opcionales. Puede configurar los detalles de "
-"la conexión de sitio IPSec creada."
+"Các trường trong tab này là tùy chọn. Bạn có thể cấu hình chi tiết kết nối "
+"IPSec đã tạo."
 
 msgid "File"
-msgstr "Archivo"
+msgstr "Tệp"
 
 msgid "File exceeds maximum size (16kb)"
-msgstr "El archivo excede el tamaño máximo (16kb)"
+msgstr "Tệp vượt quá kích thước tối đa (16kb)"
 
 msgid "File:"
-msgstr "Archivo:"
+msgstr "Tệp:"
 
 msgid "Filter"
-msgstr "Filtrar"
+msgstr "Bộ lọc"
 
 msgid "Fingerprint"
 msgstr "Huella dactilar"
 
 msgctxt "Task status of an Instance"
 msgid "Finishing Resize or Migrate"
-msgstr "Terminando redimensionar o migrar"
+msgstr "Hoàn thành thay đổi hoặc di chuyển"
 
 msgid "Firewall"
-msgstr "Cortafuegos"
+msgstr "Firewall"
 
 #, python-format
 msgid "Firewall %s was successfully updated."
-msgstr "Se ha actualizado correctamente el cortafuegos %s."
+msgstr "Firewall %s đã được cập nhật thành công."
 
 msgid "Firewall Policies"
-msgstr "Políticas de cortafuegos"
+msgstr "Các chính sách Firewall"
 
 msgid "Firewall Rules"
-msgstr "Reglas de cortafuegos"
+msgstr "Các rule Firewall"
 
 msgid "Firewalls"
-msgstr "Cortafuegos"
+msgstr "Các firewall"
 
 msgid "Fixed IPs"
-msgstr "IPs fijas"
+msgstr "Các IP cố định"
 
 msgid "Flat"
-msgstr "Plano"
+msgstr "Phẳng"
 
 msgid "Flavor"
-msgstr "Tipo"
+msgstr "Flavor"
 
 msgid "Flavor Access"
-msgstr "Acceso al tipo"
+msgstr "Truy cập Flavor"
 
 msgid "Flavor Choice"
-msgstr "Elección de tipo"
+msgstr "Lựa chọn Flavor"
 
 msgid "Flavor Details"
-msgstr "Detalles del tipo"
+msgstr "Các chi tiết của Flavor"
 
 #, python-format
 msgid "Flavor Details: %(name)s\">%(name)s"
-msgstr "Detalles del tipo: %(name)s\">%(name)s"
+msgstr "Các chi tiết Flavor: %(name)s\">%(name)s"
 
 msgid "Flavor ID"
-msgstr "ID del tipo"
+msgstr "ID của Flavor"
 
 msgid "Flavor ID ="
-msgstr "ID de tipo = "
+msgstr "ID của Flavor = "
 
 msgid ""
 "Flavor ID should be UUID4 or integer. Leave this field blank or use 'auto' "
 "to set a random UUID4."
 msgstr ""
-"El ID del tipo tiene que ser un entero o UUID4. Deje este campo en blanco o "
-"utilice 'auto' para configurar un UUID4 aleatorio."
+"ID của Flavor nên là UUID4 hoặc số nguyên. Để trống trường này hoặc "
+"sử dụng 'auto' để thiết lập một UUID4 ngẫu nhiên."
 
 msgid "Flavor Information"
-msgstr "Información del tipo"
+msgstr "Thông tin Flavor"
 
 msgid "Flavor Name"
-msgstr "Nombre del tipo"
+msgstr "Tên Flavor"
 
 msgid "Flavors"
-msgstr "Tipos"
+msgstr "Các Flavor"
 
 msgid ""
 "Flavors define the sizes for RAM, disk, number of cores, and other resources "
 "and can be selected when users deploy instances."
 msgstr ""
-"Los tipos definen los tamaños de memoria RAM, disco, número de núcleos y "
-"otros recursos que pueden ser seleccionados por los usuarios al desplegar "
-"instancias."
+"Các Flavor định nghĩa kích thước RAM, ổ cứng, số lượng core "
+"và các tài nguyên khác và có thể được lựa chọn khi người dùng triển khai "
+"các máy ảo."
 
 msgid "Floating IP"
-msgstr "IP flotante"
+msgstr "Floating IP"
 
 #, python-format
 msgid "Floating IP will be removed from VIP \"%s\"."
-msgstr "Se eliminará la IP flotante de la VIP \"%s\"."
+msgstr "Floating IP sẽ được xóa khỏi VIP \"%s\"."
 
 msgid "Floating IP:"
-msgstr "IP flotante:"
+msgstr "Floating IP:"
 
 msgid "Floating IPs"
-msgstr "IPs flotantes"
+msgstr "Các floating IP"
 
 msgid "Floating IPs:"
-msgstr "IPs flotantes:"
+msgstr "Các floating IP:"
 
 msgid "Folder created successfully."
-msgstr "Carpeta creada correctamente."
+msgstr "Thư mục được tạo thành công."
 
 #, python-format
 msgid "For GRE networks, valid tunnel IDs are %(min)s through %(max)s."
-msgstr "Para las redes GRE, los ID de tunel válidos son de %(min)s a %(max)s."
+msgstr "Với các mạng GRE, các ID đường hầm hợp lệ là từ %(min)s tới %(max)s."
 
 msgid ""
 "For TCP and UDP rules you may choose to open either a single port or a range "
@@ -4220,11 +4220,11 @@ msgid ""
 "provide both the starting and ending ports for the range. For ICMP rules you "
 "instead specify an ICMP type and code in the spaces provided."
 msgstr ""
-"Para las reglas de TCP y UDP puede optar por abrir un solo puerto o un rango "
-"de puertos. La opción \"Rango de puertos\" le proporcionará el espacio para "
-"especificar tanto el puerto de comienzo como de final del rango. Para las "
-"reglas de ICMP por el contrario debe especificar el tipo y código ICMP en "
-"los espacios proporcionados."
+"Với các rule TCP và UDP bạn có thể chọn hoặc mở một port hoặc mở một dải port "
+"Lựa chọn tùy chọn \"Dải port\" sẽ cung cấp cho bạn đủ không gian để "
+"chỉ định cả các cổng bắt đầu và các cổng kết thúc trong phạm vi dải đó. Với các "
+"rule ICMP bạn phải chỉ định loại ICMP và mã trong các không gian "
+"được cung cấp."
 
 #, python-format
 msgid ""
@@ -4234,60 +4234,60 @@ msgid ""
 "%(gre_min)s through %(gre_max)s. For VXLAN networks, %(vxlan_min)s through "
 "%(vxlan_max)s."
 msgstr ""
-"Para redes VLAN, el VLAN VID de  la red física que realiza la red virtual. "
-"Son VLAN VID válidas de %(vlan_min)s  hasta %(vlan_max)s. Para redes GRE o "
-"VXLAN, el ID de túnel. Son ID de túnel validos para redes GRE, de "
-"%(gre_min)s hasta %(gre_max)s. Para redes VXLAN, de %(vxlan_min)s hasta "
+"Với các mạng VLAN, VID của VLAN trên mạng vật lý thực hiện mạng ảo. "
+"Các VID VLAN hợp lệ trong khoảng từ %(vlan_min)s tới %(vlan_max)s. Với mạng GRE "
+"hoặc VXLAN, ID của đường hầm. Các ID đường hầm hợp lệ của mạng GRE trong khoảng từ "
+"%(gre_min)s tới %(gre_max)s. Với mạng VXLAN, từ %(vxlan_min)s tới "
 "%(vxlan_max)s. "
 
 #, python-format
 msgid "For VLAN networks, valid VLAN IDs are %(min)s through %(max)s."
-msgstr "Para las redes VLAN, los ID válidos son de %(min)s a %(max)s."
+msgstr "Với mạng VLAN, ID VLAN hợp lệ từ %(min)s tới %(max)s."
 
 #, python-format
 msgid "For VXLAN networks, valid tunnel IDs are %(min)s through %(max)s."
 msgstr ""
-"Para las redes VXLAN, los ID de tunel válidos son de %(min)s a %(max)s."
+"Với mạng VXLAN, ID đường hầm hợp lệ từ %(min)s tới %(max)s."
 
 msgid "Forbidden"
-msgstr "Prohibido"
+msgstr "Bị cấm"
 
 msgctxt "Force upload volume in in-use status to image"
 msgid "Force"
-msgstr "Forzar"
+msgstr "Bắt buộc"
 
 msgid "Force Host Copy"
-msgstr "Forzar Copia de host"
+msgstr "Bắt buộc sao chép máy chủ"
 
 #, python-format
 msgid "Forcing to create snapshot \"%s\" from attached volume."
 msgstr ""
-"Forzando la creación de la instantánea \"%s\" desde el volumen asociado."
+"Buộc tạo snapshot \"%s\" từ volume đã được gán."
 
 msgid "Format"
-msgstr "Formato"
+msgstr "Định dạng"
 
 msgid "Format ="
-msgstr "Formato ="
+msgstr "Định dạng ="
 
 msgid "From"
-msgstr "Desde"
+msgstr "Từ"
 
 msgid "From Port"
-msgstr "Desde el puerto"
+msgstr "Từ port"
 
 msgid "From here you can add a DHCP agent for the network."
-msgstr "Desde aquí puede añadir un agente DHCP para la red."
+msgstr "Từ đây bạn có thể thêm DHCP agent cho mạng."
 
 msgid "From here you can create a snapshot of a volume."
-msgstr "Desde aquí puede crear una instantánea de un volumen."
+msgstr "Từ đây bạn có thể tạo một snapshot của một volume."
 
 msgid "From here you can update the default quotas (max limits)."
 msgstr ""
-"Desde aquí puede actualizar las cuotas predeterminadas (límites máximos)."
+"Từ đây bạn có thể cập nhật các hạn ngạch mặc định (giới hạn tối đa)."
 
 msgid "From:"
-msgstr "Desde:"
+msgstr "Từ:"
 
 msgid "GB"
 msgstr "GB"
@@ -4302,13 +4302,13 @@ msgid "GRE"
 msgstr "GRE"
 
 msgid "Gateway IP"
-msgstr "IP de la puerta de enlace"
+msgstr "IP của gateway"
 
 msgid "Gateway IP and IP version are inconsistent."
-msgstr "La dirección IP de la puerta de enlace y la versión IP no concuerdan."
+msgstr "IP của gateway và phiên bản của IP không tương thích."
 
 msgid "Gateway interface is added"
-msgstr "Se ha añadido la interfaz de la puerta de enlace"
+msgstr "Interface gateway được thêm"
 
 msgid "GiB"
 msgstr "GiB"
@@ -4317,66 +4317,66 @@ msgid "Glance"
 msgstr "Glance"
 
 msgid "Go"
-msgstr "Ir"
+msgstr "Đi"
 
 #, python-format
 msgid "Group \"%s\" was successfully created."
-msgstr "El grupo \"%s\" se ha creado satisfactoriamente."
+msgstr "Nhóm \"%s\" đã được tạo thành công."
 
 msgid "Group ID"
-msgstr "ID de grupo"
+msgstr "ID của nhóm"
 
 msgid "Group Management"
-msgstr "Gestión de grupos"
+msgstr "Quản lý nhóm"
 
 msgid "Group Management: {{ group.name }}"
-msgstr "Administración de grupo: {{ group.name }}"
+msgstr "Quản lý nhóm: {{ group.name }}"
 
 msgid "Group Members"
-msgstr "Miembros del grupo"
+msgstr "Các thành viên nhóm"
 
 msgid "Group by:"
 msgstr "Grupo:"
 
 msgid "Group has been updated successfully."
-msgstr "El grupo se ha actualizado satisfactoriamente."
+msgstr "Nhóm được cập nhật thành công."
 
 msgid "Groups"
-msgstr "Grupos"
+msgstr "Các nhóm"
 
 msgid ""
 "Groups are used to manage access and assign roles to multiple users at once. "
 "After creating the group, edit the group to add users."
 msgstr ""
-"Los grupos se utilizan para gestionar el acceso y asignar roles a múltiples "
-"usuarios a la vez. Después de crear un grupo, edítelo para añadir usuarios."
+"Các nhóm được sử dụng để quản lý truy cập và gán các quy tắc tới nhiều người dùng một lúc. "
+"Sau khi tạo nhóm, chỉnh sửa nhóm để thêm người dùng."
 
 msgid ""
 "Groups are used to manage access and assign roles to multiple users at once. "
 "Edit the group to add users."
 msgstr ""
-"Los grupos se utilizan para gestionar el acceso y asignar roles a múltiples "
-"usuarios a la vez. Edite el grupo para añadir usuarios."
+"Các nhóm được sử dụng để quản lý truy cập và gán nhiều người dùng một lúc. "
+"Chỉnh sửa nhóm để thêm người dùng."
 
 #. Translators: High Availability mode of Neutron router
 msgid "HA mode"
-msgstr "Modo HA"
+msgstr "Chế độ HA"
 
 msgid "HTTP"
 msgstr "HTTP"
 
 msgid "HTTP Method"
-msgstr "Método HTTP"
+msgstr "Phương thức HTTP"
 
 msgid "HTTP method used to check health status of a member"
-msgstr "Método HTTP usado para controlar el estado de un miembro"
+msgstr "Phương thức HTTP được sử dụng để kiểm soát trạng thái của một thành viên"
 
 msgid "HTTPS"
 msgstr "HTTPS"
 
 msgctxt "Current status of an Instance"
 msgid "Hard Reboot"
-msgstr "Reinicio en frío"
+msgstr "Khởi động cứng lại"
 
 msgid "Hard Reboot Instance"
 msgid_plural "Hard Reboot Instances"
@@ -4404,20 +4404,20 @@ msgid "Hash"
 msgstr "Hash"
 
 msgid "Health Monitors"
-msgstr "Supervisores de estado"
+msgstr "Giám sát trạng thái"
 
 #, python-format
 msgid "Health monitor %s was successfully updated."
-msgstr "El supervisor de estado %s se ha actualizado correctamente."
+msgstr "Giám sát trạng thái %s được cập nhật thành công."
 
 msgid "Help"
-msgstr "Ayuda"
+msgstr "Giúp đỡ"
 
 msgid "High Availability Mode"
-msgstr "Modo de alta disponibilidad"
+msgstr "Chế độ sẵn sàng cao"
 
 msgid "Home"
-msgstr "Página de inicio"
+msgstr "Trang chủ"
 
 msgid "Host"
 msgstr "Host"
@@ -4426,129 +4426,129 @@ msgid "Host ="
 msgstr "Host = "
 
 msgid "Host Aggregate Information"
-msgstr "Información sobre el agregado de host"
+msgstr "Thông tin máy chủ tổng hợp"
 
 msgid "Host Aggregates"
-msgstr "Agregados de host"
+msgstr "Các máy chủ tổng hợp"
 
 msgid "Host Routes"
-msgstr "Rutas de host"
+msgstr "Host Routes"
 
 #, python-format
 msgid ""
 "Host Routes format error: Destination CIDR and nexthop must be specified "
 "(value=%s)"
 msgstr ""
-"Error de formato de rutas de host: CIDR de destino y el siguiente salto "
-"deben especificarse (value=%s)"
+"Lỗi định dạng host route: CIDR đích và nexthop phải được "
+"chỉ định (value=%s)"
 
 msgid ""
 "Host aggregates divide an availability zone into logical units by grouping "
 "together hosts. Create a host aggregate then select the hosts contained in "
 "it."
 msgstr ""
-"Las agregaciones de hosts dividen una zona de disponibilidad en unidades "
-"lógicas mediante la agrupación de los hosts. Cree una agregación de hosts y "
-"seleccione los hosts que contiene."
+"Các máy chủ tổng hợp chia một zone sẵn có vào các khối logic bằng cách "
+"nhóm các máy chủ với nhau. Tạo một máy chủ tổng hợp rồi chọn các máy chủ "
+"chứa nó."
 
 msgid ""
 "Host aggregates divide an availability zone into logical units by grouping "
 "together hosts. Edit the aggregate host to select hosts contained in it."
 msgstr ""
-"La agregación de hosts divide una zona de disponibilidad en unidades lógicas "
-"mediante la agrupación de los hosts. Edite el host agregado para seleccionar "
-"los hosts que contiene."
+"Các máy chủ tổng hợp chia một zone sẵn có vào các khối logic bằng cách "
+"nhóm các máy chủ với nhau. Chỉnh sửa tổng hợp máy chủ để chọn các máy chủ "
+"chứa nó."
 
 msgid "Hostname"
-msgstr "Nombre de host"
+msgstr "Hostname"
 
 msgid "Hosts"
 msgstr "Hosts"
 
 msgid "Hypervisor"
-msgstr "Hipervisor"
+msgstr "Hypervisor"
 
 msgid "Hypervisor Instances"
-msgstr "Instancias por hipervisor"
+msgstr "Các máy ảo hypervisor"
 
 msgid "Hypervisor Servers"
-msgstr "Servidores con hipervisores"
+msgstr "Các máy chủ hypervisor"
 
 msgid "Hypervisor Summary"
-msgstr "Resumen del hipervisor"
+msgstr "Tóm tắt hypervisor"
 
 msgid "Hypervisors"
-msgstr "Hipervisores"
+msgstr "Các hypervisor"
 
 msgid "ICMP"
 msgstr "ICMP"
 
 msgid "ICMP code is provided but ICMP type is missing."
-msgstr "El código ICMP es proporcionado, pero falta el  tipo de ICMP ."
+msgstr "Mã ICMP đã được cung cấp nhưng loại ICMP bị thiếu."
 
 msgid "ID"
 msgstr "ID"
 
 msgid "IKE Phase1 negotiation mode"
-msgstr "Modo de negociación Phase1 IKE"
+msgstr "Chế độ đám phán IKE Phase1"
 
 msgid "IKE Policies"
-msgstr "Políticas IKE"
+msgstr "Các chính sách IKE"
 
 msgid "IKE Policy"
-msgstr "Política IKE"
+msgstr "Chính sách IKE"
 
 #, python-format
 msgid "IKE Policy %s was successfully updated."
-msgstr "Política IKE %s correctamente modificada."
+msgstr "Chính sách IKE %s được cập nhật thành công."
 
 msgid "IKE Policy Details"
-msgstr "Detalles de la política IKE"
+msgstr "Các chi tiết chính sách IKE"
 
 msgid "IKE Policy associated with this connection"
-msgstr "Política IKE asociada a esta conexión"
+msgstr "Chính sách IKE đã liên kết với kết nối này"
 
 msgid "IKE version"
-msgstr "Versión IKE"
+msgstr "Phiên bản IKE"
 
 msgid "IP Address"
-msgstr "Dirección IP"
+msgstr "Địa chỉ IP"
 
 msgid "IP Address (optional)"
-msgstr "Dirección IP (opcional)"
+msgstr "Địa chỉ IP (tùy chọn)"
 
 msgid "IP Addresses"
-msgstr "Direcciones IP"
+msgstr "Các địa chỉ IP"
 
 msgid "IP Protocol"
-msgstr "Protocolo IP"
+msgstr "Giao thức IP"
 
 msgid "IP Version"
-msgstr "Versión de IP"
+msgstr "Phiên bản IP"
 
 msgid "IP Version for Firewall Rule"
-msgstr "Versión de IP para regla de cortafuegos"
+msgstr "Phiên bản IP cho quy tắc Firewall"
 
 msgid "IP address"
-msgstr "Dirección IP"
+msgstr "Địa chỉ IP"
 
 #, python-format
 msgid "IP address %s associated."
-msgstr "La dirección IP %s se ha asociado."
+msgstr "Địa chỉ IP %s đã liên kết."
 
 msgid ""
 "IP address allocation pools. Each entry is: start_ip_address,end_ip_address "
 "(e.g., 192.168.1.100,192.168.1.120) and one entry per line."
 msgstr ""
-"Agrupaciones de asignaciones de direcciones IP. Cada entrada contiene: "
-"start_ip_address,end_ip_address (por ejemplo: 192.168.1.100,192.168.1.120) y "
-"hay una entrada por línea."
+"Các pool cấp phát địa chỉ IP. Mọi mục có chứa : "
+"start_ip_address,end_ip_address (ví dụ: 192.168.1.100,192.168.1.120) và "
+"một mục mỗi dòng."
 
 msgid ""
 "IP address list of DNS name servers for this subnet. One entry per line."
 msgstr ""
-"Lista de direcciones IP de los servidores DNS para esta subred. Solo uno por "
-"línea."
+"Danh sách địa chỉ IP của máy chủ phân giải tên miền DNS cho subnet này. Một mục "
+"mỗi dòng."
 
 msgid ""
 "IP address of Gateway (e.g. 192.168.0.254) The default value is the first IP "
@@ -4556,52 +4556,52 @@ msgid ""
 "2001:DB8::/48). If you use the default, leave blank. If you do not want to "
 "use a gateway, check 'Disable Gateway' below."
 msgstr ""
-"Dirección IP de la puerta de enlace (por ejemplo, 192.168.0.254) El valor "
-"predeterminado es la primera dirección IP de la red (por ejemplo, "
-"192.168.0.1 para 192.168.0.0/24, 2001: DB8 :: 1 para 2001: DB8 :: / 48). Si "
-"utiliza el valor predeterminado, déjelo en blanco. Si no desea utilizar una "
-"puerta de enlace, consulte 'Deshabilitar puerta de enlace' a ​​continuación."
+"Địa chỉ IP của gateway (ví dụ: 192.168.0.254) Giá trị mặc định "
+"là địa chỉ IP đầu tiên của lớp mạng (ví dụ: địa chỉ gateway  "
+"192.168.0.1 cho mạng 192.168.0.0/24, 2001: DB8 :: 1 cho mạng 2001: DB8 :: / 48). Nếu "
+"bạn sử dụng giá trị mặc định thì bỏ trống phần này. Nếu bạn không muốn sử dụng "
+"gateway, check 'Vô hiệu hóa Gateway' dưới đây."
 
 msgid "IP allocation pool"
-msgstr "Agrupación de asignación de IP"
+msgstr "Pool cấp phát IP"
 
 msgid "IP version"
-msgstr "Versión de IP"
+msgstr "Phiên bản IP"
 
 msgid "IPMI"
 msgstr "IPMI"
 
 msgid "IPSec Policies"
-msgstr "Políticas IPSec"
+msgstr "Các chính sách IPSec"
 
 msgid "IPSec Policy"
-msgstr "Política IPSec"
+msgstr "Chính sách IPSec"
 
 #, python-format
 msgid "IPSec Policy %s was successfully updated."
-msgstr "La política IPsec %s se ha actualizado correctamente."
+msgstr "Chính sách IPsec %s được cập nhật thành công."
 
 msgid "IPSec Policy Details"
-msgstr "Detalles de la política IPSec"
+msgstr "Các chi tiết chính sách IPSec"
 
 msgid "IPSec Policy associated with this connection"
-msgstr "Política IPSec asociada a esta conexión"
+msgstr "Chính sách IPSec đã liên kết với kết nối này"
 
 #, python-format
 msgid "IPSec Site Connection %s was successfully updated."
-msgstr "La conexión sitio a sitio IPSec %s se ha actualizado correctamente."
+msgstr "Kết nối IPSec %s đã được cập nhật thành công."
 
 msgid "IPSec Site Connection Details"
-msgstr "Detalles sobre conexiones de sitio IPSec"
+msgstr "Các chi tiết kết nối IPSec"
 
 msgid "IPSec Site Connections"
-msgstr "Conexiones sitio a sitio IPSec"
+msgstr "Các kết nối IPSec"
 
 msgid "IPv4"
 msgstr "IPv4"
 
 msgid "IPv4 Address ="
-msgstr "Dirección IPv4 ="
+msgstr "Địa chỉ IPv4 ="
 
 msgid "IPv4:"
 msgstr "IPv4:"
@@ -4610,68 +4610,68 @@ msgid "IPv6"
 msgstr "IPv6"
 
 msgid "IPv6 Address ="
-msgstr "Dirección IPv6 ="
+msgstr "Địa chỉ IPv6 ="
 
 msgid "IPv6 Address Configuration Mode"
-msgstr "Modo de Configuracion de direcciones IPv6"
+msgstr "Chế độ cấu hình địa chỉ IPv6"
 
 msgid "IPv6:"
 msgstr "IPv6:"
 
 msgid "ISO - Optical Disk Image"
-msgstr "ISO - Imagen de disco óptico"
+msgstr "ISO - Đĩa quang"
 
 msgid "Identifier"
-msgstr "Identificador"
+msgstr "Định danh"
 
 msgid "Identifier Type"
-msgstr "Tipo de identificador"
+msgstr "Loại định danh"
 
 msgid "Identity"
-msgstr "Identidad"
+msgstr "Định danh"
 
 msgid "Identity Provider ID"
-msgstr "ID del proveedor de identidad"
+msgstr "Định danh ID nhà cung cấp"
 
 msgid "Identity Providers"
-msgstr "Proveedores de identidad"
+msgstr "Định danh các nhà cung cấp"
 
 msgid "Identity provider protocol created successfully."
-msgstr "El protocolo de proveedor de identidad se ha creado correctamente."
+msgstr "Giao thức định danh nhà cung cấp được tạo thành công."
 
 msgid "Identity provider registered successfully."
-msgstr "Proveedor de identidad registrado correctamente"
+msgstr "Định danh nhà cung cấp đã đăng ký thành công."
 
 msgid "Identity provider updated successfully."
-msgstr "El proveedor de identidad se ha actualizado correctamente."
+msgstr "Định danh nhà cung cấp đã cập nhật thành công."
 
 msgid "Identity service does not allow editing user data."
-msgstr "El servicio de identidad no permite editar datos de usuario."
+msgstr "Dịch vụ định danh không cho phép chỉnh sửa dữ liệu người dùng."
 
 msgid "Identity service does not allow editing user password."
-msgstr "El servicio de identidad no permite editar la contraseña del usuario."
+msgstr "Dịch vụ định danh không cho phép chỉnh sửa mật khẩu người dùng."
 
 msgid ""
 "If \"No volume type\" is selected, the volume will be created without a "
 "volume type."
 msgstr ""
-"Si se selecciona \"Sin tipo de volumen\" , el volumen se creará sin tipo de "
-"volumen."
+"Nếu \"Không có kiểu volume\" được chọn, volume sẽ được tạo mà không cần có "
+"kiểu volume."
 
 msgid ""
 "If console is not responding to keyboard input: click the grey status bar "
 "below."
 msgstr ""
-"Si la consola no responde al teclado: pulse en la siguiente barra gris."
+"Nếu bảng điều khiển không đáp ứng đầu vào từ bàn phím: click vào thanh màu xám bên dưới."
 
 msgid ""
 "If no container name is provided, a default container named volumebackups "
 "will be provisioned for you. Backups will be the same size as the volume "
 "they originate from."
 msgstr ""
-"Si no propociona ningún nombre para el contenedor, se creará uno de forma "
-"predeterminada llamado \"volumebackups\". Las copias de seguridad serán del "
-"mismo tamaño que el volumen del cual originan. "
+"Nếu tên container không được cung cấp, một container mặc định có tên "
+"\"volumebackups\" sẽ được cung cấp cho bạn. Bản sao backup sẽ có kích thước giống với"
+"volume tạo ra chúng. "
 
 msgid ""
 "If you select an image via an HTTP/HTTPS URL, the Image Location field MUST "
@@ -4679,524 +4679,524 @@ msgid ""
 "the Image Service. URLs that redirect or serve error pages will result in "
 "unusable images."
 msgstr ""
-"Si selecciona una imagen vía un URL  HTTP/HTTPS, el campo Ubicación de la "
-"imagen DEBE ser un URL válido y directo al binario de la imagen; también "
-"debe ser accessible para el Servicio de imágenes. Los URL que redireccionan "
-"o sirven páginas de error darán imágenes inutilizables."
+"Nếu bạn chọn một image từ một url HTTP/HTTPS, thì trường Image Location PHẢI  "
+"là mọt giá trị hợp lệ và trực tiếp đến tệp tin nhị phân của image; nó cũng phải "
+"có thể truy cập được vào dịch vụ Image. Các URL mà chuyển hướng hoặc phục vụ các  "
+"trang lỗi sẽ dẫn tới không sử dụng được các image."
 
 msgid "Image"
-msgstr "Imagen"
+msgstr "Image"
 
 msgctxt "Type of an image"
 msgid "Image"
-msgstr "Imagen"
+msgstr "Image"
 
 msgid "Image (Glance)"
 msgstr "Image (Glance)"
 
 msgctxt "Task status of an Instance"
 msgid "Image Backup"
-msgstr "Copia de seguridad de la imagen"
+msgstr "Sao lưu Image"
 
 msgid "Image File"
-msgstr "Archivo de imagen"
+msgstr "Tệp Image"
 
 msgid "Image ID"
-msgstr "ID de imagen"
+msgstr "ID của Image"
 
 msgid "Image ID ="
-msgstr "ID de imagen ="
+msgstr "ID Image ="
 
 msgid "Image Location"
-msgstr "Ubicación de la imagen"
+msgstr "Vị trí Image"
 
 msgid "Image Name"
-msgstr "Nombre de la imagen"
+msgstr "Tên Image"
 
 msgid "Image Name ="
-msgstr "Nombre de imagen ="
+msgstr "Tên Image ="
 
 msgctxt "Task status of an Instance"
 msgid "Image Pending Upload"
-msgstr "Imagen pendiente de cargar"
+msgstr "Imagen đang chờ tải lên"
 
 msgctxt "Task status of an Instance"
 msgid "Image Snapshot Pending"
-msgstr "Instantánea de imagen pendiente"
+msgstr "Image đang chờ snapshot"
 
 msgid "Image Source"
-msgstr "Origen de la imagen"
+msgstr "Nguồn Image"
 
 msgctxt "Task status of an Instance"
 msgid "Image Uploading"
-msgstr "La imagen se está subiendo"
+msgstr "Image đang tải lên"
 
 msgid "Image existence check"
-msgstr "Control de existencia de la imagen"
+msgstr "Kiểm tra sự tồn tại của Image"
 
 msgid "Image is downloaded"
-msgstr "Se ha descargado la imagen"
+msgstr "Image được tải xuống"
 
 msgid "Image is served out"
-msgstr "Imagen proporcionada"
+msgstr "Image được phục vụ"
 
 msgid "Image source must be specified"
-msgstr "Se debe especificar el origen de la imagen"
+msgstr "Nguồn Image phải được xác định"
 
 msgid "Image was successfully updated."
-msgstr "La imagen se ha actualizado correctamente."
+msgstr "Image đã được cập nhật thành công."
 
 msgid "Images"
-msgstr "Imágenes "
+msgstr "Các Image"
 
 msgid ""
 "Images can be provided via an HTTP/HTTPS URL or be uploaded from your local "
 "file system."
 msgstr ""
-"Las imágenes se pueden proporcionar mediante una URL HTTP/HTTPS o subir "
-"desde un archivo local del sistema."
+"Các image có thể được cấp qua url HTTP/HTTPS hoặc có thể được tải lên từ"
+"hệ thống nội bộ của bạn."
 
 msgid "Implementation"
-msgstr "Implementación"
+msgstr "Thực hiện"
 
 msgid "Import Key Pair"
-msgstr "Importar par de claves"
+msgstr "Nhập cặp khóa"
 
 msgid "Import Namespace"
-msgstr "Importar espacio de nombres"
+msgstr "Nhập namspace"
 
 msgid "In Policy"
-msgstr "Dentro de la política"
+msgstr "Trong chính sách"
 
 msgid "In Use"
-msgstr "En uso"
+msgstr "Được sử dụng"
 
 msgid ""
 "In addition, you can create an external network or a shared network by "
 "checking the corresponding checkbox."
 msgstr ""
-"Adicionalmente podrá crear una red externa o una red compartida marcando la "
-"casilla correspondiente."
+"Ngoài ra bạn có thể tạo mạng bên ngoài hoặc mạng chia sử bằng cách"
+"check vào các checkbox tương ứng."
 
 msgctxt "Current status of Consistency Group"
 msgid "In-use"
-msgstr "En uso"
+msgstr "Được sử dụng"
 
 msgctxt "Current status of a Volume"
 msgid "In-use"
-msgstr "En uso"
+msgstr "Được sử dụng"
 
 msgctxt "Current status of a Firewall"
 msgid "Inactive"
-msgstr "Inactivo"
+msgstr "Không hoạt động"
 
 msgctxt "Current status of a Pool"
 msgid "Inactive"
-msgstr "Inactivo"
+msgstr "Không hoạt động"
 
 msgctxt "Current status of a VPN Service"
 msgid "Inactive"
-msgstr "Inactivo"
+msgstr "Không hoạt động"
 
 msgid ""
 "Indicates whether this identity provider should accept federated "
 "authentication requests."
 msgstr ""
-"Indica si este proveedor de identidad debe aceptar solicitudes de "
-"autenticación federada."
+"Chỉ ra nếu nhà cung cấp định danh này nên chấp nhận các yêu cầu "
+"xác thực liên kết."
 
 msgid "Info"
-msgstr "Información"
+msgstr "Thông tin"
 
 msgid "Information"
-msgstr "Información"
+msgstr "Thông tin"
 
 msgid "Ingress"
-msgstr "Entrante"
+msgstr "Đến"
 
 msgctxt "current status of stack"
 msgid "Init Complete"
-msgstr "Inicio completado"
+msgstr "Hoàn thành init"
 
 msgctxt "current status of stack"
 msgid "Init Failed"
-msgstr "Inicio fallido"
+msgstr "Init lỗi"
 
 msgctxt "current status of stack"
 msgid "Init In Progress"
-msgstr "Inicio en curso"
+msgstr "Init đang bắt đầu xử lý"
 
 msgid "Initiator state"
-msgstr "Estado del iniciador"
+msgstr "Trạng thái ban đầu"
 
 msgid "Injected File Content (Bytes)"
-msgstr "Contenidos del archivo inyectado (Bytes)"
+msgstr "Đã đưa vào nội dung tệp tin (Bytes)"
 
 msgid "Injected File Content Bytes"
-msgstr "Bytes de contenido del archivo inyectado"
+msgstr "Đưa vào nội dung tệp tin theo byte"
 
 msgid "Injected File Path Bytes"
-msgstr "Bytes de vía de acceso de archivos inyectados"
+msgstr "Đưa vào đường dẫn tệp tin theo byte"
 
 msgid "Injected Files"
-msgstr "Archivos inyectados"
+msgstr "Đã đưa vào các tệp tin"
 
 msgid "Input must be in CIDR format"
-msgstr "La entrada debe estar en formato CIDR"
+msgstr "Đầu vào phải là định dạng CIDR."
 
 msgid "Insert Rule"
-msgstr "Insertar regla"
+msgstr "Chèn rule"
 
 msgid "Insert Rule into Policy"
-msgstr "Insertar regla en la política"
+msgstr "Chèn rule vào chính sách"
 
 msgid "Insert Rule to Policy"
-msgstr "Añadir regla a la política"
+msgstr "Chèn rule tới chính sách"
 
 msgid "Instance"
-msgstr "Instancia"
+msgstr "Máy ảo"
 
 msgid "Instance Action List"
-msgstr "Lista de acciones de instancia"
+msgstr "Danh sách hành động máy ảo"
 
 msgid "Instance Admin Password"
-msgstr "Contraseña de administración de la instancia"
+msgstr "Mật khẩu máy ảo quản trị"
 
 msgid "Instance Boot Source"
-msgstr "Origen de arranque de la instancia"
+msgstr "Nguồn khởi động máy ảo"
 
 msgid "Instance Console"
-msgstr "Consola de la instancia"
+msgstr "Console máy ảo"
 
 msgid "Instance Console Log"
-msgstr "Consola de registro de instancia"
+msgstr "Log console máy ảo"
 
 msgid "Instance Count"
-msgstr "Recuento de instancias"
+msgstr "Đếm máy ảo"
 
 msgid "Instance ID"
-msgstr "ID de la instancia"
+msgstr "ID máy ảo"
 
 msgid "Instance Name"
-msgstr "Nombre de la instancia"
+msgstr "Tên máy ảo"
 
 msgid "Instance Name ="
-msgstr "Nombre de instancia = "
+msgstr "Tên máy ảo = "
 
 msgid "Instance Overview"
-msgstr "Vista general de instancias"
+msgstr "Tổng quan máy ảo"
 
 msgid "Instance Password is not set or is not yet available"
-msgstr "La contraseña de la instancia no está definida o ya no está disponible"
+msgstr "Mật khẩu máy ảo không được thiết lập hoặc chưa thiết lập nếu sẵn có"
 
 msgid "Instance Security Groups"
-msgstr "Grupos de seguridad de la instancia"
+msgstr "Các nhóm bảo mật máy ảo"
 
 msgid "Instance Snapshot"
-msgstr "Instantánea de instancia"
+msgstr "Snapshot máy ảo"
 
 msgid "Instance to be associated"
-msgstr "Instancia a asociar"
+msgstr "Máy ảo đã được liên kết"
 
 msgid "Instances"
-msgstr "Instancias"
+msgstr "Các máy ảo"
 
 msgid "Insufficient privilege level to view domain information."
-msgstr "Privilegios insuficientes para consultar la información del dominio."
+msgstr "Không đủ quyền để xem thông tin domain"
 
 msgid "Insufficient privilege level to view group information."
-msgstr "Privilegios insuficientes para consultar la información del grupo."
+msgstr "Không đủ quyền để xem thông tin nhóm."
 
 msgid "Insufficient privilege level to view identity provider information."
 msgstr ""
-"Nivel de privilegios insuficientes para consultar la información del "
-"proveedor de identidad."
+"Không đủ quyền để xem thông tin định danh "
+"nhà cung cấp."
 
 msgid "Insufficient privilege level to view mapping information."
 msgstr ""
-"Nivel de privilegios insuficiente para ver la información de correlaciones."
+"Không đủ quyền để xem thông tin mapping."
 
 msgid "Insufficient privilege level to view project information."
 msgstr ""
-"Nivel de privilegios insuficiente para consultar la información del proyecto."
+"Không đủ quyền để xem thông tin project."
 
 msgid "Insufficient privilege level to view role information."
 msgstr ""
-"Nivel de privilegios insuficiente para consultar la información del rol."
+"Không đủ quyền để xe thông tin role."
 
 msgid "Insufficient privilege level to view user information."
-msgstr "Nivel de privilegios insuficiente para ver la información del usuario."
+msgstr "Không đủ quyền để xem thông tin người dùng."
 
 msgid "Intelligent Platform Management Interface (IPMI)"
 msgstr "Intelligent Platform Management Interface (IPMI)"
 
 msgid "Interface added"
-msgstr "Interfaz añadida"
+msgstr "Đã thêm interface"
 
 msgid "Interfaces"
-msgstr "Interfaces"
+msgstr "Các interface"
 
 msgid "Internal Interface"
-msgstr "Interfaz interna"
+msgstr "Interface bên trong"
 
 msgid "Invalid date format: Using today as default."
 msgstr ""
-"Formato de fecha no válido: se usará la fecha de hoy como predeterminada."
+"Định dạng ngày không hợp lệ: Sử dụng ngày hôm nay như mặc định."
 
 #, python-format
 msgid "Invalid format for routes : %s"
-msgstr "Formato no válido para las rutas : %s"
+msgstr "Định dạng các định tuyến không hợp lệ : %s"
 
 msgid ""
 "Invalid time period. The end date should be more recent than the start date."
 msgstr ""
-"Período de tiempo no válido. La fecha de finalización debe ser más reciente "
-"que la fecha de inicio."
+"Khoảng thời gian không hợp lệ. Ngày hoàn thành nên gần đây hơn "
+"là ngày bắt đầu."
 
 msgid ""
 "Invalid time period. You are requesting data from the future which may not "
 "exist."
 msgstr ""
-"Período de tiempo no válido. Está solicitando datos futuros que pueden no "
-"existir. "
+"Khoảng thời gian không hợp lệ. Bạn đang yêu cầu dữ liệu từ tương lai "
+"mà có thể không tồn tại. "
 
 msgid "Items Per Page"
-msgstr "Elementos por página"
+msgstr "Các item mỗi trang"
 
 msgid "Kernel"
-msgstr "Núcleo"
+msgstr "Kernel"
 
 msgid "Kernel ID"
-msgstr "ID de núcleo"
+msgstr "ID kernel"
 
 msgid "Key"
-msgstr "Clave"
+msgstr "Khóa"
 
 msgid "Key Name"
-msgstr "Nombre de la clave"
+msgstr "Tên khóa"
 
 msgid "Key Pair"
-msgstr "Par de claves"
+msgstr "Cặp khóa"
 
 msgid "Key Pair Details"
-msgstr "Detalles del par de claves"
+msgstr "Chi tiết cặp khóa"
 
 msgid "Key Pair Name"
-msgstr "Nombre de par de claves"
+msgstr "Tên cặp khóa"
 
 msgid "Key Pairs"
-msgstr "Pares de claves"
+msgstr "Các cặp khóa"
 
 msgid "Key Pairs are how you login to your instance after it is launched."
 msgstr ""
-"Los pares de claves son el método utilizado para ingresar en una instancia "
-"una vez que se ha lanzado."
+"Cặp khóa là phương pháp được sử dụng để bạn có thể đăng nhập vào máy ảo sau "
+"khi nó được tạo ra."
 
 msgid "Key Size (bits)"
-msgstr "Tamaño de clave (bits)"
+msgstr "Kích thước khóa (bits)"
 
 msgid ""
 "Key pair name may only contain letters, numbers, underscores, spaces and "
 "hyphens."
 msgstr ""
-"El nombre del par de claves sólo puede incluir letras, números, guiones "
-"bajos, espacio y guiones."
+"Tên cặp khóa chỉ có thể bao gồm các chữ cái, chữ số, dấu gạch dưới và "
+"dấu gạch ngang."
 
 msgid "Key pair to use for authentication."
-msgstr "Par de claves a utilizar para la autenticación."
+msgstr "Cặp khóa sử dụng cho xác thực."
 
 msgid ""
 "Key pairs are ssh credentials which are injected into images when they are "
 "launched. Creating a new key pair registers the public key and downloads the "
 "private key (a .pem file)."
 msgstr ""
-"Los pares de claves son credenciales ssh que se inyectan en las imágenes al "
-"iniciarlas. Al crear un par de claves nuevo, se almacena la clave pública y "
-"se descarga la clave privada (un archivo .pem)"
+"Các cặp khóa là để định danh cho ssh được đưa vào các image khi chúng được "
+"tạo máy ảo. Việc tạo một cặp khóa mới tạo ra một khóa công khai và tải về  "
+"khóa riêng (file .pem)"
 
 msgid "Key-Value Pairs"
-msgstr "Pares clave-valor"
+msgstr "Các giá trị cặp khóa"
 
 msgctxt "Current status of an Image"
 msgid "Killed"
-msgstr "Terminado forzosamente"
+msgstr "Đã chấm dứt"
 
 msgid "Kwapi"
 msgstr "Kwapi"
 
 msgid "LB Method"
-msgstr "Método LB"
+msgstr "Phương thức LB"
 
 msgid "Language"
-msgstr "Idioma"
+msgstr "Ngôn ngữ"
 
 msgid "Last 15 days"
-msgstr "Últimos 15 días"
+msgstr "15 ngày cuối"
 
 msgid "Last 30 days"
-msgstr "Últimos 30 días"
+msgstr "30 ngày cuối"
 
 msgid "Last Modified"
-msgstr "Modificado por última vez"
+msgstr "Sửa đổi lần cuối"
 
 msgid "Last Updated"
-msgstr "Actualizada por última vez"
+msgstr "Cập nhật lần cuối"
 
 msgctxt "Time since the last update"
 msgid "Last Updated"
-msgstr "Actualizado por última vez"
+msgstr "Cập nhật lần cuối"
 
 msgid "Last day"
-msgstr "Último día"
+msgstr "Ngày hôm trước"
 
 msgid "Last week"
-msgstr "Última semana"
+msgstr "Tuần trước"
 
 msgid "Last year"
-msgstr "Último año"
+msgstr "Năm trước"
 
 msgid "Launch"
-msgstr "Iniciar "
+msgstr "Khởi tạo "
 
 msgid "Launch Instance"
-msgstr "Iniciar instancia"
+msgstr "Khởi tạo máy ảo"
 
 msgid "Launch Instance (Quota exceeded)"
-msgstr "Iniciar instancia (cuota superada)"
+msgstr "Khởi tạo máy ảo (Vượt quá hạn ngạch)"
 
 msgid "Launch Parameters"
-msgstr "Parámetros de inicio"
+msgstr "Khởi tạo các thông số"
 
 msgid "Launch Stack"
-msgstr "Lanzar pila"
+msgstr "Khởi tạo Stack"
 
 msgid "Launch as Instance"
-msgstr "Ejecutar como instancia"
+msgstr "Khởi tạo như máy ảo"
 
 msgid "Launch instance in these security groups."
-msgstr "Iniciar la instancia en estos grupos de seguridad."
+msgstr "Khởi tạo máy ảo trong những nhóm bảo mật này."
 
 msgid "Launch instance with these networks"
-msgstr "Iniciar instancia con estas redes"
+msgstr "Khởi tạo máy ảo với những mạng này"
 
 msgid "Launch instance with these ports"
-msgstr "Iniciar instancia con estos puertos"
+msgstr "Khởi tạo máy ảo với những port này"
 
 msgid "Launch instance with this policy profile"
-msgstr "Iniciar instancia con este perfil de política"
+msgstr "Khởi tạo máy ảo với hồ sơ chính sách này"
 
 #, python-format
 msgid "Launched %(count)s named \"%(name)s\"."
-msgstr "Se ha iniciado %(count)s con el nombre \"%(name)s\"."
+msgstr "Khởi tạo %(count)s tên là \"%(name)s\"."
 
 msgid ""
 "Launching multiple instances is only supported for images and instance "
 "snapshots."
 msgstr ""
-"Iniciar múltiples instancias es posible solo para imágenes e instantáneas de "
-"instancias."
+"Khởi tạo nhiều máy ảo chỉ được hỗ trợ cho các image và snapchot "
+"máy ảo."
 
 msgctxt "load balancing method"
 msgid "Least Connections"
-msgstr "Conexiones mínimas"
+msgstr "Các kết nối tối thiểu"
 
 msgid "Least connections"
-msgstr "Conexiones mínimas"
+msgstr "Các kết nối tối thiểu"
 
 msgid "Length of Injected File Path"
-msgstr "Longitud de la ruta del archivo inyectado"
+msgstr "Độ dài đường dẫn tệp đưa vào"
 
 msgid "Lifetime Units"
-msgstr "Unidades de vida útil"
+msgstr "Đơn vị tuổi đời"
 
 msgid "Lifetime Value"
-msgstr "Valor de tiempo de vida"
+msgstr "Giá trị tuổi đời"
 
 msgid "Lifetime units"
-msgstr "Unidades de tiempo de vida"
+msgstr "Đơn vị tuổi đời"
 
 msgid "Lifetime units for IKE keys"
-msgstr "Unidades de tiempo de vida para las claves IKE"
+msgstr "Đơn vị tuổi đời cho khóa IKE"
 
 msgid "Lifetime value"
-msgstr "Valor de tiempo de vida"
+msgstr "Giá trị tuổi đời"
 
 msgid "Lifetime value for IKE keys"
-msgstr "Valores de tiempo de vida para las claves IKE"
+msgstr "Giá trị tuổi đời cho các khóa IKE"
 
 msgid "Lifetime value for IKE keys "
-msgstr "Valor de tiempo de vida para claves IKE"
+msgstr "Giá trị tuổi đời cho các khóa IKE"
 
 msgid "Limit"
-msgstr "Límite"
+msgstr "Hạn chế"
 
 msgid "Links"
-msgstr "Enlaces"
+msgstr "Các liên kết"
 
 msgid "Live Migrate"
-msgstr "Migración en directo"
+msgstr "Di trú trực tiếp"
 
 msgid "Live Migrate Instance"
-msgstr "Migrar en directo la instancia"
+msgstr "Di trú trực tiếp máy ảo"
 
 msgid "Live migrate an instance to a specific host."
-msgstr "Migrar en vivo una instancia a un host específico."
+msgstr "Di trú một máy ảo tới một máy chủ chỉ định."
 
 msgid "Load Balancer"
-msgstr "Equilibrador de carga"
+msgstr "Cân bằng tải"
 
 #, python-format
 msgid "Load Balancer VIP %s"
-msgstr "VIP equilibrador de carga %s"
+msgstr "Cân bằng tải %s"
 
 msgid "Load Balancers"
-msgstr "Equilibradores de carga"
+msgstr "Các cân bằng tải"
 
 msgid "Load Balancing Method"
-msgstr "Método de equilibrado de carga"
+msgstr "Phương thức cân bằng tải"
 
 msgid "Local"
-msgstr "Local"
+msgstr "Nội bộ"
 
 msgid "Local Disk Usage"
-msgstr "Uso del disco local"
+msgstr "Sử dụng ổ cứng cục bộ"
 
 msgid "Local Side Public IPs"
-msgstr "IP públicos del lado local"
+msgstr "Các IP công cộng nội bộ"
 
 msgid "Local Storage (total)"
-msgstr "Almacenamiento local (total)"
+msgstr "Lưu trữ nội bộ (tổng)"
 
 msgid "Local Storage (used)"
-msgstr "Almacenamiento local (usado)"
+msgstr "Lưu trữ nội bộ (đã sử dụng)"
 
 msgid "Lock Instance"
 msgid_plural "Lock Instances"
-msgstr[0] "Bloquear instancia"
-msgstr[1] "Bloquear instancias"
+msgstr[0] "Khóa máy ảo"
+msgstr[1] "Khóa các máy ảo"
 
 msgid "Locked Instance"
 msgid_plural "Locked Instances"
-msgstr[0] "Instancia bloqueada"
-msgstr[1] "Instancias bloqueadas"
+msgstr[0] "Đã khóa máy ảo"
+msgstr[1] "Đã khóa các máy ảo"
 
 msgid "Log"
-msgstr "Registro"
+msgstr "Nhật kí"
 
 msgid "Log Length"
-msgstr "Longitud del registro"
+msgstr "Độ dài nhật kí"
 
 msgid "Log Lines Per Instance"
-msgstr "Líneas de inicio de sesión por instancia"
+msgstr "Ghi lại các dòng cho mỗi máy ảo"
 
 msgid "Log length must be a nonnegative integer."
-msgstr "La longitud del registro debe ser un entero no negativo."
+msgstr "Độ dài nhật kí phải là số nguyên không âm."
 
 msgid "MAC Address"
-msgstr "Dirección MAC"
+msgstr "Địa chỉ MAC"
 
 msgid "MAC Learning State"
-msgstr "Estado de aprendizaje MAC"
+msgstr "Trạng thái học MAC"
 
 msgid "MB"
 msgstr "MB"
@@ -5208,197 +5208,197 @@ msgid "MacVTap"
 msgstr "MacVTap"
 
 msgid "Maintenance"
-msgstr "Mantenimiento"
+msgstr "Bảo trì"
 
 msgctxt "Current status of a Volume"
 msgid "Maintenance"
-msgstr "Mantenimiento"
+msgstr "Bảo trì"
 
 msgid "Make Private"
-msgstr "Hacer privado"
+msgstr "Đặt thành riêng tư"
 
 msgid "Make Public"
-msgstr "Hacer público"
+msgstr "Đặt thành công khai"
 
 msgid ""
 "Make a new copy of an existing object to store in this or another container. "
 "You may additionally specify the path within the selected container where "
 "the new copy should be stored."
 msgstr ""
-"Cree una nueva copia de un objeto existente para almacenar en este u otro "
-"contenedor. Adicionalmente, también puede especificar la vía de acceso "
-"dentro del contenedor seleccionado donde se almacenará la nueva copia."
+"Tạo một bản sao mới của đối tượng hiện có để lưu trong đây hoặc một container khác. "
+"Bạn có thể xác định thêm đường dẫn giữa container được chọn  nơi mà "
+"bản sao mới được lưu trữ."
 
 msgid "Manage"
-msgstr "Gestionar"
+msgstr "Quản lý"
 
 msgid "Manage Attachments"
-msgstr "Administrar conexiones"
+msgstr "Quản lý gán kèm"
 
 msgid "Manage Floating IP Associations"
-msgstr "Gestionar asociaciones de IP flotantes"
+msgstr "Quản lý các Floating IP"
 
 msgid "Manage Hosts"
-msgstr "Administrar hosts"
+msgstr "Quản lý các máy chủ"
 
 msgid "Manage Hosts Aggregate"
-msgstr "Administrar agregados de host"
+msgstr "Quản lý các máy chủ tập hợp"
 
 msgid "Manage Hosts within Aggregate"
-msgstr "Administrar los host de la agregación"
+msgstr "Quản lý các máy chủ trong tập hợp"
 
 msgid "Manage Members"
-msgstr "Gestionar miembros"
+msgstr "Quản lý các thành viên"
 
 msgid "Manage Protocols"
-msgstr "Gestionar volumen"
+msgstr "Quản lý các giao thức"
 
 msgid "Manage QoS Spec Association"
-msgstr "Gestionar asociación de especificaciones QoS"
+msgstr "Quản lý liên kết đặc tả QoS"
 
 msgid "Manage Rules"
-msgstr "Gestionar reglas"
+msgstr "Quản lý các rule"
 
 msgid "Manage Security Group Rules"
-msgstr "Administrar reglas de grupos de seguridad"
+msgstr "Quản lý các rule nhóm bảo mật"
 
 msgid ""
 "Manage Security Group Rules: {{ security_group.name }} ({{ security_group."
 "id }})"
 msgstr ""
-"Gestionar reglas del grupo de seguridad: {{ security_group.name }} "
+"Quản lý các rule nhóm bảo mật: {{ security_group.name }} "
 "({{ security_group.id }})"
 
 msgid "Manage Specs"
-msgstr "Gestionar especificaciones"
+msgstr "Quản lý đặc tả"
 
 msgid "Manage Volume"
-msgstr "Gestionar volumen"
+msgstr "Quản lý volume"
 
 msgid "Manage Volume Attachments"
-msgstr "Administrar asociaciones de volumen"
+msgstr "Quản lý gán volume"
 
 msgid "Manage Volume Types"
-msgstr "Gestionar tipos de volumen"
+msgstr "Quản lý các loại volume"
 
 msgid "Manage Volumes"
-msgstr "Gestionar volúmenes"
+msgstr "Quản lý các volume"
 
 msgid "Manage a Volume"
-msgstr "Gestionar un volumen"
+msgstr "Quản lý một volume"
 
 msgid "Manual"
-msgstr "Manual"
+msgstr "Hướng dẫn"
 
 msgid "Mapped Fixed IP Address"
-msgstr "Dirección IP fija correlacionada"
+msgstr "Đã ánh xạ địa chỉ IP cố định"
 
 msgid "Mapping ID"
-msgstr "ID de correlación"
+msgstr "Ánh xạ ID"
 
 #, python-format
 msgid "Mapping ID \"%s\" is already used."
-msgstr "El ID de correlación \"%s\" ya se utiliza."
+msgstr "ID ánh xạ \"%s\" đã được sử dụng."
 
 msgid "Mapping created successfully."
-msgstr "La correlación se ha creado correctamente."
+msgstr "Đã tạo ánh xạ thành công."
 
 msgid "Mapping updated successfully."
-msgstr "La correlación se ha actualizado satisfactoriamente."
+msgstr "Đã cập nhật ánh xạ thành công."
 
 msgid "Mappings"
-msgstr "Correlaciones"
+msgstr "Các ánh xạ"
 
 msgctxt "Google's Material Design style theme"
 msgid "Material"
 msgstr "Material"
 
 msgid "Max Retries"
-msgstr "Máximo de reintentos"
+msgstr "Thử lại tối đa"
 
 msgid "Max Retries (1~10)"
-msgstr "Máximo de reintentos (1~10)"
+msgstr "Thử lại tối đa (1~10)"
 
 msgid "Max."
-msgstr "Máximo"
+msgstr "Tối đa"
 
 msgid "Max. Size (MB) ="
-msgstr "Tamaño máx. (MB)"
+msgstr "Kích thước tối đa (MB) ="
 
 msgid "Maximum Transmission Unit size for the connection"
-msgstr "Tamaño de la unidad máxima de transmisión para la conexión"
+msgstr "Kích thước truyền tải MTU tối đa cho kết nối"
 
 msgid ""
 "Maximum number of connections allowed for the VIP or '-1' if the limit is "
 "not set"
 msgstr ""
-"Número máximo de conexiones permitidas para la VIP o \"-1\" si no se ha "
-"definido un límite."
+"Số lượng kết nối tối đa đợc cho phép cho VIP hoặc \"-1\" nếu giới hạn  "
+"không được thiết lập."
 
 #, python-format
 msgid "Member %s was successfully updated."
-msgstr "El miembro %s se ha actualizado correctamente."
+msgstr "Thành viên %s đã được cập nhật thành công."
 
 msgid "Member Address"
-msgstr "Dirección del miembro"
+msgstr "Địa chỉ thành viên"
 
 msgid "Member Details"
-msgstr "Detalles de los miembros"
+msgstr "Các chi tiết thành viên"
 
 msgid "Member IP address must be specified"
-msgstr "Debe especificar la dirección IP del miembro"
+msgstr "Địa chỉ IP của thành viên phải được chỉ định"
 
 msgid "Member Instance(s)"
-msgstr "Instancia(s) de miembro"
+msgstr "Thành viên máy ảo(s)"
 
 msgid "Member Source"
-msgstr "Origen de miembros"
+msgstr "Nguồn thành viên"
 
 msgid "Members"
-msgstr "Miembros"
+msgstr "Các thành viên"
 
 msgid "Memory MB Hours"
 msgstr "Horas de Memoria MB"
 
 msgid "Memory Usage"
-msgstr "Uso de memoria"
+msgstr "Sử dụng bộ nhớ"
 
 msgid "Message"
-msgstr "Mensaje"
+msgstr "Bản tin"
 
 msgid "Metadata"
-msgstr "Metadatos"
+msgstr "Metadata"
 
 msgid "Metadata Definition File"
-msgstr "Archivo de definición de metadatos"
+msgstr "Tệp định nghĩa metadata"
 
 msgid "Metadata Definitions"
-msgstr "Definiciones de los metadatos"
+msgstr "Các định nghĩa metadata"
 
 msgid "Metadata Items"
-msgstr "Elementos de metadatos"
+msgstr "Các item metadata"
 
 msgid "Meter"
-msgstr "Medidor"
+msgstr "Mét"
 
 msgid "Metric:"
-msgstr "Métrica:"
+msgstr "Số liệu:"
 
 msgid "Migrate"
-msgstr "Migrar"
+msgstr "Di trú"
 
 msgid "Migrate Host"
 msgid_plural "Migrate Hosts"
-msgstr[0] "Migrar servidor"
-msgstr[1] "Migrar servidores"
+msgstr[0] "Di trú máy chủ"
+msgstr[1] "Di trú các máy chủ"
 
 msgid "Migrate Instance"
 msgid_plural "Migrate Instances"
-msgstr[0] "Migrar instancia"
-msgstr[1] "Migrar instancias"
+msgstr[0] "Di trú máy ảo"
+msgstr[1] "Di trú các máy ảo"
 
 msgid "Migrate Volume"
-msgstr "Migrar volumen"
+msgstr "Di trú volume"
 
 msgid ""
 "Migrate all instances from a host with disabled nova-compute service. "
@@ -5406,131 +5406,131 @@ msgid ""
 "host can be Live Migrated. Cold Migration is trying to use 'nova migrate' on "
 "each instance of migrated host."
 msgstr ""
-"Migrar todas las instancias de un servidor con el servicio nova-compute "
-"deshabilitado. Opcionalmente puede elegir el tipo de migración. Todas las "
-"instancias que se estén ejecutando en el servidor se puede Migrar en "
-"directo. La migración en frío esta intentando usar 'nova migrate' en cada "
-"instancia del servidor migrado."
+"Di trú tất cả các máy ảo từ một máy chủ mà đã vô hiệu dịch vụ"
+"nova-compute. Tùy chọn bạn có thể chọn kiểu di trú. Tất cả các máy ảo đang chạy"
+"của máy chủ có thể được di trú trực tiếp. Di trú lạnh được sử dụng "
+" với 'nova migrate' trên mọi máy ảo của "
+"máy chủ được di trú."
 
 msgid "Migrated Host"
 msgid_plural "Migrated Hosts"
-msgstr[0] "Servidor migrado"
-msgstr[1] "Servidores migrados"
+msgstr[0] "Đã di trú máy chủ"
+msgstr[1] "Đã di trú các máy chủ"
 
 msgctxt "Current status of an Instance"
 msgid "Migrating"
-msgstr "Migrando"
+msgstr "Đang di trú"
 
 msgctxt "Task status of an Instance"
 msgid "Migrating"
-msgstr "Migrando"
+msgstr "Đang di trú"
 
 msgid "Migrating instances may cause some unrecoverable results."
-msgstr "Migrar instancias puede ocasionar resultados no recuperables."
+msgstr "Đang di trú các máy ảo có thể là nguyên nhân gây ra tình trạng không thể phục hồi."
 
 msgid "Migration Policy"
-msgstr "Política de migración"
+msgstr "Chính sách di trú"
 
 msgid "Min Disk"
-msgstr "Disco mínimo"
+msgstr "Ổ cứng tối thiểu"
 
 msgid "Min RAM"
-msgstr "RAM mínima"
+msgstr "RAM tối thiểu"
 
 msgid "Min."
-msgstr "Mínimo"
+msgstr "Tối thiểu"
 
 msgid "Min. Size (MB) ="
-msgstr "Tamaño mín. (MB) ="
+msgstr "Kích thước tối thiểu (MB) ="
 
 msgid "Minimum Disk (GB)"
-msgstr "Disco mínimo (GB)"
+msgstr "Ổ cứng tối thiểu (GB)"
 
 msgid "Minimum RAM (MB)"
-msgstr "Memoria RAM mínima (MB)"
+msgstr "RAM tối thiểu (MB)"
 
 msgid "Minutes"
-msgstr "Minutos"
+msgstr "Phút"
 
 #, python-format
 msgid "Modified domain \"%s\"."
-msgstr "Se ha modificado el dominio \"%s\"."
+msgstr "Chỉnh sửa domain \"%s\"."
 
 #, python-format
 msgid "Modified flavor \"%s\"."
-msgstr "Tipo \"%s\" modificado."
+msgstr "Chỉnh sửa flavor \"%s\"."
 
 msgid "Modified flavor information, but unable to modify flavor access."
 msgstr ""
-"Se ha modificado la información del tipo, pero no se ha podido modificar el "
-"acceso del tipo."
+"Chỉnh sửa thông tin flavor, nhưng không thể chỉnh sửa truy cập "
+"flavor."
 
 #, python-format
 msgid "Modified instance \"%s\"."
-msgstr "Modificada la instancia \"%s\"."
+msgstr "Chỉnh sửa máy ảo \"%s\"."
 
 #, python-format
 msgid "Modified project \"%s\"."
-msgstr "Se ha modificado el proyecto \"%s\"."
+msgstr "Chỉnh sử project \"%s\"."
 
 msgid ""
 "Modified project information and members, but unable to modify project "
 "quotas."
 msgstr ""
-"Se ha modificado la información del proyecto y sus miembros, pero no se han "
-"podido modificar las cuotas del mismo."
+"Chỉnh sửa thông tin project và các thành viên, nhưng không thể chỉnh sửa "
+"hạn ngạch project."
 
 msgid "Modify Access"
-msgstr "Modificar acceso "
+msgstr "Chỉnh sửa truy cập "
 
 msgid "Modify Consumer"
-msgstr "Modificar consumidor"
+msgstr "Chỉnh sửa khách hàng"
 
 msgid "Modify Groups"
-msgstr "Modificar grupos"
+msgstr "Chỉnh sửa các nhóm"
 
 msgid "Modify Quotas"
-msgstr "Modificar cuotas"
+msgstr "Chỉnh sửa các hạn ngạch"
 
 msgid "Modify Usage Report Parameters"
-msgstr "Modificar Parámetros del informe de uso"
+msgstr "Chỉnh sửa các tham số báo cáo sử dụng"
 
 msgid "Modify dashboard settings for your user."
-msgstr "Modificar las opciones del panel para su usuario."
+msgstr "Chỉnh sửa cài đặt bảng điều khiển cho người dùng của bạn."
 
 msgid "Modify name and description of a volume."
-msgstr "Modificar nombre y descripción de un volumen."
+msgstr "Chỉnh sửa tên và mô tả của volume."
 
 msgid "Modify the name and description of a snapshot."
-msgstr "Modificar el nombre y la descripción de una instantánea."
+msgstr "Chỉnh sửa tên và mô tả của snapshot."
 
 msgid "Modify the name and description of a volume consistency group."
 msgstr ""
-"Modificar el nombre y la descripción de un grupo de consistencia de volumen."
+"Chỉnh sửa tên và mô tả của nhóm thống nhất volume."
 
 msgid "Modify volume type name and description."
-msgstr "Modificar el nombre y la descripción del tipo de volumen."
+msgstr "Chỉnh sửa tên kiểu volume và mô tả."
 
 msgid "Monitor"
-msgstr "Supervisor"
+msgstr "Giám sát"
 
 msgid "Monitor Details"
-msgstr "Detalles de los supervisores"
+msgstr "Chi tiết giám sát"
 
 msgid "Monitor Type"
-msgstr "Tipo de supervisor"
+msgstr "Kiểu giám sát"
 
 msgid "Monitoring:"
-msgstr "Supervisión:"
+msgstr "Đang giám sát:"
 
 msgid "Monitors"
-msgstr "Supervisores"
+msgstr "Các giám sát"
 
 msgid "Month to date"
-msgstr "Mes hasta la fecha"
+msgstr "Tháng tới ngày"
 
 msgid "Must specify start of period"
-msgstr "Debe especificar el inicio del periodo"
+msgstr "Phải xác định điểm bắt đầu giai đoạn"
 
 msgid "N/A"
 msgstr "N/A"
@@ -5540,462 +5540,462 @@ msgid "N/A"
 msgstr "N/A"
 
 msgid "Name"
-msgstr "Nombre"
+msgstr "Tên"
 
 msgid "Name ="
-msgstr "Nombre ="
+msgstr "Tên ="
 
 msgid ""
 "Name may only contain letters, numbers, underscores, periods and hyphens."
 msgstr ""
-"El nombre sólo puede incluir letras, números, guiones, guiones bajos y "
-"puntos."
+"Tên chỉ bảo gồm các chữ cái, chữ số, dấu gạch dưới, dấu chấm "
+"và dấu gạch ngang."
 
 msgid ""
 "Name must start with a letter and may only contain letters, numbers, "
 "underscores, periods and hyphens."
 msgstr ""
-"El nombre debe comenzar con una letra y sólo puede incluir letras, números, "
-"guiones bajos, puntos y guiones."
+"Tên phải được bắt đầu bằng một chữ cái và chỉ có thể chứa các chữ cái, chữ số, "
+"dấu gạch dưới, dấu chấm và dấu gạch ngang."
 
 msgid "Name of the stack to create."
-msgstr "Nombre de la pila a crear."
+msgstr "Tên của stack tạo."
 
 msgid "Name or other identifier for existing volume"
-msgstr "Nombre u otro identificador del volumen existente"
+msgstr "Tên hoặc định danh khác của volume hiện có"
 
 #, python-format
 msgid "Name: %(name)s ID: %(uuid)s"
-msgstr "Nombre: %(name)s ID: %(uuid)s"
+msgstr "Tên: %(name)s ID: %(uuid)s"
 
 msgid "Namespace"
-msgstr "Espacio de nombres"
+msgstr "Namespace"
 
 #, python-format
 msgid "Namespace %s has been created."
-msgstr "Se ha creado el espacio de nombres %s."
+msgstr "Namespace %s đã được tạo."
 
 msgid "Namespace Definition Source"
-msgstr "Origen de definición del espacio de nombres"
+msgstr "Định nghĩa nguồn namespace"
 
 msgid "Namespace JSON"
-msgstr "JSON de espacio de nombres"
+msgstr "JSON namespace"
 
 msgid "Namespace Overview"
-msgstr "Vista general de Espacios de nombres"
+msgstr "Tổng quan namespace"
 
 msgid "Namespace Resource Type Associations"
-msgstr "Asociaciones de tipos de recurso de espacio de nombres"
+msgstr "Các kiểu liên kết tài nguyên namespace"
 
 msgid "Namespaces"
-msgstr "Espacios de nombres"
+msgstr "Các namespace"
 
 msgid ""
 "Namespaces can be associated to different resource types. This makes the "
 "properties in the namespace visible in the 'Update Metadata' action for that "
 "type of resource."
 msgstr ""
-"Los espacios de nombres podrán ser asociados a diferentes tipos de recursos. "
-"Esto hace que las propiedades en el espacio de nombres sean visibles en la "
-"acción 'Actualizar Metadatos' para ese tipo de recursos."
+"Namespace có thể kết nối tới các kiểu tài nguyên khác. Điều này làm cho các "
+"thuộc tính trong namespace có thể thấy được trong hành động "Cập nhật metadata" cho"
+"Các kiểu tài nguyên đó."
 
 msgid "Network"
-msgstr "Red"
+msgstr "Mạng"
 
 #, python-format
 msgid "Network \"%s\" was successfully created."
-msgstr "La red \"%s\" se ha creado correctamente."
+msgstr "Mạng \"%s\" đã được tạo thành công."
 
 #, python-format
 msgid "Network %s was successfully created."
-msgstr "La red %s se ha creado satisfactoriamente."
+msgstr "Mạng %s đã được tạo thành công."
 
 #, python-format
 msgid "Network %s was successfully updated."
-msgstr "Se ha actualizado correctamente la red %s."
+msgstr "Mạng %s đã được cập nhật thành công."
 
 msgid "Network (Neutron)"
 msgstr "Network (Neutron)"
 
 msgid "Network Address"
-msgstr "Direcciones de red"
+msgstr "Địa chỉ mạng"
 
 msgid "Network Address Source"
-msgstr "Origen de dDirección de red"
+msgstr "Địa chỉ mạng nguồn"
 
 msgid "Network Address and IP version are inconsistent."
-msgstr "La dirección IP de la red y la versión de IP no concuerdan."
+msgstr "Địa chỉ mạng và phiên bản IP không phù hợp."
 
 msgid "Network Agents"
-msgstr "Agentes de red"
+msgstr "Các agent mạng"
 
 msgid "Network Details"
-msgstr "Detalles de la red"
+msgstr "Các chi tiết mạng"
 
 msgid "Network ID"
-msgstr "ID de red"
+msgstr "ID mạng"
 
 msgid "Network Mask"
-msgstr "Máscara de red"
+msgstr "Mặt nạ mạng"
 
 msgid "Network Name"
-msgstr "Nombre de la red"
+msgstr "Tên mạng"
 
 msgid "Network Overview"
-msgstr "Vista general de la red"
+msgstr "Tổng quan mạng"
 
 msgid "Network Ports"
-msgstr "Puertos de red"
+msgstr "Các port mạng"
 
 msgid "Network Profile"
-msgstr "Perfil de red"
+msgstr "Hồ sơ mạng"
 
 msgid "Network Profiles could not be retrieved."
-msgstr "No se ha podido obtener la lista de perfiles de red."
+msgstr "Các hồ sơ mạng có thể không truy xuất được."
 
 msgid "Network Topology"
-msgstr "Topología de red"
+msgstr "Mô hình mạng"
 
 msgid "Network Type:"
-msgstr "Tipo de red: "
+msgstr "Kiểu mạng: "
 
 msgid "Network address in CIDR format (e.g. 192.168.0.0/24)"
-msgstr "Dirección de red en formato CIDR (p. ej. 192.168.0.0/24)"
+msgstr "Địa chỉ mạng trong định dạng CIDR (ví dụ 192.168.0.0/24)"
 
 msgid "Network address in CIDR format (e.g. 192.168.0.0/24, 2001:DB8::/48)"
 msgstr ""
-"La dirección de la red en formato CIDR (p. ej. 192.168.0.0/24, 2001:DB8::/48)"
+"Địa chỉ mạng trong định dạng CIDR (ví dụ 192.168.0.0/24, 2001:DB8::/48)"
 
 msgid "Network list can not be retrieved."
-msgstr "No se ha podido obtener la lista de redes."
+msgstr "Danh sách mạng không thể truy xuất."
 
 msgid "Networking"
-msgstr "Redes"
+msgstr "Mạng lưới"
 
 msgctxt "Task status of an Instance"
 msgid "Networking"
-msgstr "Redes"
+msgstr "Mạng"
 
 msgid "Networks"
-msgstr "Redes"
+msgstr "Các mạng"
 
 msgid "Neutron"
 msgstr "Neutron"
 
 msgid "Never"
-msgstr "Nunca"
+msgstr "Không bao giờ"
 
 msgid "Never updated"
-msgstr "Nunca actualizado"
+msgstr "Không bao giờ được cập nhật"
 
 msgid "New DHCP Agent"
-msgstr "Nuevo agente DHCP"
+msgstr "Agent DHCP mới"
 
 msgid "New Flavor"
-msgstr "Tipo nuevo"
+msgstr "Flavor mới"
 
 msgid "New Host"
-msgstr "Nuevo host"
+msgstr "Máy chủ mới"
 
 msgid "New QoS Spec Consumer"
-msgstr "Nuevo consumidor de especificación QoS"
+msgstr "Đặc tả QoS khách hàng mới"
 
 msgid "New Size (GiB)"
-msgstr "Nuevo tamaño (GiB)"
+msgstr "Kích thước mới (GiB)"
 
 msgid "New name cannot be empty."
-msgstr "El nuevo nombre no puede estar  vacío."
+msgstr "Tên mới không thể để trống."
 
 msgid "New name conflicts with another volume type."
-msgstr "El nuevo nombre entra en conflicto con otro tipo de volumen."
+msgstr "Tên mới xung đột với kiểu volume khác."
 
 msgid "New password"
 msgstr "Mật khẩu mới"
 
 msgid "New size must be greater than current size."
-msgstr "El nuevo tamaño debe ser mayor que el actual."
+msgstr "Kích thước mới phải lớn hơn kích thước hiện tại."
 
 msgid "Next"
-msgstr "Siguiente"
+msgstr "Tiếp theo"
 
 msgid "Next Hop"
-msgstr "Siguiente salto"
+msgstr "Bước tiếp theo"
 
 msgid ""
 "Next Hop IP must be a part of one of the subnets to which the router "
 "interfaces are connected."
 msgstr ""
-"El próximo salto IP debe formar parte de una de las subredes a la cual están "
-"conectadas las interfaces del direccionador"
+"IP tiếp theo phải là một phần của một trong những subnet mà các interface "
+"của router đã kết nối tới."
 
 msgid "Next Hops"
-msgstr "Siguientes saltos"
+msgstr "Các bước tiếp theo"
 
 msgid "Next&nbsp;&raquo;"
 msgstr "Siguiente&nbsp;&raquo;"
 
 msgid "No"
-msgstr "No"
+msgstr "Không"
 
 msgid "No Host selected."
-msgstr "No se han seleccionado hosts."
+msgstr "Không máy chủ nào được chọn."
 
 msgid "No Hosts found."
-msgstr "No se han encontrado hosts."
+msgstr "Không máy chủ nào đợc tìm thấy."
 
 msgid "No Ports available"
-msgstr "No hay puertos disponibles"
+msgstr "Không port nào có sẵn"
 
 msgid "No Session Persistence"
-msgstr "Sesión no persistente"
+msgstr "Không có phiên liên tục "
 
 msgctxt "Power state of an Instance"
 msgid "No State"
-msgstr "Sin estado"
+msgstr "Không trạng thái"
 
 msgid "No assigned volumes"
-msgstr "No hay volúmenes asignados"
+msgstr "Không được gán volume"
 
 msgid "No associations defined."
-msgstr "No hay asociaciones definidas."
+msgstr "Không liên kết nào được định nghĩa"
 
 msgid "No attached device"
-msgstr "No hay ningún dispositivo conectado"
+msgstr "Không thiết bị nào được gán"
 
 msgid "No availability zones found"
-msgstr "No se han encontrado zonas de disponibilidad"
+msgstr "Không zone có sẵn nào được tìm thấy"
 
 msgid "No available console found."
-msgstr "No se ha encontrado ninguna consola disponble."
+msgstr "Không tìm thấy console nào sẵn có."
 
 msgid "No available projects"
-msgstr "No hay proyectos disponibles"
+msgstr "Không có project nào sẵn có"
 
 msgid "No flavors available"
-msgstr "No hay tipos disponibles"
+msgstr "Không có flavor nào sẵn có"
 
 msgid "No floating IP addresses allocated"
-msgstr "No se han asignado direcciones IP flotantes"
+msgstr "Không có địa chỉ Floating IP được cấp phát"
 
 msgid "No floating IP pools available"
-msgstr "No hay IP flotantes disponibles"
+msgstr "Không có pool floating IP nào sẵn có"
 
 msgid "No floating IPs to disassociate."
-msgstr "No hay IPs flotantes que desasociar."
+msgstr "Không có floating IP không liên kết."
 
 msgid "No groups found."
-msgstr "No se han encontrado grupos."
+msgstr "Không nhóm nào được tìm thấy."
 
 msgid "No groups."
-msgstr "No hay grupos."
+msgstr "Không có nhóm."
 
 msgid "No host selected."
-msgstr "No se han seleccionado hosts."
+msgstr "Không máy chủ nào được chọn."
 
 msgid "No hosts found."
-msgstr "No se han encontrado hosts."
+msgstr "Không máy chủ nào tìm thấy."
 
 msgid "No images available"
-msgstr "No hay imágenes disponibles"
+msgstr "Không image nào sẵn có"
 
 msgid "No input was provided for the namespace content."
 msgstr ""
-"No se ha indicado ninguna entrada para el contenido del espacio de nombres"
+"Không có đầu vào được cung cấp cho namespace"
 
 msgid "No instances available"
-msgstr "No hay instancias disponibles"
+msgstr "Không có máy ảo nào sẵn có"
 
 msgid "No key pairs available"
-msgstr "No hay pares de claves disponibles"
+msgstr "Không có cặp khóa nào sẵn có"
 
 msgid "No mappings available"
-msgstr "No hay correlaciones disponibles"
+msgstr "Không có ánh xạ nào sẵn có"
 
 msgid "No networks available"
-msgstr "No hay redes disponibles"
+msgstr "Không có mạng nào sẵn có"
 
 msgid "No new QoS spec available"
-msgstr "No hay ninguna especificación QoS nueva disponible"
+msgstr "Không có đặc tả QoS nào sẵn có"
 
 msgid "No options specified"
-msgstr "No se ha especificado ninguna opción"
+msgstr "Không có tùy chọn nào được xác định"
 
 msgid "No other agents available."
-msgstr "No hay otros agentes disponibles."
+msgstr "Không có agent khác sẵn có."
 
 msgid "No other hosts available"
-msgstr "No hay otros hosts disponibles."
+msgstr "Không có máy chủ khác sẵn có."
 
 msgid "No other hosts available."
-msgstr "No hay otros hosts disponibles."
+msgstr "Không có máy chủ khác sẵn có."
 
 msgid "No other volume types available"
-msgstr "No hay otros tipos de volumen disponibles"
+msgstr "Không có kiểu volume nào sẵn có"
 
 msgid "No ports available"
-msgstr "No hay puertos disponibles"
+msgstr "Không có port nào sẵn có"
 
 msgid "No projects found."
-msgstr "No se han encontrado proyectos."
+msgstr "Không có project nào được tìm thấy."
 
 msgid "No projects selected. All projects can use the flavor."
 msgstr ""
-"No hay proyectos seleccionados. Todos los proyectos pueden usar el tipo."
+"Không có project nào được chọn. Tất cả các project có thể sử dụng flavor."
 
 msgid "No provider is available"
-msgstr "No hay ningún proveedor disponible"
+msgstr "Không nhà cung cấp nào sẵn có"
 
 msgid "No rules defined."
-msgstr "No hay reglas definidas."
+msgstr "Không rule nào được định nghĩa."
 
 msgid "No security groups available"
-msgstr "No hay grupos de seguridad disponibles"
+msgstr "Nhóm có nhóm bảo mật nào sẵn có"
 
 msgid "No security groups enabled."
-msgstr "No hay grupos de seguridad habilitados."
+msgstr "Không nhóm bảo mật nào sẵn có."
 
 msgid "No security groups found."
-msgstr "No se han encontrado grupos de seguridad."
+msgstr "Không có nhóm bảo mật nào được tìm thấy."
 
 msgid ""
 "No servers available. To add a member, you need at least one running "
 "instance."
 msgstr ""
-"No hay servidores disponibles. Para añadir un miembro es necesario tener al "
-"menos una instancia en ejecución."
+"Không server nào sẵn có. Để thêm một thành viên, bạn cần ít nhất một "
+"máy ảo đang chạy."
 
 msgid "No session persistence"
-msgstr "Sesión no persistente"
+msgstr "Không có phiên liên tục"
 
 msgid "No snapshots available"
-msgstr "No hay instantáneas disponibles"
+msgstr "Không có snapshot có sẵn"
 
 msgid "No source, empty volume"
-msgstr "Sin origen, volumen vacío"
+msgstr "Không nguồn, volume trống"
 
 msgid "No subnets available"
-msgstr "No hay subredes disponibles"
+msgstr "Không có subnet nào có sẵn"
 
 msgid "No users found."
-msgstr "No se han encontrado usuarios."
+msgstr "Không người dùng nào được tìm thấy."
 
 msgid "No users."
-msgstr "No hay usuarios."
+msgstr "Không có người dùng."
 
 msgid "No volume snapshots available"
-msgstr "No hay instantáneas de volúmenes disponibles"
+msgstr "Không có snapshot volume nào có sẵn"
 
 msgid "No volume type"
-msgstr "Ningún tipo de volumen"
+msgstr "Không có kiểu volume"
 
 msgid "No volume types found."
-msgstr "No se han encontrado tipos de volumen "
+msgstr "Không tìm thấy kiểu volume nào."
 
 msgid "No volume types selected."
-msgstr "No se han seleccionado tipos de volumen "
+msgstr "Không kiểu volume nào được chọn"
 
 msgid "No volumes attached."
-msgstr "No hay volúmenes asociados"
+msgstr "Không volume nào được gán"
 
 msgid "No volumes available"
-msgstr "No hay volúmenes disponibles"
+msgstr "Không có volume nào có sẵn"
 
 msgid "No volumes found."
-msgstr "No se han encontrado volúmenes."
+msgstr "Không tìm thấy volume nào."
 
 msgid "No volumes selected."
-msgstr "No se han seleccionado volúmenes."
+msgstr "Không có volume nào được chọn."
 
 msgid "Non admin users are not allowed to make images public."
 msgstr ""
-"Los usuarios no administradores no tienen permiso para hacer públicas las "
-"imágenes."
+"Không người dùng quản trị nào được cho phép để các iamge thành"
+"công khai."
 
 msgid "Non admin users are not allowed to set shared option."
 msgstr ""
-"Los usuarios no administradores no tienen permiso para definir la opción de "
-"compartir"
+"Không người dùng quản trị nào được phép thiết lập tùy chọn"
+"chia sẻ được"
 
 msgid "Non-Members"
-msgstr "No miembros"
+msgstr "Không thành viên"
 
 msgid "None"
-msgstr "Ninguno"
+msgstr "Không"
 
 msgctxt "Task status of an Instance"
 msgid "None"
-msgstr "Ninguno"
+msgstr "Không"
 
 msgid "None (removes spec)"
-msgstr "None (elimina la especificación)"
+msgstr "Không (elimina la especificación)"
 
 msgid "Normal"
-msgstr "Normal"
+msgstr "Bình thường"
 
 msgid "Not attached"
-msgstr "No asociado"
+msgstr "Không được gán"
 
 msgid "Not available"
-msgstr "No disponible"
+msgstr "Không có sẵn"
 
 msgid ""
 "Note that a volume can not be deleted if it is &quot;attached&quot; or has "
 "any dependent snapshots."
 msgstr ""
-"Tenga en cuenta que un volumen no se puede suprimir si está &quot;"
-"conectado&quot; o tiene instantáneas dependientes."
+"Lưu ý là một volume không thể bị xóa nếu nó là &quot;"
+"conectado&quot; hoặc có bất kì snapshot nào phụ thuộc."
 
 msgid "Note: "
-msgstr "Nota:"
+msgstr "Lưu ý:"
 
 msgid ""
 "Note: A Public Container will allow anyone with the Public URL to gain "
 "access to your objects in the container."
 msgstr ""
-"Nota: Un contenedor público permitirá que cualquiera que conozca la URL "
-"pública acceda a sus objetos en el contenedor."
+"Lưu ý: Một container công khai sẽ cho phép bất kì ai với URL công khai được truy cập "
+"vào các đối tượng của bạn trong container."
 
 msgid "Nova"
 msgstr "Nova"
 
 msgid "Number of API requests against swift"
-msgstr "Número de solicitudes de API a Swift"
+msgstr "Số lượng yêu cầu API tới Swift"
 
 msgid "Number of Instances"
-msgstr "Número de instancias"
+msgstr "Số lượng máy ảo"
 
 msgid "Number of Snapshots"
-msgstr "Número de instantáneas"
+msgstr "Số lượng snapshot"
 
 msgid "Number of VCPUs"
-msgstr "Número de VCPU"
+msgstr "Số lượng VCPU"
 
 msgid "Number of Volumes"
-msgstr "Número de volúmenes"
+msgstr "Số lượng volume"
 
 msgid "Number of containers"
-msgstr "Numero de contenedores"
+msgstr "Số lượng container"
 
 msgid "Number of image deletions"
-msgstr "Número de imágenes borradas"
+msgstr "Số lượng image đã xóa"
 
 msgid "Number of image updates"
-msgstr "Número de imágenes actualizadas"
+msgstr "Số lượng image update"
 
 msgid "Number of image uploads"
-msgstr "Número de imágenes cargadas"
+msgstr "Số lượng image tải lên"
 
 msgid "Number of incoming bytes"
-msgstr "Número de bytes entrantes"
+msgstr "Số lượng byte đang đến"
 
 msgid "Number of incoming bytes on the network for a VM interface"
-msgstr "Número de bytes entrantes en la red para una interfaz de la MV"
+msgstr "Số lượng byte đang đến trên mạng cho interface máy ảo"
 
 msgid "Number of incoming packets for a VM interface"
-msgstr "Número de paquetes entrantes para una interfaz de la MV"
+msgstr "Số lượng gói đang tới cho interface máy ảo"
 
 msgid "Number of instances to launch."
-msgstr "Número de instancias a iniciar."
+msgstr "Số lượng máy ảo để tạo."
 
 #, python-format
 msgid ""
