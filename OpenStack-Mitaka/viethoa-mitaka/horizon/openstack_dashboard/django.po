@@ -7619,7 +7619,7 @@ msgstr "Đang xếp vào ngăn"
 
 msgctxt "Task status of an Instance"
 msgid "Shelving Image Pending Upload"
-msgstr ""
+msgstr "Aplazando imagen pendiente de cargar"
 
 msgctxt "Task status of an Instance"
 msgid "Shelving Image Uploading"
@@ -7679,7 +7679,7 @@ msgstr "Kích thước:"
 
 msgid "Slash is not allowed at the beginning or end of your string."
 msgstr ""
-" "
+"El carácter de barra invertida no se permite al principio o al final de la "
 "cadena"
 
 msgid "Slash is not an allowed character."
@@ -8502,69 +8502,69 @@ msgid ""
 "The minimum time in seconds between regular checks of a member. It must be "
 "greater than or equal to timeout"
 msgstr ""
-"El tiempo mínimo en segundos entre las revisiones regulares de un miembro. "
-"Debe ser mayor o igual al tiempo de espera"
+"Thời gian tối thiểu tính bằng giây giữa những đánh giá thường xuyên của thành "
+"viên. Nó phải lớn hơn hoặc bằng thời gian chờ"
 
 #, python-format
 msgid "The name \"%s\" is already used by another consistency group."
 msgstr ""
-"El nombre \"%s\" ya está siendo utilizado por otro grupo de consistencia."
+"Tên \"%s\" đã được sử dụng bởi một nhóm thống nhất khác."
 
 #, python-format
 msgid "The name \"%s\" is already used by another flavor."
-msgstr "El nombre \"%s\" ya lo ha usado otro tipo."
+msgstr "Tên \"%s\" đã được sử dụng bởi một flavor khác."
 
 #, python-format
 msgid "The name \"%s\" is already used by another host aggregate."
 msgstr ""
-"El nombre \"%s\" ya está siendo utilizado por otra agregación de hosts."
+"Tên \"%s\" đã được sử dụng bởi một máy chủ aggregate khác."
 
 msgid "The name is already in use."
-msgstr "Este nombre ya existe."
+msgstr "Tên này đã được sử dụng."
 
 msgid ""
 "The name of the physical network over which the virtual network is "
 "implemented."
 msgstr ""
-"El nombre de la red física sobre la que se implementará la red virtual."
+"Tên của mạng vật lý mà qua đó mạng ảo được thực hiện."
 
 msgid ""
 "The next hop addresses can be used to override the router used by the client."
 msgstr ""
-"Las direcciones del siguiente salto se pueden utilizar para ignorar el "
-"direccionador usado por el cliente."
+"Những địa chỉ của hop tiếp theo có thể được sử dụng để ghi đè lên router "
+"được sử dụng bởi khách hàng."
 
 msgid "The page you were looking for doesn't exist"
-msgstr "La página que está buscando no existe"
+msgstr "Trang bạn đang tìm kiếm không tồn tại"
 
 msgid "The physical mechanism by which the virtual network is implemented."
-msgstr "El mecanismo físico por el que está implementada la red virtual."
+msgstr "Kỹ thuật vật lý mà theo đó mạng ảo được thực thi."
 
 msgid ""
 "The port also describes the associated network configuration, such as the "
 "MAC and IP addresses to be used on that port."
 msgstr ""
-"Un puerto también describe la configuración de red asociada, como las "
-"direcciones MAC o IP, a utilizar en ese puerto."
+"Cảng cũng mô tả cấu hình mạng liên quan, chẳng hạn như MAC và địa chỉ IP "
+"được sử dụng trên cổng đó."
 
 msgid "The pre-defined key string between the two peers of the VPN connection"
 msgstr ""
-"La cadena de clave predefinida entre los dos iguales de la conexión VPN."
+"Chuỗi khoá được định nghĩa trước giữa hai máy ngang hàng của kết nối VPN'."
 
 msgid ""
 "The private key will be only used in your browser and will not be sent to "
 "the server"
 msgstr ""
-"La clave privada se usará solo en su navegador y no se enviará al servidor"
+"Khóa bí mật sẽ chỉ được sử dụng trong trình duyệt của bạn và sẽ không được gửi đi"
 
 msgid "The pseudo folder cannot be deleted since it is not empty."
-msgstr "No se puede suprimir la pseudo carpeta hasta que no esté vacía."
+msgstr "Thư mục pseudo không thể xóa vì nó không trống rỗng."
 
 msgid "The raw contents of the environment file."
-msgstr "Los contenidos planos de el archivo de entorno."
+msgstr "Nội dung thô của tệp môi trường."
 
 msgid "The raw contents of the template."
-msgstr "El contenido en bruto de la plantilla"
+msgstr "Nội dung thô của mẫu."
 
 #. Translators: Only used inside Horizon code and invisible to users
 #, python-format
@@ -8572,8 +8572,8 @@ msgid ""
 "The requested feature '%(feature)s' is unknown. Please make sure to specify "
 "a feature defined in FEATURE_MAP."
 msgstr ""
-"The requested feature '%(feature)s' is unknown. Please make sure to specify "
-"a feature defined in FEATURE_MAP."
+"Tính năng '%(feature)s' được yêu cầu chưa được định nghĩa. Hãy chỉ định "
+"một tính năng được định nghĩa trong FEATURE_MAP."
 
 #, python-format
 msgid ""
@@ -8583,334 +8583,334 @@ msgid_plural ""
 "The requested %(req)i instances cannot be launched as you only have "
 "%(avail)i of your quota available."
 msgstr[0] ""
-"La instancia solicitada no se puede ejecutar ya que solo tiene %(avail)i de "
-"su cuota disponible."
+"Máy ảo được yêu cầu không thể được tạo vì bạn chỉ có %(avail)i của hạn "
+"ngạch sẵn có của bạn."
 msgstr[1] ""
-"Las instancias %(req)i solicitadas no se pueden ejecutar ya que solo tienen "
-"%(avail)i de su cuota disponible. "
+"Các máy ảo %(req)i được yêu cầu không thể được tạo vì bạn chỉ có %(avail)i của hạn "
+"ngạch sẵn có của bạn"
 
 #, python-format
 msgid ""
 "The requested instance cannot be launched. Requested volume exceeds quota: "
 "Available: %(avail)s, Requested: %(req)s."
 msgstr ""
-"La instancia solicitada no se puede iniciar. El volumen solicitado excede la "
-"cuota: Disponible: %(avail)s, Solicitado: %(req)s."
+"Máy ảo được yêu cầu không thể được tạo. Volume được yêu cầu vượt quá hạn ngạch: "
+"Sẵn có: %(avail)s, Được yêu cầu: %(req)s."
 
 #, python-format
 msgid ""
 "The requested instance cannot be launched. The following requested "
 "resource(s) exceed quota(s): %s."
 msgstr ""
-"La instancia solicitada nose  puede iniciar. Los siguientes recursos "
-"solicitados exceden la quota(s): %s."
+"Máy ảo được yêu cầu không thể được tạo. Các tài nguyễn được yêu cầu "
+"vượt quá quota(s): %s."
 
 msgid ""
 "The requested instance port is already associated with another floating IP."
-msgstr "El puerto de instancia solicitado ya está asociado a otra IP flotante."
+msgstr "Cổng máy ảo được yêu cầu đã tồn tại liên kết với floating IP khác."
 
 msgid "The specified port is invalid."
-msgstr "El puerto especificado no es válido."
+msgstr "Cổng được chỉ định không có hiệu lực."
 
 msgid ""
 "The state of IPSec site connection to start in. If DOWN (False), IPSec site "
 "connection does not forward packets."
 msgstr ""
-"El estado de la conexión de sitio IPSec desde el que comenzar. Si está ABAJO "
-"(Falso), la conexión de sitio IPSec no reenvía paquetes."
+"Trạng thái kết nối IPSec bắt đầu. Nếu DOWN (Sai), kết nối IPSec không "
+"gửi các gói tin."
 
 msgid ""
 "The state of VPN service to start in. If DOWN (False) VPN service does not "
 "forward packets."
 msgstr ""
-"El estado del servicio VPN en el que comenzar. Si está ABAJO (Falso) el "
-"servicio VPN no reenvía paquetes."
+"Trạng thái dịch vụ VPN bắt đầu. Nếu DOWN (Sai), dịch vụ VPN không  "
+"gửi các gói tin."
 
 msgid "The state to start the network in."
-msgstr "El estado en el que iniciar la red."
+msgstr "."
 
 #, python-format
 msgid "The subnet in the Network Address is too small (/%s)."
-msgstr "La subred es demasiado pequeña (/%s)."
+msgstr "Mạng con trong địa chỉ mạng là quá nhỏ (/%s)."
 
 msgid "The time delta must be a number representing the time span in days"
 msgstr ""
-"El tiempo delta debe ser un número que represente el lapso de tiempo en días "
+"Thời gian delta phải là số đại diện cho khoảng thời gian theo ngày"
 
 #, python-format
 msgid "The volume size cannot be less than the image minimum disk size (%sGiB)"
 msgstr ""
-"El tamaño del volumen no puede ser menor que el tamaño mínimo de disco de la "
-"imagen (%sGiB)"
+"Kích thước volume không được nhỏ hơn dung lượng ổ cứng tối thiểu của image "
+"(%sGiB)"
 
 #, python-format
 msgid "The volume size cannot be less than the image size (%s)"
 msgstr ""
-"El tamaño del volumen no puede ser inferior al tamaño de la imagen (%s)"
+"Kích thước volume không được nhỏ hơn kích thước image (%s)"
 
 #, python-format
 msgid "The volume size cannot be less than the snapshot size (%sGiB)"
 msgstr ""
-"El tamaño del volumen no puede ser inferior al tamaño de la instantánea (%s "
+"Kích thước volume không được nhỏ hơn kích thước snapshot (%s "
 "GiB)"
 
 #, python-format
 msgid "The volume size cannot be less than the source volume size (%sGiB)"
 msgstr ""
-"El tamaño del volumen no puede ser menor que el tamaño del volumen original "
-"(%sGiB)"
+"KÍch thước volume không được nhỏ hơn kích thước volume nguồn (%sGiB)"
+""
 
 msgid "Theme Preview"
-msgstr "Vista previa de tema"
+msgstr "Xem trước chủ đề"
 
 msgid "Themes:"
-msgstr "Temas:"
+msgstr "Chủ đề:"
 
 msgid "There are no meters defined yet."
-msgstr "No hay medidores definidos todavía."
+msgstr "Không có meters nào được định nghĩa."
 
 msgid "There are no networks, routers, or connected instances to display."
-msgstr "No hay redes, direccionadores ni instancias conectadas que mostrar."
+msgstr "Không có mạng, bộ định tuyến hoặc máy ảo được kết nối để hiển thị."
 
 msgid ""
 "There is not enough capacity for this flavor in the selected availability "
 "zone. Try again later or select a different availability zone."
 msgstr ""
-"No hay suficiente capacidad para este tipo en la zona de disponibilidad "
-"seleccionada. Inténtelo de nuevo más tarde o seleccione otra zona de "
-"disponibilidad."
+"Không có đủ dung lượng cho flavor này trong vùng có sẵn được chọn. "
+"Hãy thử lại sau hoặc chọn một vùng sẵn có khác."
+""
 
 #, python-format
 msgid "There was a problem loading the namespace: %s."
-msgstr "Se ha producido un problema al cargar el espacio de nombres: %s."
+msgstr "Đã xảy ra sự cố khi tải không gian tên: %s."
 
 #, python-format
 msgid "There was a problem parsing the %(prefix)s: %(error)s"
-msgstr "Ha habido un problema al analizar el %(prefix)s:%(error)s "
+msgstr "Đã xảy ra vấn đề khi phân tích cú pháp %(prefix)s:%(error)s "
 
 msgid "This action cannot be undone."
-msgstr "Esta acción no se puede deshacer."
+msgstr "Hành động này không thể hoàn tác."
 
 msgid ""
 "This action cannot be undone. Current EC2 credentials will be deleted and "
 "not recoverable."
 msgstr ""
-"Esta acción no se puede deshacer. Las credenciales EC2 actuales se "
-"suprimirán y no se podrán recuperar."
+"Hành động này không thể hoàn tác. Giấy ủy quyền EC2 hiện tại sẽ được xóa "
+"và không thể lấy lại được."
 
 msgid "This application requires JavaScript to be enabled in your web browser."
 msgstr ""
-"Esta aplicación requiere que JavaScript esté habilitado en su navegador web. "
+"Ứng dụng yêu cầu JavaScript được kích hoạt trong trình duyệt của bạn "
 
 msgid ""
 "This generates a pair of keys: a key you keep private (cloud.key) and a "
 "public key (cloud.key.pub). Paste the contents of the public key file here."
 msgstr ""
-"Esto genera un par de claves: una clave que debe mantener privada (cloud."
-"key) y una clave pública (cloud.key.pud). Copie el contenido del archivo de "
-"la clave pública aquí."
+"Điều này sinh ra một cặp khóa: một khóa bạn giữ bí mật (cloud.key) và một "
+"khóa công cộng (cloud.key.pub). Dán nội dung của tệp khóa công khai ở đây."
+""
 
 msgid ""
 "This is equivalent to the <tt>cinder qos-associate</tt> and <tt>cinder qos-"
 "disassociate</tt> commands."
 msgstr ""
-"Esto equivale a los mandatos <tt>cinder qos-associate</tt> y <tt>cinder qos-"
-"disassociate</tt>."
+"Điều này tương đương với câu lệnh <tt>cinder qos-associate</tt> "
+"và <tt>cinder qos-disassociate</tt>."
 
 msgid ""
 "This is required for operations to be performed throughout the lifecycle of "
 "the stack"
 msgstr ""
-"Esto es indispensable para operaciones que se ejecuten durante el ciclo de "
-"vida de la pila."
+"Điều này là cần thiết cho các hoạt động được thực hiện trong suốt vòng đời "
+"của stack."
 
 msgid "This name is already taken."
-msgstr "Este nombre ya está en uso."
+msgstr "Tên này đã được dùng."
 
 msgid "This panel needs JavaScript support."
-msgstr "Este panel necesita soporte javascript."
+msgstr "Panel này cần JavaScript hỗ trợ."
 
 msgid ""
 "This volume is currently attached to an instance. In some cases, creating a "
 "snapshot from an attached volume can result in a corrupted snapshot."
 msgstr ""
-"Este volumen está actualmente asociado a una instancia. En algunos casos, "
-"hacer una instantánea de un volumen asociado puede provocar la corrupción de "
-"la instantánea."
+"Volume này hiện tại được gắn đến máy ảo. Trong một vài trường hợp, tạo bản "
+"snapshot từ volume được gắn dẫn đến bản snapshot nhanh hỏng. "
+""
 
 msgid "This volume type is used by one or more volumes."
-msgstr "Este tipo de volumen lo utilizan uno o más volúmenes."
+msgstr "Loại volume được sử dụng bởi một hoặc nhiều volumes."
 
 msgid "Time"
-msgstr "Tiempo"
+msgstr "Thời gian"
 
 msgid "Time Since Created"
-msgstr "Tiempo desde la creación"
+msgstr "Thời gian kể từ khi tạo"
 
 msgid "Time Since Event"
-msgstr "Tiempo desde el suceso"
+msgstr "Thời gian kể từ sự kiện"
 
 msgid "Time since created"
-msgstr "Tiempo desde su creación"
+msgstr "Thời gian kể từ khi tạo"
 
 msgid "Time since created (Seconds)"
-msgstr "Tiempo desde creación (segundos)"
+msgstr "Thời gian kể từ khi tạo (giây)"
 
 msgid "Timeout"
-msgstr "Tiempo de espera"
+msgstr "Thời gian chờ"
 
 msgid "Timezone"
-msgstr "Zona horaria"
+msgstr "Múi giờ"
 
 msgid "To"
-msgstr "Hasta"
+msgstr "Đến"
 
 msgid "To Port"
-msgstr "Hasta el puerto"
+msgstr "Đến cổng"
 
 msgid "To date to must be greater than From date."
-msgstr "La fecha hasta debe ser mayor que la fecha desde."
+msgstr "Ngày đến phải lớn hơn ngày bắt đầu."
 
 msgid ""
 "To decrypt your password you will need the private key of your key pair for "
 "this instance. Select the private key file, or copy and paste the content of "
 "your private key file into the text area below, then click Decrypt Password."
 msgstr ""
-"Para descifrar su contraseña necesitará la clave privada de su par de claves "
-"para esta instancia. Seleccione el archivo de la clave privada o copie y "
-"pegue el contenido de su archivo de clave privada en el área de texto, luego "
-"pulse en descifrar contraseña."
+"Để giải mã mật khẩu của bạn, bạn cầm khóa bí mật của cặp khóa của bạn cho "
+"máy ảo này. Bạn tệp khóa bí mật, hoặc sao cháo và dán nội dung của tệp khóa bí "
+"mật của bạn đến khung văn bản bên dưới, sau đó nhấn Giải mã Mật khẩu."
+""
 
 msgid "To exit the fullscreen mode, click the browser's back button."
 msgstr ""
-"Para salir del modo pantalla completa, pulse el botón de página anterior del "
-"navegador."
+"Để thoát chế độ toàn màn hình, nhấn nút quay lại trong trình duyệt "
+"của bạn."
 
 msgid ""
 "To specify an allowed IP range, select &quot;CIDR&quot;. To allow access "
 "from all members of another security group select &quot;Security Group&quot;."
 msgstr ""
-"Para especificar un rango de IP permitidas, seleccione \"CIDR\". Para "
-"permitir acceso a todos los miembros de otro grupo de seguridad seleccione "
-"\"Grupo de seguridad\""
+"Chỉ rõ dải IP được cho phép, chọn &quot;CIDR&quot;. Để cho phép truy cập "
+"từ tất cả thành viên hoặc nhóm bảo mật khác chọn &quot;Security Group&quot;."
+""
 
 msgid "To:"
-msgstr "Hasta:"
+msgstr "Đến:"
 
 msgid "Toggle Network Collapse"
-msgstr "Alternar colapso de red"
+msgstr "Sự thất bại của mạng thay thế"
 
 msgid "Toggle labels"
-msgstr "Alternar etiquetas"
+msgstr "Nhãn thay thế"
 
 msgid "Toggle navigation"
-msgstr "Alternar navegación "
+msgstr "Chuyển hướng "
 
 msgid "Topic"
-msgstr "Tema"
+msgstr "Chủ đề"
 
 msgid "Topology"
-msgstr "Topología"
+msgstr "Đồ hình"
 
 msgid "Total Active RAM (MB):"
-msgstr "RAM Activa total (MB):"
+msgstr "Tổng số RAM hoạt động (MB):"
 
 msgid "Total Disk"
-msgstr "Total de disco"
+msgstr "Tổng số ổ cứng"
 
 msgid "Total Disk Size (GB):"
-msgstr "Tamaño total de disco (GB):"
+msgstr "Tổng số dung lượng ổ cứng(GB):"
 
 msgid "Total Disk Usage (Hours):"
-msgstr "Uso total de disco (horas):"
+msgstr "Tổng số ổ cứng sử dụng (horas):"
 
 msgid "Total Gibibytes"
-msgstr "Total de Gibibytes"
+msgstr "Tổng số Gibibytes"
 
 msgid "Total Memory Usage (Hours):"
-msgstr "Uso total de memoria (horas):"
+msgstr "Tổng số bộ nhớ sử dụng (Giờ):"
 
 msgid "Total RAM"
-msgstr "Total de RAM"
+msgstr "Tổng số RAM"
 
 msgid "Total Size of Volumes and Snapshots (GB)"
-msgstr "Tamaño total de volúmenes e instantáneas (GB)"
+msgstr "Tổng cộng dung lượng của Volumes và Snapshots (GB)"
 
 msgid "Total Size of Volumes and Snapshots (GiB)"
-msgstr "Tamaño total de volúmenes e instantáneas (GiB)"
+msgstr "Tổng cộng dung lượng của Volumes và Snapshots(GiB)"
 
 #, python-format
 msgid "Total Size of Volumes and Snapshots (GiB) of Type %(type)s"
-msgstr "Tamaño total de volúmenes e instantáneas (GiB) de tipo %(type)s"
+msgstr "Tổng cộng dung lượng của Volumes và Snapshot (GiB) của loại %(type)s"
 
 msgid "Total VCPU Usage (Hours):"
-msgstr "Uso total de VCPU (horas):"
+msgstr "Tổng số VCPU sử dụngh (giờ):"
 
 msgid ""
 "Total VCPU usage (Number of VCPU in instance * Hours Used) for the project"
 msgstr ""
-"El uso total de VCPU (Número de VCPU en instancia * Horas Empleadas) para el "
-"proyecto"
+"Tổng số VCPU sử dụng (Số VCPU của máy ảo * số giờ được sử dụng) cho project"
+""
 
 msgid "Total disk usage (GB * Hours Used) for the project"
-msgstr "Uso total de disco (GB * Horas Empleadas) para el proyecto"
+msgstr "Tổng số ổ cứng sử dụng (GB * Hgiờ được sử dụng) cho project"
 
 msgid "Total memory usage (MB * Hours Used) for the project"
-msgstr "Uso total de memoria (MB * Horas Empleadas) para el proyecto"
+msgstr "Tổng số bộ nhớ sử dụng (MB * số giờ sử dụng) cho project"
 
 msgid "Total size of stored objects"
-msgstr "Tamaño total de objetos almacenados"
+msgstr "Tổng số kích thược của các đối tượng được lưu trữ"
 
 msgid "Transfer ID"
-msgstr "ID de transferencia"
+msgstr "ID truyền"
 
 msgid "Transfer Name"
-msgstr "Nombre de transferencia"
+msgstr "Tên truyền"
 
 msgid "Transform Protocol"
-msgstr "Protocolo de transformación"
+msgstr "Giao thức truyền"
 
 msgid "Type"
-msgstr "Tipo"
+msgstr "Loại"
 
 msgid "Type of backend device identifier provided"
-msgstr "Tipo de indentificador de dispositivo de fondo proporcionado."
+msgstr "Loại mã nhận dạng thiết bị backend được cung cấp."
 
 #, python-format
 msgid "Type: %(persistence_type)s"
-msgstr "Tipo: %(persistence_type)s"
+msgstr "Loại mã: %(persistence_type)s"
 
 msgid "UDP"
 msgstr "UDP"
 
 msgid "UP"
-msgstr "ARRIBA"
+msgstr "Bật"
 
 msgctxt "Admin state of a Firewall"
 msgid "UP"
-msgstr "ARRIBA"
+msgstr "Bật"
 
 msgctxt "Admin state of a Load balancer"
 msgid "UP"
-msgstr "ARRIBA"
+msgstr "Bật"
 
 msgctxt "Admin state of a Network"
 msgid "UP"
-msgstr "ARRIBA"
+msgstr "Bật"
 
 msgctxt "Admin state of a Port"
 msgid "UP"
-msgstr "ARRIBA"
+msgstr "Bật"
 
 msgctxt "Admin state of a Router"
 msgid "UP"
-msgstr "ARRIBA"
+msgstr "v"
 
 msgid "URL"
 msgstr "URL"
 
 msgid "URL Path"
-msgstr "Ruta URL"
+msgstr "Đường dẫn URL"
 
 msgid "UTC"
 msgstr "UTC"
@@ -8920,84 +8920,84 @@ msgid "UTC %(hour)s:%(min)s"
 msgstr "UTC %(hour)s:%(min)s"
 
 msgid "Unable to accept volume transfer."
-msgstr "No es posible aceptar la transferencia de volumen."
+msgstr "Không chấp nhận di chuyển volume."
 
 #, python-format
 msgid "Unable to add Firewall \"%s\"."
-msgstr "No se ha podido añadir el cortafuegos \"%s\"."
+msgstr "Không thể thêm tường lửa \"%s\"."
 
 #, python-format
 msgid "Unable to add IKE Policy \"%s\"."
-msgstr "No se ha podido añadir la política IKE \"%s\"."
+msgstr "Không thể thêm chính sách IKE \"%s\"."
 
 #, python-format
 msgid "Unable to add IPSec Policy \"%s\"."
-msgstr "No se ha podido añadir la política IPSec \"%s\"."
+msgstr "Không thể thêm chính sách IPSec \"%s\"."
 
 #, python-format
 msgid "Unable to add IPSec Site Connection \"%s\"."
-msgstr "No se ha podido añadir la conexión sitio a sitio IPSec \"%s\"."
+msgstr "Không thể thêm kết nối IPSec \"%s\"."
 
 #, python-format
 msgid "Unable to add Policy \"%s\"."
-msgstr "No se ha podido añadir la política \"%s\"."
+msgstr "Không thể thêm chính sách \"%s\"."
 
 #, python-format
 msgid "Unable to add Rule \"%s\"."
-msgstr "No se ha podido añadir la regla \"%s. "
+msgstr "Không thể thêm quy tắc \"%s. "
 
 #, python-format
 msgid "Unable to add VIP \"%s\"."
-msgstr "No se ha podido añadir la VIP \"%s\"."
+msgstr "Không thêm thêm VIP \"%s\"."
 
 #, python-format
 msgid "Unable to add VPN Service \"%s\"."
-msgstr "No se ha podido añadir el servicio VPN \"%s\"."
+msgstr "Không thể thêm dịch vụ VPN \"%s\"."
 
 msgid "Unable to add member(s)"
-msgstr "No se ha podido añadir miembro(s)"
+msgstr "Không thể thêm thành viên (nhiều thành viên"
 
 msgid "Unable to add monitor"
-msgstr "No se ha podido añadir el supervisor"
+msgstr "Không thể thêm giám sát"
 
 msgid "Unable to add monitor."
-msgstr "No se ha podido añadir el supervisor."
+msgstr "Không thể thêm giám sát."
 
 #, python-format
 msgid "Unable to add pool \"%s\"."
-msgstr "No se ha podido agregar la agrupación\"%s. "
+msgstr "Không thể thêm pool \"%s. "
 
 msgid "Unable to add rule to security group."
-msgstr "No se ha podido añadir la regla al grupo de seguridad."
+msgstr "Không thể thêm quy tắc đến nhóm bảo mật."
 
 msgid "Unable to add user to primary project."
-msgstr "No se ha podido añadir el usuario al proyecto principal."
+msgstr "Không thể thêm người dùng đến project gốc."
 
 msgid "Unable to allocate Floating IP."
-msgstr "No se ha podido asignar la IP flotante."
+msgstr "Không thể cấp phát Floating IP."
 
 #, python-format
 msgid "Unable to associate IP address %s."
-msgstr "No se ha podido asociar la dirección IP %s."
+msgstr "Không thể liên kết địa chỉ IP %s."
 
 msgid "Unable to associate floating IP."
-msgstr "No se ha podido asociar la IP flotante."
+msgstr "Không thể liên kết địa chỉ IP.."
 
 msgid "Unable to associate monitor."
-msgstr "No se ha podido asociar el supervisor."
+msgstr "Không thể liên kết giám sát."
 
 msgid "Unable to attach interface."
-msgstr "No se ha podido conectar la interfaz."
+msgstr "Không thể gắn giao diện."
 
 msgid "Unable to attach volume."
-msgstr "No se ha podido asociar el volumen."
+msgstr "Không thể gắn volume."
 
 msgid "Unable to change password."
 msgstr "Không có khả năng thay đổi mật khẩu"
 
 #, python-format
 msgid "Unable to change the volume type for volume: \"%s\""
-msgstr "No se ha podido cambiar el tipo de volumen para el volumen: \"%s\""
+msgstr "Không thể thay đổi loại volume cho volume: \"%s\""
 
 #, python-format
 msgid "Unable to clear gateway for router \"%(name)s\": \"%(msg)s\""
