@@ -8993,7 +8993,7 @@ msgid "Unable to attach volume."
 msgstr "No se ha podido asociar el volumen."
 
 msgid "Unable to change password."
-msgstr "Không có khả năng thay đổi mật khẩu"
+msgstr "Không có thể thay đổi mật khẩu."
 
 #, python-format
 msgid "Unable to change the volume type for volume: \"%s\""
@@ -9717,7 +9717,7 @@ msgid "Unable to retrieve key pair list."
 msgstr "Không tìm thấy danh sách cặp khóa."
 
 msgid "Unable to retrieve key pairs."
-msgstr "Không tìm thấy các cặp khóa."
+msgstr "Không thể truy xuất cặp khóa."
 
 msgid "Unable to retrieve limit information."
 msgstr "Không tìm thấy thông tin giới hạn."
@@ -9748,488 +9748,488 @@ msgid "Unable to retrieve member list."
 msgstr "Không thể tìm thấy danh sách thành viên."
 
 msgid "Unable to retrieve metadata."
-msgstr "No se han podido recuperar los metadatos."
+msgstr "Không thể truy xuất metadata"
 
 msgid "Unable to retrieve monitor details."
-msgstr "No se han podido recuperar los detalles de los monitores."
+msgstr "Không thể truy xuất các chi tiết giám sát."
 
 msgid "Unable to retrieve monitor list."
-msgstr "No se ha podido obtener la lista de supervisores."
+msgstr "Không thể tìm thấy danh sách giám sát."
 
 msgid "Unable to retrieve monitors list."
-msgstr "No se ha podido obtener la lista de supervisores."
+msgstr "Không thể tìm thấy danh sách giám sát."
 
 msgid "Unable to retrieve namespace contents."
-msgstr "No se ha podido recuperar el contenido del espacio de nombres"
+msgstr "Không tìm thấy nội dung của namespace"
 
 msgid "Unable to retrieve namespace details."
-msgstr "No se ha podido recuperar los detalles del espacio de nombres"
+msgstr "Không thể truy xuất chi tiết về namespace"
 
 msgid "Unable to retrieve network details."
-msgstr "No se han podido recuperar los detalles de la red."
+msgstr "Không thể tìm thấy các chi tiết về network"
 
 msgid "Unable to retrieve network quota information."
-msgstr "No se ha podido recuperar la información de la cuota de red."
+msgstr "Không thể truy xuất thông tin về giới hạn network."
 
 msgid "Unable to retrieve network."
-msgstr "No se ha podido recuperar la red."
+msgstr "Không thể tìm thấy network."
 
 msgid "Unable to retrieve networks list."
-msgstr "No se ha podido recuperar la lista de redes."
+msgstr "Không thể tìm thấy danh sách networks."
 
 msgid "Unable to retrieve object list."
-msgstr "No se ha podido recuperar la lista de objetos."
+msgstr "Không thể truy xuất danh sách đối tượng."
 
 msgid "Unable to retrieve object."
-msgstr "No se ha podido recuperar el objeto."
+msgstr "Không tìm thấy đối tượng."
 
 msgid "Unable to retrieve policies list."
-msgstr "No se ha podido obtener la lista de políticas."
+msgstr "Không thể truy suất các chính sách."
 
 msgid "Unable to retrieve policy details."
-msgstr "No se han podido recuperar los detalles de la política."
+msgstr "Không thể tìm thấy chi tiết về chính sách."
 
 #, python-format
 msgid "Unable to retrieve policy list (%(error)s)."
-msgstr "No se ha podido recuperar la lista de políticas (%(error)s)."
+msgstr "Không thể truy xuất danh sách chính sách (%(error)s)."
 
 msgid "Unable to retrieve policy list."
-msgstr "No se ha podido obtener la lista de políticas."
+msgstr "Không tìm thấy các chính sách."
 
 msgid "Unable to retrieve pool details."
-msgstr "No se han podido recuperar los detalles de la agrupación."
+msgstr "Không tìm thấy chi tiết về pool."
 
 #, python-format
 msgid "Unable to retrieve pool details. %s"
-msgstr "No se han podido recuperar los detalles de la agrupación. %s"
+msgstr "Không tìm thấy chi tiết về pool. %s"
 
 #, python-format
 msgid "Unable to retrieve pool subnet. %s"
-msgstr "No se ha podido recuperar la subred de la agrupación. %s"
+msgstr "Không tìm thấy pool mạng con. %s"
 
 #, python-format
 msgid "Unable to retrieve pool. %s"
-msgstr "No se ha podido recuperar la agrupación. %s"
+msgstr "Không thể truy xuất pool. %s"
 
 msgid "Unable to retrieve pools information."
-msgstr "No se ha podido recuperar la información de agrupacione."
+msgstr "Không tìm thấy thông tin về pool."
 
 msgid "Unable to retrieve pools list."
-msgstr "No se ha podido obtener la lista de agrupaciones."
+msgstr "Không thể truy xuất danh sách pool."
 
 msgid "Unable to retrieve port details"
-msgstr "No se han podido recuperar los detalles del puerto"
+msgstr "Không tìm thấy thông tin về port"
 
 msgid "Unable to retrieve port details."
-msgstr "No se han podido recuperar los detalles del puerto."
+msgstr "Không thể truy xuất các thông tin của port"
 
 msgid "Unable to retrieve ports information."
-msgstr "No se ha podido recuperar la información de puertos"
+msgstr "Không truy xuất được thông tin của port"
 
 msgid "Unable to retrieve project details."
-msgstr "No se han podido recuperar los detalles del proyecto."
+msgstr "Khong tìm thấy chi tiết về project."
 
 msgid "Unable to retrieve project domain."
-msgstr "No se ha podido recuperar el dominio del proyecto."
+msgstr "Không thể tìm thấy miền project."
 
 msgid "Unable to retrieve project information."
-msgstr "No se ha podido recuperar la información del proyecto."
+msgstr "Không thể tìm thấy thông tin project."
 
 msgid "Unable to retrieve project list."
-msgstr "No se ha podido obtener la lista de proyectos."
+msgstr "Không thể truy xuất danh sách project."
 
 msgid "Unable to retrieve protocol list."
-msgstr "No se ha podido recuperar la lista de protocolos."
+msgstr "Không thể truy xuất danh sách protocol."
 
 msgid "Unable to retrieve providers list."
-msgstr "No se ha podido recuperar la lista de proveedores"
+msgstr "Không thể truy xuất danh sách provider."
 
 msgid "Unable to retrieve public images."
-msgstr "No se han podido recuperar las imágenes públicas."
+msgstr "Không thể truy xuất images công khai"
 
 msgid "Unable to retrieve quota information."
-msgstr "No se ha podido recuperar la información de cuota."
+msgstr "Không thể truy xuất thông tin hạn ngạch"
 
 msgid "Unable to retrieve resource type details."
-msgstr "No se han podido recuperar los detalles del tipo de recurso."
+msgstr "Không thể truy xuất thông tin về loại tài nguyên."
 
 msgid "Unable to retrieve resource."
-msgstr "No se ha podido recuperar el recurso."
+msgstr "Không thể truy xuất tài nguyên."
 
 msgid "Unable to retrieve role list."
-msgstr "No se ha podido obtener la lista de roles."
+msgstr "Không thể truy xuất danh sách role."
 
 msgid "Unable to retrieve roles list."
-msgstr "No se ha podido recuperar la lista de roles."
+msgstr "Không thể truy xuất danh sách roles."
 
 msgid "Unable to retrieve router details."
-msgstr "No se ha podido recuperar los detalles del direccionador."
+msgstr "Không thể tìm thấy thông tin về router"
 
 msgid "Unable to retrieve router list."
-msgstr "No se ha podido obtener la lista de direccionadores."
+msgstr "Không thể truy xuất danh sách router."
 
 msgid "Unable to retrieve router."
-msgstr "No se ha podido recuperar el direccionador."
+msgstr "Không tìm thấy router."
 
 #, python-format
 msgid "Unable to retrieve routers (%(error)s)."
-msgstr "No se han podido recuperar los direccionadores (%(error)s)."
+msgstr "Không thể truy xuất routers (%(error)s)."
 
 msgid "Unable to retrieve routers list."
-msgstr "No se ha podido recuperar la lista de direccionadores."
+msgstr "Không thể truy xuất danh sách routers."
 
 msgid "Unable to retrieve rule details."
-msgstr "No se han podido recuperar los detalles de la regla."
+msgstr "Không thể truy xuất chi tiết về rule."
 
 #, python-format
 msgid "Unable to retrieve rules (%(error)s)."
-msgstr "No se han podido recuperar las reglas (%(error)s)."
+msgstr "Không thể truy xuất rule (%(error)s)."
 
 msgid "Unable to retrieve rules list."
-msgstr "No se ha podido obtener la lista de reglas."
+msgstr "Không thể truy xuất danh sách rules."
 
 msgid "Unable to retrieve security group list. Please try again later."
 msgstr ""
-"No se ha podido recuperar la lista de grupos de seguridad. Inténtelo más "
-"tarde."
+"Không thể truy xuất danh sách group bảo mật. Vui lòng thử lại "
+"sau."
 
 msgid "Unable to retrieve security group."
-msgstr "No se ha podido recuperar el grupo de seguridad."
+msgstr "Không thể tìm thấy group bảo mật."
 
 #, python-format
 msgid "Unable to retrieve security groups for instance \"%(name)s\" (%(id)s)."
 msgstr ""
-"No se han podido recuperar los grupos de seguridad para la instancia "
+"Không thể truy xuất group bảo mật cho yêu cầu "
 "\"%(name)s\" (%(id)s)."
 
 msgid "Unable to retrieve security groups."
-msgstr "No se han podido recuperar los grupos de seguridad."
+msgstr "Không thể tìm thấy groups bảo mật."
 
 msgid "Unable to retrieve snapshot data."
-msgstr "No se han podido recuperar los datos de la instantánea."
+msgstr "Không thể truy xuất dữ liệu snapshot."
 
 msgid "Unable to retrieve snapshot details."
-msgstr "No se han podido recuperar las instantáneas."
+msgstr "Không thể truy xuất thông tin về snapshot."
 
 msgid "Unable to retrieve snapshot list."
-msgstr "No se ha podido recuperar la lista de instantáneas."
+msgstr "Không thể truy xuất danh sách snapshot"
 
 msgid "Unable to retrieve stack list."
-msgstr "No se ha podido recuperar la lista de pilas."
+msgstr "Không thể truy xuất danh sách stack."
 
 msgid "Unable to retrieve stack resource types."
-msgstr "No se han podido recuperar tipos de recurso de pila"
+msgstr "Không thể truy xuất loại stack tài nguyên."
 
 msgid "Unable to retrieve stack template."
-msgstr "No se ha podido recuperar la plantilla de la pila"
+msgstr "Không thể tìm thấy bản mẫu stack."
 
 msgid "Unable to retrieve stack."
-msgstr "No se han podido recuperar las pilas."
+msgstr "Không thể truy xuất stack."
 
 msgid "Unable to retrieve subnet details"
-msgstr "No se han podido recuperar los detalles de la subred"
+msgstr "Không thể truy xuất thông tin mạng con."
 
 msgid "Unable to retrieve subnet details."
-msgstr "No se han podido recuperar los detalles de la subred."
+msgstr "Không thể truy xuất thông tin mạng con."
 
 msgid "Unable to retrieve tenant limits."
-msgstr "No se han podidorecuperar los límites de los arrendatarios."
+msgstr "Không thể truy xuất giới hạn về tenant."
 
 msgid "Unable to retrieve the aggregate to be updated"
-msgstr "No se ha podido obtener el agregado a actualizar"
+msgstr "Không thể truy xuất tổng hợp để có thể cập nhật"
 
 msgid "Unable to retrieve the project information of the image."
-msgstr "No se ha podido obtener la información de proyecto de la imagen."
+msgstr "Không thể lấy thông tin project của image"
 
 msgid "Unable to retrieve the specified pool."
-msgstr "No se ha podido recuperar el repositorio especificado."
+msgstr "Không thể truy xuất về pool đã được khai báo."
 
 #, python-format
 msgid "Unable to retrieve the specified pool. Unable to add VIP \"%s\"."
 msgstr ""
-"No se ha podido recuperar la agrupación especificada. No se ha podido añadir "
-"la VIP \"%s\"."
+"Không thể truy xuất về pool đã được khai báo. Không thể thêm "
+"VIP \"%s\"."
 
 msgid "Unable to retrieve the volume type list."
-msgstr "No se ha podido recuperar la lista de tipos de volumen."
+msgstr "Không thể truy xuất danh sách loại volume."
 
 msgid "Unable to retrieve usage information."
-msgstr "No se ha podido recuperar la información del uso."
+msgstr "Không thể truy xuất thông tin về usage."
 
 msgid "Unable to retrieve user details."
-msgstr "No se ha podido obtener la información detallada del usuario."
+msgstr "Không thể truy xuất thông tin về người dùng."
 
 msgid "Unable to retrieve user domain role assignments."
 msgstr ""
 "No se han podido recuperar las asignaciones de roles de dominio de usuario."
 
 msgid "Unable to retrieve user information."
-msgstr "No se ha podido recuperar la información del usuario."
+msgstr "Không thể truy xuất thông tin người dùng."
 
 msgid "Unable to retrieve user list."
-msgstr "No se ha podido obtener la lista de usuarios."
+msgstr "Không thể truy xuất danh sách người dùng."
 
 msgid "Unable to retrieve user list. Please try again later."
 msgstr ""
-"No se ha podido obtener la lista de usuarios. Inténtelo de nuevo más tarde."
+"Không thể truy xuất danh sách người dùng. Vui lòng thử lại sau."
 
 msgid "Unable to retrieve user roles."
-msgstr "No se han podido recuperar los roles de usuario."
+msgstr "Không thể truy xuất roles của người dùng."
 
 msgid "Unable to retrieve users."
-msgstr "No se ha podido recuperar los usuarios."
+msgstr "Không thể truy xuất người dùng."
 
 msgid "Unable to retrieve version information."
-msgstr "No se ha podido obtener información de la versión."
+msgstr "Không thể truy xuất thông tin version"
 
 msgid "Unable to retrieve volume backups."
-msgstr "No se hna podido recuperar las copias de seguridad de volumen."
+msgstr "Không thể truy xuất các bản sao của volume."
 
 msgid "Unable to retrieve volume consistency groups."
-msgstr "No se han podido recuperar los grupos de consistencia de volumen."
+msgstr "Không thể truy xuất nhóm gộp volume."
 
 msgid "Unable to retrieve volume details."
-msgstr "No se han podido recuperar los detalles del volumen."
+msgstr "Không thể truy xuất thông tin volume."
 
 msgid "Unable to retrieve volume encryption details."
-msgstr "No se ha podido recuperar los detalles del cifrado del volumen"
+msgstr "Không thể truy xuất thông tin volume mã hóa."
 
 #, python-format
 msgid "Unable to retrieve volume information for volume: \"%s\""
 msgstr ""
-"No se ha podido obtener la información de volumen para el volumen: \"%s\""
+"Không thể truy xuất thông tin volume cho volume: \"%s\""
 
 msgid "Unable to retrieve volume information."
-msgstr "No se ha podido obtener la información del volumen."
+msgstr "Không thể truy xuất thông tin volume"
 
 msgid "Unable to retrieve volume limit information."
-msgstr "No se ha podido obtener la información del límite del volumen."
+msgstr "Không thể truy xuất thông tin giới hạn volume."
 
 #, python-format
 msgid "Unable to retrieve volume list for instance \"%(name)s\" (%(id)s)."
 msgstr ""
-"No se ha podido recuperar la lista de volúmenes para la instancia  \"%(name)s"
+"Không thể truy xuất danh sách volume cho yêu cầu  \"%(name)s"
 "\" (%(id)s)."
 
 msgid "Unable to retrieve volume list."
-msgstr "No se ha podido obtener la lista de volúmenes."
+msgstr "Không thể truy xuất danh sách volume."
 
 msgid "Unable to retrieve volume project information."
-msgstr "No se ha podido recuperar la información de proyecto del voumen."
+msgstr "Không thể truy xuất thông tin về volume project."
 
 msgid "Unable to retrieve volume snapshot."
-msgstr "No se ha podido obtener lainstantánea de volumen."
+msgstr "Không thể truy xuất snapshot của volume."
 
 msgid "Unable to retrieve volume snapshots."
-msgstr "No se han podido recuperar las instantáneas de volúmenes."
+msgstr "Không thể truy xuất snapshots của volume."
 
 msgid "Unable to retrieve volume transfer."
-msgstr "No e ha podido recuperar la transferencia de volumen "
+msgstr "Không thể truy xuất volume transfer."
 
 msgid "Unable to retrieve volume type details."
 msgstr ""
-"No se ha podido recuperar la información detallada del tipo de volumen."
+"Không thể truy xuất thông tin về loại volume."
 
 msgid "Unable to retrieve volume type encryption details."
-msgstr "No se ha podido recuperar los detalles del cifrado del tipo de volumen"
+msgstr "Không thể truy xuất thông tin của loại volume mã hóa."
 
 msgid "Unable to retrieve volume type encryption information."
 msgstr ""
-"No se ha podido recuperar la información sobre el cifrado de tipos de "
-"volumen."
+"Không thể tìm thấy thông tin về kiểu mã hóa "
+"volume."
 
 msgid "Unable to retrieve volume type extra spec details."
 msgstr ""
-"No se ha podido recuperar la información detallada de la especificación "
-"adicional del tipo de volumen"
+"Không thể tìm thấy thông tin chi tiết về "
+"kiểu của volume."
 
 #, python-format
 msgid "Unable to retrieve volume type for: \"%s\""
-msgstr "No se ha podido recuperar el tipo de volumen para: \"%s\""
+msgstr "Không tìm thấy kiểu volume dành cho: \"%s\""
 
 msgid "Unable to retrieve volume type list."
-msgstr "No se ha podido de recuperar la lista de tipos de volumen."
+msgstr "Không thể truy xuất danh sách kiểu của volume."
 
 msgid "Unable to retrieve volume type name."
-msgstr "No se ha podido recuperar el nombre del tipo de volumen."
+msgstr "Không thể truy xuất tên kiểu volume."
 
 msgid "Unable to retrieve volume type qos."
-msgstr "No se ha podido recuperar el tipo de volumen qos."
+msgstr "Không thể truy xuất QOS của volume."
 
 msgid "Unable to retrieve volume types"
-msgstr "No se han podido recuperar los tipos de volumen."
+msgstr "Không thể truy xuất các kiểu của volume."
 
 msgid "Unable to retrieve volume."
-msgstr "No se ha podido recuperar el volumen."
+msgstr "Không thể truy xuất volume."
 
 msgid "Unable to retrieve volume/instance attachment information"
-msgstr "No se ha podido obtener información de la asociación volumen/instancia"
+msgstr "Không thể lấy thông tin đính kèm với volume/instance."
 
 msgid "Unable to retrieve volumes availability zones."
 msgstr ""
-"No se han podido recuperar las zonas de disponibilidad de los volúmenes."
+"Không thể tìm thấy các vùng có sẵn volumes."
 
 msgid "Unable to set Domain Context."
-msgstr "No se ha podido definir el contexto del dominio."
+msgstr "Không thể thiết lập Domain Context."
 
 msgid "Unable to set bootable flag on volume."
-msgstr "No se ha podido establecer indicador de arrancable en el volumen."
+msgstr "Không thể đặt flag boot trên volume."
 
 #, python-format
 msgid "Unable to set flavor access for project %s."
-msgstr "No se ha podido establecer el acceso del tipo para el proyecto %s."
+msgstr "Không thiết lập được bản mẫu truy cập cho project %s."
 
 msgid "Unable to set gateway."
-msgstr "No se ha podido definir la puerta de enlace."
+msgstr "Không thể thiết lập được gateway."
 
 msgid "Unable to set project quotas."
-msgstr "No se han podido definir las cuotas del proyecto."
+msgstr "Không thể thiết lập hạn ngạch cho project."
 
 msgid "Unable to sort instance flavors."
-msgstr "No se han podido ordenar los tipos de instancia."
+msgstr "Không thể sắp xếp các bản mẫu."
 
 msgid "Unable to unmanage volume."
-msgstr "No se ha podido dejar de gestionar el volumen."
+msgstr "Không thể bỏ quản lý volume."
 
 msgid "Unable to update container access."
-msgstr "No se ha podido modificar el acceso del contenedor."
+msgstr "Không thể thay đổi quyền truy cập container."
 
 msgid "Unable to update default quotas for Cinder."
-msgstr "No se ha podido actualizar las cuotas predeterminadas de Cinder."
+msgstr "Không thể thay đổi giới hạn mặc định cho Cinder."
 
 msgid "Unable to update default quotas for Nova."
-msgstr "No se han podido actualizar las cuotas predeterminadas de Nova."
+msgstr "Không thể thay đổi giới hạn mặc định cho Nova."
 
 msgid "Unable to update default quotas."
-msgstr "No se han podido actualizar las cuotas predeterminadas."
+msgstr "Không thể thay đổi giới hạn mặc định."
 
 msgid "Unable to update encrypted volume type."
-msgstr "No se ha podido actualizar el tipo de volumen cifrado"
+msgstr "Không thể thay đổi kiểu mã hóa cho volume."
 
 msgid "Unable to update group."
-msgstr "No se ha podido actualizar el grupo."
+msgstr "Không thể thay đổi group."
 
 msgid "Unable to update identity provider."
-msgstr "No se ha podido actualizar el proveedor de identidad."
+msgstr "Không thể thay đổi định danh provider."
 
 msgid ""
 "Unable to update identity provider. Please check that the Remote IDs "
 "provided are not already in use."
 msgstr ""
-"No se ha podido actualizar el proveedor de identidad. Compruebe que los ID "
-"Remotos no se están ya utilizando."
+"Không thể thay đổi định danh provider. Vui lòng kiểm tra lại ID "
+"Remote được cung cấp."
 
 #, python-format
 msgid "Unable to update image \"%s\"."
-msgstr "No se ha podido subir la imagen \"%s\"."
+msgstr "Không thể thay đổi image \"%s\"."
 
 msgid "Unable to update mapping."
-msgstr "No se ha podido actualizar la correlación."
+msgstr "Không thể thay đổi mapping."
 
 msgid "Unable to update mapping. Rules has malformed JSON data."
 msgstr ""
-"No se ha podido actualizar la correlación. Las reglas contienen datos JSON "
-"mal formados."
+"Không thể thay đổi mapping. Quy tắc có dữ liệu dạng JSON "
+"không đúng dịnh dạng."
 
 msgid "Unable to update object."
-msgstr "No se ha podido actualizar el objeto."
+msgstr "Không thể thay đổi đối tượng."
 
 msgid "Unable to update role."
-msgstr "No se ha podido actualizar el rol."
+msgstr "Không thể thay đổi role."
 
 #, python-format
 msgid "Unable to update security group: %s"
-msgstr "No se ha podido actualizar el grupo de seguridad: %s"
+msgstr "Không thể cập nhập group bảo mật: %s"
 
 #, python-format
 msgid "Unable to update subnet \"%s\"."
-msgstr "No se ha podido actualizar la subred \"%s\"."
+msgstr "Không thể thay đổi cho mạng con \"%s\"."
 
 msgid "Unable to update the aggregate."
-msgstr "No se ha podido actualizar el agregado."
+msgstr "Không thể thay đổi một cách tổng hợp ."
 
 msgid "Unable to update the group."
-msgstr "No se ha podido actualizar el grupo."
+msgstr "Không thể thay đổi cho group."
 
 msgid "Unable to update the user password."
-msgstr "No se ha podido actualizar la contraseña de usuario."
+msgstr "Không thể thay đổi mật khẩu người dùng."
 
 msgid "Unable to update the user."
-msgstr "No se ha podido actualizar el usuario."
+msgstr "Không thể thay đổi cho người dùng."
 
 msgid "Unable to update the volume type."
-msgstr "No se ha podido actualizar el tipo de volumen."
+msgstr "Không thể thay đổi kiểu volume."
 
 msgid "Unable to update volume consistency group."
-msgstr "No se ha podido actualizar el grupo de consistencia del volumen."
+msgstr "Không thể thay đổi cho nhóm gộp volume."
 
 msgid "Unable to update volume snapshot status."
-msgstr "No se ha podido actualizar el estado de la instantánea de volumen."
+msgstr "Không thể thay đổi trạng thái snapshot của volume."
 
 msgid "Unable to update volume snapshot."
-msgstr "No se ha podido actualizar la instantánea de volumen."
+msgstr "Không thể thay đổi snapshot cho volume."
 
 #, python-format
 msgid "Unable to update volume status to \"%s\"."
-msgstr "No se ha podido actualizar el estado del volumen a \"%s\"."
+msgstr "Không thể thay đổi trạng thái volume tới \"%s\"."
 
 msgid "Unable to update volume type."
-msgstr "No se ha podido actualizar el tipo de volumen."
+msgstr "Không thể thay đổi kiểu volume."
 
 msgid "Unable to update volume."
-msgstr "No se ha podido modificar el volumen."
+msgstr "Không thể thay đổi kiểu volume."
 
 msgid "Unable to upload object."
-msgstr "No se ha podido cargar el objeto."
+msgstr "Đối tượng không thể tải lên."
 
 #, python-format
 msgid "Unable to upload volume to image for volume: \"%s\""
-msgstr "No se ha podido cargar el volumen a la imagen para el volumen: \"%s\""
+msgstr "Không thể tải lên volume cho image của volume: \"%s\""
 
 msgid "Unit"
-msgstr "Unidad"
+msgstr "Unit"
 
 msgid "Unknown"
-msgstr "Desconocido"
+msgstr "Không xác định"
 
 msgid "Unknown instance"
-msgstr "Instancia desconocida"
+msgstr "Yêu cầu không được xác định"
 
 msgid "Unknown instance (None)"
-msgstr "Instancia desconocida (Ninguna)"
+msgstr "Không xác định được yêu cầu."
 
 msgid "Unlock Instance"
 msgid_plural "Unlock Instances"
-msgstr[0] "Desbloquear instancia"
-msgstr[1] "Desbloquear instancias"
+msgstr[0] "Mở khóa trường hợp"
+msgstr[1] "Mở khóa các trường hợp"
 
 msgid "Unlocked Instance"
 msgid_plural "Unlocked Instances"
-msgstr[0] "Instancia desbloqueada"
-msgstr[1] "Instancias desbloqueadas"
+msgstr[0] "Mở khóa trường hợp"
+msgstr[1] "Mở khóa các trường hợp"
 
 msgid "Unmanage"
-msgstr "Dejar de gestionar"
+msgstr "Bỏ quản lý"
 
 msgid "Unmanage Volume"
-msgstr "Dejar de gestionar volumen"
+msgstr "Bỏ quản lý volume"
 
 msgid "Unmanage a Volume"
-msgstr "Dejar de gestionar un volumen."
+msgstr "Bỏ quản lý một volume."
 
 msgctxt "Action log of an instance"
 msgid "Unpause"
-msgstr "Quitar la pausa"
+msgstr "Thôi tạm dừng"
 
 msgid "Unregister Identity Provider"
 msgid_plural "Unregister Identity Providers"
-msgstr[0] "Anular registro de proveedor de identidad"
-msgstr[1] "Anular registros de proveedores de identidad"
+msgstr[0] "Hủy đăng ký cung cấp định danh"
+msgstr[1] "Hủy đăng ký cung cấp định danh"
 
 msgid "Unregistered Identity Provider"
 msgid_plural "Unregistered Identity Providers"
-msgstr[0] "Proveedor de identidad con registro anulado"
-msgstr[1] "Proveedores de identidad con registro anulado"
+msgstr[0] "Hủy đăng ký cung cấp định danh"
+msgstr[1] "Hủy đăng ký cung cấp định danh"
 
 msgctxt "Task status of an Instance"
 msgid "Unrescuing"
@@ -10237,161 +10237,161 @@ msgstr "Cancelando rescate"
 
 msgid "Unselect the router(s) to be removed from firewall."
 msgstr ""
-"Desmarque el(los) direccionador(es) que se eliminará(n) del cortafuegos."
+"Bỏ chọn router(s) để loại bỏ từ firewall."
 
 msgid "Unselect the routers you want to disassociate from the firewall."
-msgstr "Desmarque los direccionadores que desea desasociar del cortafuegos."
+msgstr "Bỏ chọn routers bạn muốn để loại bỏ từ firewall."
 
 msgid "Unshelve Instance"
 msgid_plural "Unshelve Instances"
-msgstr[0] "Recuperar instancia aplazada"
-msgstr[1] "Recuperar instancias aplazadas"
+msgstr[0] "Truy xuất yêu cầu bị hoãn"
+msgstr[1] "Truy xuất các yêu cầu bị hoãn"
 
 msgid "Unshelved Instance"
 msgid_plural "Unshelved Instances"
-msgstr[0] "Instancia aplazada recuperada"
-msgstr[1] "Instancias aplazadas recuperadas"
+msgstr[0] "Truy xuất yêu cầu bị hoãn"
+msgstr[1] "Truy xuất các yêu cầu bị hoãn"
 
 msgctxt "Task status of an Instance"
 msgid "Unshelving"
-msgstr "Retomar  aplazado"
+msgstr "Truy xuất việc trì hoãn"
 
 msgid "Up"
-msgstr "Arriba"
+msgstr "Đầu trang"
 
 msgctxt "Current state of a Hypervisor"
 msgid "Up"
-msgstr "Arriba"
+msgstr "Đầu trang"
 
 msgid "Update"
-msgstr "Actualizar"
+msgstr "Thay đổi"
 
 msgid "Update Associations"
-msgstr "Actualizar asociaciones"
+msgstr "Thay đổi liên kết"
 
 msgctxt "current status of stack"
 msgid "Update Complete"
-msgstr "Actualizar completado"
+msgstr "Thực hiện thay đổi thành công."
 
 msgid "Update Default Quotas"
-msgstr "Actualizar cuotas predeterminadas"
+msgstr "Thay đổi hạn ngạch mặc định."
 
 msgid "Update Defaults"
-msgstr "Actualizar los valores predeterminados"
+msgstr "Thay đổi các mặc định."
 
 msgid "Update Encrypted Volume Type"
-msgstr "Actualizar tipo de volumen cifrado"
+msgstr "Thay đổi kiểu volume đã mã hóa."
 
 msgid "Update Encryption"
-msgstr "Actualizar cifrado"
+msgstr "Thay đổi mã hóa"
 
 msgctxt "current status of stack"
 msgid "Update Failed"
-msgstr "Actualizar fallido"
+msgstr "Thay đổi bị lỗi"
 
 msgid "Update Group"
-msgstr "Actualizar grupo"
+msgstr "Thay đổi group"
 
 msgid "Update Identity Provider"
-msgstr "Actualizar proveedor de identidad"
+msgstr "Thay đổi định danh nhà cung cấp."
 
 msgctxt "current status of stack"
 msgid "Update In Progress"
-msgstr "Actualizar en curso"
+msgstr "Đang thực hiện thay đổi."
 
 msgid "Update Mapping"
-msgstr "Actualizar correlación"
+msgstr "Cập nhật mapping"
 
 msgid "Update Metadata"
-msgstr "Actualizar metadatos"
+msgstr "Thay đổi Metadata"
 
 msgid "Update Network"
-msgstr "Actualizar red"
+msgstr "Thay đổi network"
 
 msgid "Update Object"
-msgstr "Actualizar objeto"
+msgstr "Cập nhật đối tượng"
 
 msgid "Update Port"
-msgstr "Actualizar puerto"
+msgstr "Thay đổi port"
 
 msgid "Update Role"
-msgstr "Actualizar rol"
+msgstr "Thay đổi role"
 
 msgid "Update Router"
-msgstr "Actualizar direccionador"
+msgstr "Thay đổi router"
 
 msgid "Update Stack"
-msgstr "Actualizar plantilla"
+msgstr "Thay đổi stack"
 
 msgid "Update Stack Parameters"
-msgstr "Actualizar los parámetros de la pila"
+msgstr "Thay đổi tham số của stack"
 
 msgid "Update Status"
-msgstr "Actualizar estado"
+msgstr "Thay đổi trạng thái"
 
 msgid "Update User"
-msgstr "Actualizar usuario"
+msgstr "Thay đổi người dùng"
 
 msgid "Update Volume Snapshot Status"
-msgstr "Actualizar estado de la instantánea de volumen"
+msgstr "Thay đổi trạng thái snapshot của volume"
 
 msgid "Update Volume Status"
-msgstr "Actualizar estado del volumen"
+msgstr "Thay đổi trạng thái volume"
 
 msgid "Update Volume Type Encryption"
-msgstr "Actualizar cifrado de tipo de volumen"
+msgstr "Thay đổi kiểu mã hóa volume"
 
 msgid ""
 "Update a stack with the provided values. Please note that any encrypted "
 "parameters, such as passwords, will be reset to default if you do not change "
 "them here."
 msgstr ""
-"Actualizar una pila con los valores proporcionados. Importante: cualquier "
-"parámetro cifrado, como contraseñas, se restablecerán a sus valores "
-"predeterminados si no los cambia aquí."
+"Cập nhật stack với giá trị được cung cấp. Vui lòng ghi lại bất kỳ"
+"các tham số được mã hóa như mật khẩu, sẽ được khôi phục lại mặc định "
+"nếu bạn không thực hiện thay đổi chúng ở đây."
 
 msgid ""
 "Update a subnet associated with the network. Advanced configuration are "
 "available at \"Subnet Details\" tab."
 msgstr ""
-"Actualiza una subred asociada con la red. Podrá consultar la configuración "
-"avanzada pulsando en la pestaña \"Detalles de la subred\""
+"Thay đổi một mạng con liên kết với mạng. Cấu hình nâng cao "
+"có thể thực hiện được tại \"Chi tiết mạng con\""
 
 msgid "Update an Encrypted Volume Type"
-msgstr "Actualizar un tipo de volumen cifrado"
+msgstr "Thay đổi một kiểu chó volume đã mã hóa"
 
 msgid "Update requests for this floating ip"
-msgstr "Actualizar solicitudes para esta IP flotante"
+msgstr "Thay đổi yêu cầu cho VIP"
 
 msgid "Update requests for this network"
-msgstr "Actualizar solicitudes para esta red"
+msgstr "Thay đổi yêu cầu cho mạng này"
 
 msgid "Update requests for this port"
-msgstr "Actualizar solicitudes para este puerto"
+msgstr "Thay đổi yêu cầu cho port này"
 
 msgid "Update requests for this router"
-msgstr "Actualizar solicitudes para este direccionador"
+msgstr "Thay đổi yêu cầu cho router này"
 
 msgid "Update requests for this subnet"
-msgstr "Actualizar solicitudes para esta subred"
+msgstr "Thay đổi yêu cầu cho mạng con này."
 
 #, python-format
 msgid "Update the \"extra spec\" value for \"%(key)s\""
-msgstr "Actualizar el valor de \"especificación adicional\" para \"%(key)s\""
+msgstr "Thay đổi giá trị \"đặc tả kỹ thuật\" cho \"%(key)s\""
 
 #, python-format
 msgid "Update the spec value for \"%(key)s\""
-msgstr "Actualizar el valor de la especificación para \"%(key)s\""
+msgstr "Thay đổi giá trị đặc tả cho \"%(key)s\""
 
 msgid "Updated"
-msgstr "Actualizado"
+msgstr "Đã thay đổi"
 
 msgid "Updated At"
-msgstr "Actualizado a las"
+msgstr "Đã thay đổi tại"
 
 #, python-format
 msgid "Updated subnet \"%s\"."
-msgstr "Subred \"%s\" actualizada."
+msgstr "Thay đổi cho mạng con \"%s\"."
 
 msgctxt "Task status of an Instance"
 msgid "Updating Password"
@@ -10401,164 +10401,164 @@ msgid ""
 "Updating encryption is not implemented.  Unable to update  encrypted volume "
 "type."
 msgstr ""
-"La función de actualizar el cifrado no está implementada. No se ha podido "
-"actualizar el tipo de volumen cifrado."
+"Thay đổi mã hóa không được thực hiện. Không thể thực hiện thay đổi kiểu mã hóa "
+"cho volume."
 
 #, python-format
 msgid "Updating volume \"%s\""
-msgstr "Actualizando el volumen \"%s\""
+msgstr "Đang cập nhật volume \"%s\""
 
 #, python-format
 msgid "Updating volume consistency group \"%s\""
-msgstr "Actualizando el grupo de consistencia de volumen \"%s\""
+msgstr "Đang cập nhập cho nhóm gộp volume \"%s\""
 
 #, python-format
 msgid "Updating volume snapshot \"%s\""
-msgstr "Actualizando instantánea de volumen \"%s\""
+msgstr "Đang thay đổi snapshot cho volume \"%s\""
 
 msgid "Upload"
-msgstr "Subir"
+msgstr "Tải lên"
 
 msgid "Upload Object"
-msgstr "Cargar objeto"
+msgstr "Tải lên đối tượng."
 
 #, python-format
 msgid "Upload Object To Container: %(container_name)s"
-msgstr "Subir objeto a contenedor: %(container_name)s"
+msgstr "Tải lên đối tượng tới container: %(container_name)s"
 
 msgid "Upload Objects"
-msgstr "Cargar objetos"
+msgstr "Tải lên các đối lượng"
 
 msgid "Upload Volume to Image"
-msgstr "Cargar un volumen a una imagen"
+msgstr "Tải lên volume tới image"
 
 msgid "Upload to Image"
-msgstr "Subir imagen"
+msgstr "Tải lên tới image"
 
 msgid "Uploaded image size"
-msgstr "Tamaño de la imagen cargada"
+msgstr "Đã tải lên kích thước image"
 
 msgid "Usage"
-msgstr "Uso"
+msgstr "Usage"
 
 msgid "Usage (Hours)"
-msgstr "Uso (horas)"
+msgstr "Usage (giờ)"
 
 msgid "Usage Overview"
-msgstr "Vista general de uso"
+msgstr "Tổng quan Usage"
 
 msgid "Usage Report"
-msgstr "Informe de uso"
+msgstr "Thống kê Usage"
 
 msgid "Usage Report For Period:"
-msgstr "Informe de uso para el periodo:"
+msgstr "Thông kê Usage cho giai đoạn:"
 
 msgid "Use Server Default"
-msgstr "Usar el valor predeterminado del servidor"
+msgstr "Sử dụng Server mặc định"
 
 msgid "Use a volume as source"
-msgstr "Usar un volumen como origen"
+msgstr "Sử dụng volume như một source"
 
 msgid "Use image as a source"
-msgstr "Utilizar una imagen como origen"
+msgstr "Sử dụng image như một source"
 
 msgid ""
 "Use one of the available template source options to specify the template to "
 "be used in creating this stack."
 msgstr ""
-"Utilice una las opciones de recurso de plantilla disponibles para "
-"especificar la plantilla que se utilizará al crear esta pila."
+"Sử dung một trong các bản mẫu source có sẵn để chỉ định cho bản mẫu "
+"sẽ được sử dụng để tạo stack này."
 
 msgid ""
 "Use one of the available template source options to specify the template to "
 "be used in previewing this stack."
 msgstr ""
-"Use una de las opciones de recurso de plantilla disponibles para especificar "
-"la plantilla que se va a usar en la pre-visualización de esta pila."
+"Sử dung một trong các bản mẫu source có sẵn để chỉ định cho bản mẫu"
+"sẽ được sử dụng để xem trước đối với stack này."
 
 msgid ""
 "Use one of these load balancing methods to distribute incoming requests:"
 msgstr ""
-"Utilice uno de estos métodos de equilibrio de carga para distribuir las "
-"solicitudes entrantes:"
+"Sử dụng một trong những những phương thức cân bằng tải để phân phối "
+"yêu cầu gửi đến:"
 
 msgid "Use snapshot as a source"
-msgstr "Utilizar una instantánea como origen"
+msgstr "Sử dụng snapshot như một source"
 
 #, python-format
 msgid "Used <span> %(used)s </span> of <span> %(available)s </span>"
-msgstr "<span> %(used)s </span> usado de <span> %(available)s </span>"
+msgstr "Đã dùng <span> %(used)s </span> của <span> %(available)s </span>"
 
 msgid "Used in Policy"
-msgstr "Usado en la política"
+msgstr "Sử dụng trong chính sách"
 
 msgid "User"
-msgstr "Usuario"
+msgstr "Người dùng"
 
 #, python-format
 msgid "User \"%s\" was successfully created."
-msgstr "El usuario \"%s\" se ha creado satisfactoriamente."
+msgstr "Người dùng \"%s\" đã được tạo thành công."
 
 #, python-format
 msgid "User %s has no role defined for that project."
-msgstr "El usuario %s no tiene roles definidos para ese proyecto."
+msgstr "Người dùng %s không có role khai báo cho project."
 
 msgid "User Credentials"
-msgstr "Credenciales de usuario"
+msgstr "Chứng nhận người dùng"
 
 msgid "User Credentials Details"
-msgstr "Detalles de las credenciales de usuario"
+msgstr "Chi tiết các chứng nhận người dùng"
 
 msgid "User Details"
-msgstr "Información detallada del usuario"
+msgstr "Thông tin về người dùng"
 
 msgid "User ID"
-msgstr "ID de usuario"
+msgstr "ID người dùng"
 
 msgid "User Name"
-msgstr "Usuario"
+msgstr "Tên người dùng"
 
 msgid "User Settings"
-msgstr "Ajustes de usuario"
+msgstr "Các thiết lập người dùng"
 
 msgid "User has been updated successfully."
-msgstr "El usuario se ha actualizado satisfactoriamente."
+msgstr "Thay đổi cho người dùng thành công."
 
 #, python-format
 msgid "User name \"%s\" is already used."
-msgstr "El nombre de usuario \"%s\" ya se utiliza."
+msgstr "Tên người dùng \"%s\" đã được sử dụng."
 
 msgid "User password has been updated successfully."
-msgstr "La contraseña de usuario se ha actualizado correctamente."
+msgstr "Mật khẩu người dùng đã được thay đổi thành công."
 
 msgid "User-defined unique id to identify the identity provider."
 msgstr ""
-"ID exclusivo definido por el usuario para identificar el proveedor de "
-"identidad."
+"ID được khai báo duy nhất để xác định nhà cung cấp "
+"định danh."
 
 msgid "User-defined unique id to identify the mapping."
-msgstr "ID exclusivo definido por el usuario para identificar la correlación."
+msgstr "ID đucợ khai báo duy nhất để định danh cho mapping."
 
 msgid "Users"
-msgstr "Usuarios"
+msgstr "Người dùng"
 
 msgid "VCPU"
 msgstr "VCPU"
 
 msgid "VCPU Hours"
-msgstr "Horas VCPU"
+msgstr "Giờ VCPU"
 
 msgid "VCPU Usage"
-msgstr "Uso de VCPU"
+msgstr "Usage VCPU"
 
 msgid "VCPUs"
 msgstr "VCPU"
 
 msgid "VCPUs (total)"
-msgstr "VCPU (total)"
+msgstr "VCPU (tối đa)"
 
 msgid "VCPUs (used)"
-msgstr "VCPU (usadas)"
+msgstr "VCPU (đã sử dụng)"
 
 msgid "VDI - Virtual Disk Image"
 msgstr "VDI - Virtual Disk Image"
@@ -10567,23 +10567,23 @@ msgid "VHD - Virtual Hard Disk"
 msgstr "VHD - Virtual Hard Disk"
 
 msgid "VIF Details"
-msgstr "Detalles VIF"
+msgstr "Chi tiết về VIF"
 
 msgid "VIF Type"
-msgstr "Tipo VIF"
+msgstr "Loại VIF"
 
 msgid "VIP"
 msgstr "VIP"
 
 #, python-format
 msgid "VIP %s was successfully updated."
-msgstr "La VIP %s se ha actualizado correctamente."
+msgstr "VIP %s đã được thay đổi thành công."
 
 msgid "VIP Details"
-msgstr "Detalles de VIP"
+msgstr "Chi tiết về VIP"
 
 msgid "VIP Subnet"
-msgstr "Subred de VIP"
+msgstr "Mạng con của VIP"
 
 msgid "VLAN"
 msgstr "VLAN"
@@ -10592,16 +10592,16 @@ msgid "VMDK - Virtual Machine Disk"
 msgstr "VMDK - Virtual Machine Disk"
 
 msgid "VNIC Type"
-msgstr "Tipo VNIC"
+msgstr "Kiểu VNIC"
 
 msgid "VPN"
 msgstr "VPN"
 
 msgid "VPN Connections"
-msgstr "Conexiones VPN"
+msgstr "Các kết nối VPN"
 
 msgid "VPN Service"
-msgstr "Servicio VPN"
+msgstr "Dịch vụ VPN"
 
 #, python-format
 msgid "VPN Service %s was successfully updated."
