@@ -2634,7 +2634,7 @@ Thêm role admin cho user swift trên project service
 - Lấy file cấu hình dịch vụ proxy từ kho lưu trữ Object storage.
 
 	```sh
-	curl -o /etc/swift/proxy-server.conf https://git.openstack.org/cgit/openstack/swift/plain/etc/proxy-server.conf-sample?h=stable/newton
+	curl -o /etc/swift/proxy-server.conf https://git.openstack.org/cgit/openstack/swift/plain/etc/proxy-server.conf-sample?h=stable/pike
 	```
 	
 - Sửa file `/etc/swift/proxy-server.conf`.
@@ -3098,7 +3098,7 @@ Trong [DEFAULT] section, cấu hình địa chỉ bind IP, bind port, user, cấ
 
   ```sh
   curl -o /etc/swift/swift.conf \
-  https://git.openstack.org/cgit/openstack/swift/plain/etc/swift.conf-sample?h=stable/newton
+  https://git.openstack.org/cgit/openstack/swift/plain/etc/swift.conf-sample?h=stable/pike
   ```
   
 - 2. Sửa file `/etc/swift/swift.conf`
